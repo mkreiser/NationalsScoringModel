@@ -20,7 +20,7 @@ def scoreByPureAverage(resultList, filename):
     # Get the point scale
     pointScale = helpers.getPointScale()
 
-    textOutput.write('\n-----------------------------' + event + '-----------------------------\n')
+    textOutput.write('\n-----------------------------' + event + '-----------------------------\n\n')
 
     keyArray = ['Position']
     if ('name' in sortedEventArray[0]):
