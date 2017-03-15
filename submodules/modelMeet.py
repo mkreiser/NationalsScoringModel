@@ -15,7 +15,7 @@ def modelMeet(resultList, filename, runs):
     eventScoreAgg = []
     eventAthleteAgg = []
 
-    print('Running event: ', eventName)
+    print('Running event: ', eventName, ' (' + str(time.time() - modelMeetTime) + ')')
 
     if (len(resultList[eventName])):
       eventTopTime = sorted(copy.deepcopy(resultList[eventName]), key=itemgetter('calculatedTime'), reverse=(eventName in helpers.getDistanceEvents()))[0]['calculatedTime']
@@ -83,22 +83,28 @@ def modelMeet(resultList, filename, runs):
     for singleEventAthletes in eventAthleteAgg:
       for athlete, points in singleEventAthletes.items():
         if (athlete in eventTotalAthleteScore):
-          eventTotalAthleteScore[athlete] += points
+          eventTotalAthleteScore[athlete]['points'] += points
+          eventTotalAthleteScore[athlete]['count'] += 1
           eventAthleteStdDev[athlete].append(points)
         else:
-          eventTotalAthleteScore[athlete] = points
+          eventTotalAthleteScore[athlete] = {
+            'points': points,
+            'count': 1
+          }
           eventAthleteStdDev[athlete] = [points]
 
     eventAthleteSummary = {}
     for athlete, data in eventTotalAthleteScore.items():
       if (len(eventAthleteStdDev[athlete]) > 1):
         eventAthleteSummary[athlete] = {
-          'average': eventTotalAthleteScore[athlete] / runs,
+          'average': eventTotalAthleteScore[athlete]['points'] / runs,
+          'inScoring': str((eventTotalAthleteScore[athlete]['count'] / runs) * 100) + '%',
           'stddev': statistics.stdev(eventAthleteStdDev[athlete])
         }
       else:
         eventAthleteSummary[athlete] = {
-          'average': eventTotalAthleteScore[athlete] / runs,
+          'average': eventTotalAthleteScore[athlete]['points'] / runs,
+          'inScoring': str((eventTotalAthleteScore[athlete]['count'] / runs) * 100) + '%',
           'stddev': 0
         }
 

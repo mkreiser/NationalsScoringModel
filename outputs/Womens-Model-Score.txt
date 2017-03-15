@@ -1,601 +1,624 @@
 
 100m:
 
-Becky H $ ILL: {'stddev': 2.3773008929805455, 'average': 7.542}
-Audrey R $ IU: {'stddev': 2.3379473843929923, 'average': 6.453}
-Madison H $ IwSt: {'stddev': 2.343421158037383, 'average': 5.146}
-Kellie L $ Iowa: {'stddev': 2.4331248165307064, 'average': 4.608}
-Devin M $ PSU: {'stddev': 2.103608453291671, 'average': 3.258}
-Brittany G $ Delaware: {'stddev': 2.1750211213693773, 'average': 3.024}
-Melanie S $ MSU: {'stddev': 2.161365908557266, 'average': 2.784}
-Daisy O $ OSU: {'stddev': 1.9287324017817795, 'average': 2.335}
-Borchueh W $ GTWN: {'stddev': 1.9881935317819677, 'average': 2.082}
-Laura C $ Wisc: {'stddev': 1.8591163942574684, 'average': 1.432}
-Kati P $ PSU: {'stddev': 1.7684007836674485, 'average': 1.352}
-Chynelle W $ Drexel: {'stddev': 1.8864440659196942, 'average': 1.29}
-Mary M $ MSU: {'stddev': 1.7431697808467097, 'average': 1.223}
-Erica S $ Mich: {'stddev': 1.71714972541797, 'average': 1.086}
-Emma D $ OSU: {'stddev': 1.4411567011728188, 'average': 0.839}
-Tiffany H $ Maryland: {'stddev': 1.4176925677835688, 'average': 0.435}
-Yasi M $ IwSt: {'stddev': 1.1665452370551614, 'average': 0.361}
-Keely K $ Iowa: {'stddev': 1.211460762076722, 'average': 0.207}
-Abigail Z $ UConn: {'stddev': 1.1676486044196959, 'average': 0.127}
-Mary P $ PSU: {'stddev': 1.0185774393731681, 'average': 0.117}
-Tammy B $ Toledo: {'stddev': 1.2920960471737197, 'average': 0.085}
-Lindsey J $ Minn: {'stddev': 0.7254762501100116, 'average': 0.056}
-Jada H $ IU: {'stddev': 0.753778361444409, 'average': 0.048}
-Colleen B $ BGSU: {'stddev': 0.7302967433402214, 'average': 0.044}
-Stephanie S $ UConn: {'stddev': 0.5878675320972554, 'average': 0.022}
-Anne L $ IwSt: {'stddev': 0.9660917830792959, 'average': 0.016}
-Jenna J $ Delaware: {'stddev': 0.5477225575051661, 'average': 0.007}
-Lauren G $ ILL: {'stddev': 1.5, 'average': 0.007}
-Tammy BB $ Toledo: {'stddev': 0.0, 'average': 0.005}
-Kassie K $ ILL: {'stddev': 0.5773502691896257, 'average': 0.005}
-Kayla S $ IU: {'stddev': 0.0, 'average': 0.004}
+1.)  Becky H $ ILL: {'average': 7.3813, 'stddev': 2.5060917381897534, 'inScoring': 0.9153}
+2.)  Audrey R $ IU: {'average': 6.3221, 'stddev': 2.4850466844893555, 'inScoring': 0.8606}
+3.)  Madison H $ IwSt: {'average': 5.0685, 'stddev': 2.42866826955295, 'inScoring': 0.7785}
+4.)  Kellie L $ Iowa: {'average': 4.6703, 'stddev': 2.415940129887955, 'inScoring': 0.7402}
+5.)  Devin M $ PSU: {'average': 3.4556, 'stddev': 2.177168100163911, 'inScoring': 0.6431}
+6.)  Brittany G $ Delaware: {'average': 3.0579, 'stddev': 2.1606153701043724, 'inScoring': 0.6023}
+7.)  Melanie S $ MSU: {'average': 2.848, 'stddev': 2.153638976405045, 'inScoring': 0.5834}
+8.)  Daisy O $ OSU: {'average': 2.4209, 'stddev': 2.072437943201182, 'inScoring': 0.534}
+9.)  Borchueh W $ GTWN: {'average': 1.9707, 'stddev': 2.009643608270429, 'inScoring': 0.4766}
+10.) Laura C $ Wisc: {'average': 1.5046, 'stddev': 1.8445976799773365, 'inScoring': 0.4103}
+11.) Kati P $ PSU: {'average': 1.381, 'stddev': 1.8014870550316153, 'inScoring': 0.3855}
+12.) Chynelle W $ Drexel: {'average': 1.3378, 'stddev': 1.7825986266616296, 'inScoring': 0.3808}
+13.) Mary M $ MSU: {'average': 1.1991, 'stddev': 1.7855839138074092, 'inScoring': 0.3521}
+14.) Erica S $ Mich: {'average': 1.0126, 'stddev': 1.6368441162245875, 'inScoring': 0.3225}
+15.) Emma D $ OSU: {'average': 0.7453, 'stddev': 1.53381723508441, 'inScoring': 0.2613}
+16.) Tiffany H $ Maryland: {'average': 0.4762, 'stddev': 1.3992429116164584, 'inScoring': 0.1882}
+17.) Yasi M $ IwSt: {'average': 0.4115, 'stddev': 1.3435122083337243, 'inScoring': 0.1675}
+18.) Keely K $ Iowa: {'average': 0.2004, 'stddev': 1.1752927080189777, 'inScoring': 0.0958}
+19.) Mary P $ PSU: {'average': 0.1214, 'stddev': 1.0078771857339532, 'inScoring': 0.0656}
+20.) Abigail Z $ UConn: {'average': 0.1188, 'stddev': 1.0932157800754252, 'inScoring': 0.0603}
+21.) Lindsey J $ Minn: {'average': 0.0737, 'stddev': 0.9547030846637771, 'inScoring': 0.0421}
+22.) Tammy B $ Toledo: {'average': 0.0658, 'stddev': 0.918278497324994, 'inScoring': 0.0368}
+23.) Jada H $ IU: {'average': 0.05, 'stddev': 0.9613225483816111, 'inScoring': 0.0283}
+24.) Colleen B $ BGSU: {'average': 0.0488, 'stddev': 0.9624159320400023, 'inScoring': 0.0297}
+25.) Stephanie S $ UConn: {'average': 0.0304, 'stddev': 0.7860638582996681, 'inScoring': 0.0196}
+26.) Anne L $ IwSt: {'average': 0.0093, 'stddev': 0.8320894671583893, 'inScoring': 0.006}
+27.) Tammy BB $ Toledo: {'average': 0.0044, 'stddev': 0.9494618646961632, 'inScoring': 0.0029}
+28.) Lauren G $ ILL: {'average': 0.0041, 'stddev': 0.6686751354593717, 'inScoring': 0.003}
+29.) Kassie K $ ILL: {'average': 0.004, 'stddev': 0.43994134506405985, 'inScoring': 0.0032}
+30.) Jenna J $ Delaware: {'average': 0.0032, 'stddev': 0.3958473906635696, 'inScoring': 0.0027}
+31.) Kayla S $ IU: {'average': 0.0011, 'stddev': 0.5345224838248488, 'inScoring': 0.0007}
+32.) Ada P $ JMU: {'average': 0.001, 'stddev': 0.33333333333333337, 'inScoring': 0.0009}
+33.) Jessica R $ Wisc: {'average': 0.0002, 'stddev': 0.0, 'inScoring': 0.0002}
 
-ILL: {'stddev': 2.388455187033751, 'average': 7.554}
-IU: {'stddev': 2.3782211564222133, 'average': 6.505}
-IwSt: {'stddev': 2.7406994839154915, 'average': 5.523}
-Iowa: {'stddev': 2.6498220742268677, 'average': 4.815}
-PSU: {'stddev': 3.093507843498754, 'average': 4.727}
-MSU: {'stddev': 2.7912574916982162, 'average': 4.007}
-OSU: {'stddev': 2.3338193962789897, 'average': 3.174}
-Delaware: {'stddev': 2.1888435901745558, 'average': 3.031}
-GTWN: {'stddev': 1.9881935317819677, 'average': 2.082}
-Wisc: {'stddev': 1.8591163942574684, 'average': 1.432}
-Drexel: {'stddev': 1.8864440659196942, 'average': 1.29}
-Mich: {'stddev': 1.71714972541797, 'average': 1.086}
-Maryland: {'stddev': 1.4176925677835688, 'average': 0.435}
-UConn: {'stddev': 1.2484859846386762, 'average': 0.149}
-Toledo: {'stddev': 1.2792042981336627, 'average': 0.09}
-Minn: {'stddev': 0.7254762501100116, 'average': 0.056}
-BGSU: {'stddev': 0.7302967433402214, 'average': 0.044}
+1.)  ILL: {'average': 7.3894, 'stddev': 2.5104387834125568}
+2.)  IU: {'average': 6.3732, 'stddev': 2.534361248348163}
+3.)  IwSt: {'average': 5.4893, 'stddev': 2.772714500863685}
+4.)  PSU: {'average': 4.958, 'stddev': 3.1058989587690915}
+5.)  Iowa: {'average': 4.8707, 'stddev': 2.620464865946821}
+6.)  MSU: {'average': 4.0471, 'stddev': 2.806988171865687}
+7.)  OSU: {'average': 3.1662, 'stddev': 2.5248614727583623}
+8.)  Delaware: {'average': 3.0611, 'stddev': 2.1683179445576597}
+9.)  GTWN: {'average': 1.9707, 'stddev': 2.009643608270429}
+10.) Wisc: {'average': 1.5048, 'stddev': 1.845087332208439}
+11.) Drexel: {'average': 1.3378, 'stddev': 1.7825986266616296}
+12.) Mich: {'average': 1.0126, 'stddev': 1.6368441162245875}
+13.) Maryland: {'average': 0.4762, 'stddev': 1.3992429116164584}
+14.) UConn: {'average': 0.1492, 'stddev': 1.1163841187633878}
+15.) Minn: {'average': 0.0737, 'stddev': 0.9547030846637771}
+16.) Toledo: {'average': 0.0702, 'stddev': 0.9349325238401777}
+17.) BGSU: {'average': 0.0488, 'stddev': 0.9624159320400023}
+18.) JMU: {'average': 0.001, 'stddev': 0.33333333333333337}
 
 200m:
 
-Becky H $ ILL: {'stddev': 2.2966728586671414, 'average': 7.913}
-Rachel P $ PSU: {'stddev': 2.2637735358640465, 'average': 6.823}
-Audrey R $ IU: {'stddev': 2.3704054431586585, 'average': 5.457}
-Morgan W $ OSU: {'stddev': 2.255973689229811, 'average': 3.877}
-Brittany G $ Delaware: {'stddev': 2.1071622658065805, 'average': 3.634}
-Hanna D $ Wisc: {'stddev': 1.9152902178706959, 'average': 2.661}
-Kellie L $ Iowa: {'stddev': 1.981309480313441, 'average': 2.481}
-Borchueh W $ GTWN: {'stddev': 2.0058082876910537, 'average': 2.477}
-Tess L $ JMU: {'stddev': 1.9059000505317136, 'average': 2.451}
-Jill B $ PSU: {'stddev': 1.6930794007201366, 'average': 1.408}
-Madison S $ Iowa: {'stddev': 1.672850114424628, 'average': 1.089}
-Liz K $ Minn: {'stddev': 1.593158318061011, 'average': 0.79}
-Katie C $ JMU: {'stddev': 1.4937959347985645, 'average': 0.759}
-Laura C $ Wisc: {'stddev': 1.334857990442601, 'average': 0.614}
-Lindsey J $ Minn: {'stddev': 1.613584737223051, 'average': 0.595}
-Jada H $ IU: {'stddev': 1.4842227812787279, 'average': 0.573}
-Erica S $ Mich: {'stddev': 1.4316603195401392, 'average': 0.531}
-Emma D $ OSU: {'stddev': 1.5394327119270466, 'average': 0.419}
-Sarah C $ Mich: {'stddev': 1.3793783251009817, 'average': 0.375}
-Mary M $ MSU: {'stddev': 1.360560850463723, 'average': 0.374}
-Chynelle W $ Drexel: {'stddev': 1.3058055770780752, 'average': 0.173}
-Gabrielle L $ Mich: {'stddev': 1.1285696557089928, 'average': 0.169}
-Abigail Z $ UConn: {'stddev': 1.0882810889928787, 'average': 0.151}
-Kassie K $ ILL: {'stddev': 0.8533241613762846, 'average': 0.088}
-Krista C $ Delaware: {'stddev': 0.9696480760071398, 'average': 0.039}
-Melanie S $ MSU: {'stddev': 0.985184366143778, 'average': 0.033}
-Hailey W $ Minn: {'stddev': 0.6191391873668903, 'average': 0.026}
-Sylvia O $ GTWN: {'stddev': 0.5345224838248488, 'average': 0.01}
-Daisy O $ OSU: {'stddev': 0.0, 'average': 0.005}
-Maia H $ PSU: {'stddev': 0.7071067811865476, 'average': 0.005}
+1.)  Becky H $ ILL: {'average': 7.9133, 'stddev': 2.2816908927322253, 'inScoring': 0.9512}
+2.)  Rachel P $ PSU: {'average': 6.8174, 'stddev': 2.3117942864713448, 'inScoring': 0.8988}
+3.)  Audrey R $ IU: {'average': 5.5155, 'stddev': 2.312559540738151, 'inScoring': 0.8093}
+4.)  Morgan W $ OSU: {'average': 3.8531, 'stddev': 2.1924889737850872, 'inScoring': 0.6739}
+5.)  Brittany G $ Delaware: {'average': 3.6997, 'stddev': 2.09137773726188, 'inScoring': 0.6531}
+6.)  Hanna D $ Wisc: {'average': 2.6498, 'stddev': 2.0087222603332227, 'inScoring': 0.5499}
+7.)  Tess L $ JMU: {'average': 2.5347, 'stddev': 1.9688582042481215, 'inScoring': 0.5343}
+8.)  Borchueh W $ GTWN: {'average': 2.4039, 'stddev': 1.9561408997416416, 'inScoring': 0.5246}
+9.)  Kellie L $ Iowa: {'average': 2.3817, 'stddev': 1.943861425142326, 'inScoring': 0.5273}
+10.) Jill B $ PSU: {'average': 1.3541, 'stddev': 1.7508955135138413, 'inScoring': 0.3756}
+11.) Madison S $ Iowa: {'average': 1.2479, 'stddev': 1.7817427409201971, 'inScoring': 0.3545}
+12.) Katie C $ JMU: {'average': 0.7696, 'stddev': 1.518683614695817, 'inScoring': 0.2575}
+13.) Liz K $ Minn: {'average': 0.708, 'stddev': 1.554002766845233, 'inScoring': 0.243}
+14.) Laura C $ Wisc: {'average': 0.6561, 'stddev': 1.525229614590983, 'inScoring': 0.2304}
+15.) Lindsey J $ Minn: {'average': 0.6359, 'stddev': 1.5046886701705007, 'inScoring': 0.226}
+16.) Jada H $ IU: {'average': 0.6288, 'stddev': 1.480735345401178, 'inScoring': 0.2264}
+17.) Erica S $ Mich: {'average': 0.4804, 'stddev': 1.4133571504798936, 'inScoring': 0.1814}
+18.) Emma D $ OSU: {'average': 0.4415, 'stddev': 1.3675968418502311, 'inScoring': 0.1765}
+19.) Mary M $ MSU: {'average': 0.39, 'stddev': 1.35301909813684, 'inScoring': 0.156}
+20.) Sarah C $ Mich: {'average': 0.318, 'stddev': 1.282696077752709, 'inScoring': 0.1329}
+21.) Chynelle W $ Drexel: {'average': 0.1598, 'stddev': 1.1316373032582294, 'inScoring': 0.0791}
+22.) Gabrielle L $ Mich: {'average': 0.1508, 'stddev': 1.1404775573613102, 'inScoring': 0.0773}
+23.) Abigail Z $ UConn: {'average': 0.1107, 'stddev': 1.0357581914017868, 'inScoring': 0.0575}
+24.) Kassie K $ ILL: {'average': 0.0938, 'stddev': 1.0809541982240638, 'inScoring': 0.0488}
+25.) Krista C $ Delaware: {'average': 0.026, 'stddev': 0.7989025989633303, 'inScoring': 0.0159}
+26.) Melanie S $ MSU: {'average': 0.0243, 'stddev': 0.8227362885058688, 'inScoring': 0.0154}
+27.) Hailey W $ Minn: {'average': 0.0225, 'stddev': 0.820148526307703, 'inScoring': 0.0138}
+28.) Sylvia O $ GTWN: {'average': 0.0052, 'stddev': 0.46589082794780523, 'inScoring': 0.0043}
+29.) Daisy O $ OSU: {'average': 0.0051, 'stddev': 0.6628679652796169, 'inScoring': 0.0034}
+30.) Maia H $ PSU: {'average': 0.0014, 'stddev': 0.5773502691896257, 'inScoring': 0.0012}
+31.) Keely K $ Iowa: {'average': 0.0006, 'stddev': 0.4472135954999579, 'inScoring': 0.0005}
+32.) Rebecca L $ WVU: {'average': 0.0003, 'stddev': 0, 'inScoring': 0.0001}
+33.) Jordyn R $ Wisc: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
 
-PSU: {'stddev': 3.0885277998464122, 'average': 8.236}
-ILL: {'stddev': 2.3779512657143465, 'average': 8.001}
-IU: {'stddev': 2.7888878813966786, 'average': 6.03}
-OSU: {'stddev': 2.5229521113809987, 'average': 4.301}
-Delaware: {'stddev': 2.179515592192747, 'average': 3.673}
-Iowa: {'stddev': 2.5871274302374756, 'average': 3.57}
-Wisc: {'stddev': 2.364000758800854, 'average': 3.275}
-JMU: {'stddev': 2.4089223255739705, 'average': 3.21}
-GTWN: {'stddev': 2.034545238635936, 'average': 2.487}
-Minn: {'stddev': 2.057926843471789, 'average': 1.411}
-Mich: {'stddev': 1.7157166643023214, 'average': 1.075}
-MSU: {'stddev': 1.3425198570528196, 'average': 0.407}
-Drexel: {'stddev': 1.3058055770780752, 'average': 0.173}
-UConn: {'stddev': 1.0882810889928787, 'average': 0.151}
+1.)  PSU: {'average': 8.1729, 'stddev': 3.1715671068747615}
+2.)  ILL: {'average': 8.0071, 'stddev': 2.356332364773748}
+3.)  IU: {'average': 6.1443, 'stddev': 2.823826656316269}
+4.)  OSU: {'average': 4.2997, 'stddev': 2.570777862390236}
+5.)  Delaware: {'average': 3.7257, 'stddev': 2.143231075226294}
+6.)  Iowa: {'average': 3.6302, 'stddev': 2.6905128879812605}
+7.)  Wisc: {'average': 3.306, 'stddev': 2.513663598006042}
+8.)  JMU: {'average': 3.3043, 'stddev': 2.492009562006354}
+9.)  GTWN: {'average': 2.4091, 'stddev': 1.9665895587520676}
+10.) Minn: {'average': 1.3664, 'stddev': 1.9021258252869822}
+11.) Mich: {'average': 0.9492, 'stddev': 1.7057819782952433}
+12.) MSU: {'average': 0.4143, 'stddev': 1.3620079922359207}
+13.) Drexel: {'average': 0.1598, 'stddev': 1.1316373032582294}
+14.) UConn: {'average': 0.1107, 'stddev': 1.0357581914017868}
+15.) WVU: {'average': 0.0003, 'stddev': 0}
 
 400m:
 
-Becky H $ ILL: {'stddev': 2.3124959837232746, 'average': 7.967}
-Emma D $ OSU: {'stddev': 2.379415530469169, 'average': 6.645}
-Hanna D $ Wisc: {'stddev': 2.328222016323008, 'average': 5.346}
-Gabrielle L $ Mich: {'stddev': 2.215776995300802, 'average': 4.868}
-Madison S $ Iowa: {'stddev': 2.2420955519408365, 'average': 4.373}
-Meghan R $ PSU: {'stddev': 1.9615056605393688, 'average': 2.459}
-Mary E $ UVA: {'stddev': 1.939113961301864, 'average': 2.283}
-Alexandria C $ Mich: {'stddev': 2.0556984069148934, 'average': 2.035}
-Jill B $ PSU: {'stddev': 1.7945187992913045, 'average': 1.855}
-Sarah W $ PSU: {'stddev': 1.804876513425018, 'average': 1.788}
-Sarah C $ Mich: {'stddev': 1.7510920381908255, 'average': 1.405}
-Haley Y $ Mich: {'stddev': 1.782607200419258, 'average': 1.302}
-Katilyn W $ WVU: {'stddev': 1.5820086138350387, 'average': 1.025}
-Alyssa S $ Iowa: {'stddev': 1.4511259163132852, 'average': 0.885}
-Gina P $ MSU: {'stddev': 1.4392891678962674, 'average': 0.671}
-Monica M $ PSU: {'stddev': 1.254223693373154, 'average': 0.517}
-Maeghan E $ IwSt: {'stddev': 0.9591211706105855, 'average': 0.143}
-Krista C $ Delaware: {'stddev': 1.0581674299746495, 'average': 0.126}
-Amy B $ PSU: {'stddev': 1.0079014756489766, 'average': 0.112}
-Olivia C $ Mich: {'stddev': 0.9822921964383478, 'average': 0.094}
-Rita C $ PSU: {'stddev': 0.7929274854329681, 'average': 0.054}
-Paige A $ BGSU: {'stddev': 0.5940885257860046, 'average': 0.024}
-Colleen H $ OSU: {'stddev': 0.6875516509523286, 'average': 0.017}
-Abby R $ ILL: {'stddev': 0.5773502691896257, 'average': 0.004}
-Madi G $ IU: {'stddev': 0, 'average': 0.002}
+1.)  Becky H $ ILL: {'average': 8.0662, 'stddev': 2.2788138047862296, 'inScoring': 0.9655}
+2.)  Emma D $ OSU: {'average': 6.4607, 'stddev': 2.463810283462038, 'inScoring': 0.889}
+3.)  Hanna D $ Wisc: {'average': 5.3967, 'stddev': 2.2749728450490863, 'inScoring': 0.8338}
+4.)  Gabrielle L $ Mich: {'average': 4.8448, 'stddev': 2.31839421037341, 'inScoring': 0.7761}
+5.)  Madison S $ Iowa: {'average': 4.3642, 'stddev': 2.2009613728444095, 'inScoring': 0.7509}
+6.)  Meghan R $ PSU: {'average': 2.379, 'stddev': 1.9800909443706376, 'inScoring': 0.5458}
+7.)  Mary E $ UVA: {'average': 2.3394, 'stddev': 1.9617334376995783, 'inScoring': 0.5372}
+8.)  Alexandria C $ Mich: {'average': 2.0818, 'stddev': 1.9318049297202486, 'inScoring': 0.5099}
+9.)  Jill B $ PSU: {'average': 1.8543, 'stddev': 1.8590060618315045, 'inScoring': 0.4832}
+10.) Sarah W $ PSU: {'average': 1.6576, 'stddev': 1.7889374282938852, 'inScoring': 0.4508}
+11.) Haley Y $ Mich: {'average': 1.426, 'stddev': 1.7609346773661065, 'inScoring': 0.4112}
+12.) Sarah C $ Mich: {'average': 1.4199, 'stddev': 1.7430972202023032, 'inScoring': 0.4083}
+13.) Katilyn W $ WVU: {'average': 1.0208, 'stddev': 1.598065167886746, 'inScoring': 0.3353}
+14.) Alyssa S $ Iowa: {'average': 0.8533, 'stddev': 1.519426061616332, 'inScoring': 0.2893}
+15.) Gina P $ MSU: {'average': 0.6879, 'stddev': 1.4770763592093403, 'inScoring': 0.2555}
+16.) Monica M $ PSU: {'average': 0.5722, 'stddev': 1.3413719906069546, 'inScoring': 0.2305}
+17.) Krista C $ Delaware: {'average': 0.1493, 'stddev': 0.9975326800007154, 'inScoring': 0.0821}
+18.) Maeghan E $ IwSt: {'average': 0.1177, 'stddev': 1.0070887533888102, 'inScoring': 0.0652}
+19.) Amy B $ PSU: {'average': 0.1109, 'stddev': 1.0111131313704365, 'inScoring': 0.0598}
+20.) Olivia C $ Mich: {'average': 0.0898, 'stddev': 0.9314942433927685, 'inScoring': 0.0514}
+21.) Rita C $ PSU: {'average': 0.0513, 'stddev': 0.8400558432774492, 'inScoring': 0.0314}
+22.) Paige A $ BGSU: {'average': 0.0393, 'stddev': 0.7779950939086514, 'inScoring': 0.0253}
+23.) Colleen H $ OSU: {'average': 0.0138, 'stddev': 0.6930102148559838, 'inScoring': 0.0096}
+24.) Madi G $ IU: {'average': 0.001, 'stddev': 0.0, 'inScoring': 0.001}
+25.) Abby R $ ILL: {'average': 0.0009, 'stddev': 0.7559289460184544, 'inScoring': 0.0007}
+26.) Stephanie B $ MSU: {'average': 0.0006, 'stddev': 0.0, 'inScoring': 0.0006}
+27.) Shannon MacM $ Maryland: {'average': 0.0005, 'stddev': 0.0, 'inScoring': 0.0005}
+28.) Shayna H $ OSU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
 
-Mich: {'stddev': 4.122215188978754, 'average': 9.628}
-ILL: {'stddev': 2.3134073135019406, 'average': 7.971}
-PSU: {'stddev': 3.574484780286584, 'average': 6.754}
-OSU: {'stddev': 2.393868559956701, 'average': 6.662}
-Wisc: {'stddev': 2.328222016323008, 'average': 5.346}
-Iowa: {'stddev': 2.9385916877535405, 'average': 5.258}
-UVA: {'stddev': 1.939113961301864, 'average': 2.283}
-WVU: {'stddev': 1.5820086138350387, 'average': 1.025}
-MSU: {'stddev': 1.4392891678962674, 'average': 0.671}
-IwSt: {'stddev': 0.9591211706105855, 'average': 0.143}
-Delaware: {'stddev': 1.0581674299746495, 'average': 0.126}
-BGSU: {'stddev': 0.5940885257860046, 'average': 0.024}
-IU: {'stddev': 0, 'average': 0.002}
+1.)  Mich: {'average': 9.7784, 'stddev': 4.187789880293207}
+2.)  ILL: {'average': 8.0671, 'stddev': 2.279054975452787}
+3.)  PSU: {'average': 6.5949, 'stddev': 3.61074336574855}
+4.)  OSU: {'average': 6.4746, 'stddev': 2.4773962311316584}
+5.)  Wisc: {'average': 5.3967, 'stddev': 2.2749728450490863}
+6.)  Iowa: {'average': 5.2175, 'stddev': 2.795531045131214}
+7.)  UVA: {'average': 2.3394, 'stddev': 1.9617334376995783}
+8.)  WVU: {'average': 1.0208, 'stddev': 1.598065167886746}
+9.)  MSU: {'average': 0.6885, 'stddev': 1.4774738475034552}
+10.) Delaware: {'average': 0.1493, 'stddev': 0.9975326800007154}
+11.) IwSt: {'average': 0.1177, 'stddev': 1.0070887533888102}
+12.) BGSU: {'average': 0.0393, 'stddev': 0.7779950939086514}
+13.) IU: {'average': 0.001, 'stddev': 0.0}
+14.) Maryland: {'average': 0.0005, 'stddev': 0.0}
 
 800m:
 
-Madeleine P $ Wisc: {'stddev': 2.0823275595016333, 'average': 8.128}
-Hanna D $ Wisc: {'stddev': 2.288637170199641, 'average': 7.106}
-Erin Z $ MSU: {'stddev': 2.2596298371152157, 'average': 5.46}
-Emily M $ PSU: {'stddev': 2.200804829157218, 'average': 4.868}
-Gabriella R $ Wisc: {'stddev': 2.0999131353680203, 'average': 4.445}
-Emma D $ OSU: {'stddev': 2.0149798941070145, 'average': 3.46}
-Meghan G $ GTWN: {'stddev': 1.888972940825512, 'average': 2.777}
-Nicole M $ MSU: {'stddev': 1.72235840102424, 'average': 1.729}
-Maddie P $ Minn: {'stddev': 1.6556551329215417, 'average': 1.615}
-Lauren McG $ MSU: {'stddev': 1.752004552999358, 'average': 1.524}
-Gabriella R $ Mich: {'stddev': 1.6022879680860327, 'average': 1.287}
-Sara K $ Wisc: {'stddev': 1.398546552696427, 'average': 0.774}
-Molly M $ Mich: {'stddev': 1.3503095546937316, 'average': 0.751}
-Sarah A $ MSU: {'stddev': 1.43937225780066, 'average': 0.675}
-Meghan R $ PSU: {'stddev': 1.350739891614704, 'average': 0.454}
-Amanda M $ MSU: {'stddev': 1.1140112930036317, 'average': 0.217}
-Katlyn A $ IwSt: {'stddev': 0.9959006887326576, 'average': 0.191}
-Cassie H $ Mich: {'stddev': 1.015248102383947, 'average': 0.128}
-Bailey M $ MSU: {'stddev': 1.01916165361069, 'average': 0.122}
-Holly S $ IwSt: {'stddev': 0.9005275055564727, 'average': 0.091}
-Katrina H $ Maryland: {'stddev': 0.6954244905000938, 'average': 0.069}
-Francesca R $ OSU: {'stddev': 0.8866830868758715, 'average': 0.054}
-Tessa D $ OSU: {'stddev': 1.049499535665604, 'average': 0.04}
-Allyx K $ Minn: {'stddev': 0.5940885257860046, 'average': 0.024}
-Darien K $ PSU: {'stddev': 0.0, 'average': 0.003}
-Nicole L $ Delaware: {'stddev': 0.0, 'average': 0.003}
-Michelle K $ PSU: {'stddev': 0.7071067811865476, 'average': 0.003}
-Hailey B $ PSU: {'stddev': 0, 'average': 0.001}
-Zoe P $ Wisc: {'stddev': 0, 'average': 0.001}
+1.)  Madeleine P $ Wisc: {'average': 8.1628, 'stddev': 2.130442135400649, 'inScoring': 0.9737}
+2.)  Hanna D $ Wisc: {'average': 7.1972, 'stddev': 2.3094786886451883, 'inScoring': 0.9549}
+3.)  Erin Z $ MSU: {'average': 5.446, 'stddev': 2.1768297490502375, 'inScoring': 0.8593}
+4.)  Emily M $ PSU: {'average': 4.9586, 'stddev': 2.188727885853513, 'inScoring': 0.8149}
+5.)  Gabriella R $ Wisc: {'average': 4.2182, 'stddev': 2.0895832594536787, 'inScoring': 0.7536}
+6.)  Emma D $ OSU: {'average': 3.4947, 'stddev': 1.9902854847346718, 'inScoring': 0.6915}
+7.)  Meghan G $ GTWN: {'average': 2.7382, 'stddev': 1.9046484773783237, 'inScoring': 0.6106}
+8.)  Nicole M $ MSU: {'average': 1.7426, 'stddev': 1.7371362753851505, 'inScoring': 0.4796}
+9.)  Maddie P $ Minn: {'average': 1.5751, 'stddev': 1.6491160446730504, 'inScoring': 0.449}
+10.) Lauren McG $ MSU: {'average': 1.5116, 'stddev': 1.658397296943932, 'inScoring': 0.4397}
+11.) Gabriella R $ Mich: {'average': 1.2641, 'stddev': 1.607169436003058, 'inScoring': 0.3945}
+12.) Sara K $ Wisc: {'average': 0.8076, 'stddev': 1.3912186357618956, 'inScoring': 0.2976}
+13.) Molly M $ Mich: {'average': 0.7238, 'stddev': 1.3870251265552476, 'inScoring': 0.2723}
+14.) Sarah A $ MSU: {'average': 0.6959, 'stddev': 1.4077064159501573, 'inScoring': 0.2617}
+15.) Meghan R $ PSU: {'average': 0.4906, 'stddev': 1.2756060165102363, 'inScoring': 0.2095}
+16.) Amanda M $ MSU: {'average': 0.2313, 'stddev': 1.0581009524477218, 'inScoring': 0.1168}
+17.) Katlyn A $ IwSt: {'average': 0.1869, 'stddev': 1.0408715314189776, 'inScoring': 0.0961}
+18.) Bailey M $ MSU: {'average': 0.1387, 'stddev': 0.9880152098017895, 'inScoring': 0.0779}
+19.) Cassie H $ Mich: {'average': 0.125, 'stddev': 0.9667866950766943, 'inScoring': 0.0681}
+20.) Holly S $ IwSt: {'average': 0.0988, 'stddev': 0.924116351036103, 'inScoring': 0.0562}
+21.) Katrina H $ Maryland: {'average': 0.0722, 'stddev': 0.8924856307984819, 'inScoring': 0.043}
+22.) Francesca R $ OSU: {'average': 0.0445, 'stddev': 0.8536788463771511, 'inScoring': 0.0282}
+23.) Allyx K $ Minn: {'average': 0.0317, 'stddev': 0.7972048150346712, 'inScoring': 0.0209}
+24.) Tessa D $ OSU: {'average': 0.0302, 'stddev': 0.7586179571713481, 'inScoring': 0.0198}
+25.) Michelle K $ PSU: {'average': 0.0047, 'stddev': 0.6931669932133818, 'inScoring': 0.0037}
+26.) Darien K $ PSU: {'average': 0.0042, 'stddev': 0.693888666488711, 'inScoring': 0.0028}
+27.) Nicole L $ Delaware: {'average': 0.0012, 'stddev': 0.5345224838248488, 'inScoring': 0.0008}
+28.) Casey B $ Delaware: {'average': 0.001, 'stddev': 0.0, 'inScoring': 0.001}
+29.) Erica F $ PSU: {'average': 0.0009, 'stddev': 0.4879500364742666, 'inScoring': 0.0007}
+30.) Kinsey R $ WVU: {'average': 0.0009, 'stddev': 0.3535533905932738, 'inScoring': 0.0008}
+31.) Zoe P $ Wisc: {'average': 0.0007, 'stddev': 0.0, 'inScoring': 0.0007}
+32.) Hailey B $ PSU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
 
-Wisc: {'stddev': 3.756960706974955, 'average': 20.019}
-MSU: {'stddev': 3.829636791030672, 'average': 9.643}
-PSU: {'stddev': 2.5929671025049967, 'average': 5.329}
-OSU: {'stddev': 2.1429556285213787, 'average': 3.554}
-GTWN: {'stddev': 1.888972940825512, 'average': 2.777}
-Mich: {'stddev': 2.152208551104297, 'average': 2.166}
-Minn: {'stddev': 1.6723031494538025, 'average': 1.639}
-IwSt: {'stddev': 1.0676449652445708, 'average': 0.282}
-Maryland: {'stddev': 0.6954244905000938, 'average': 0.069}
-Delaware: {'stddev': 0.0, 'average': 0.003}
+1.)  Wisc: {'average': 19.9569, 'stddev': 3.6741952266006144}
+2.)  MSU: {'average': 9.6803, 'stddev': 3.7802392214928355}
+3.)  PSU: {'average': 5.459, 'stddev': 2.597068599393665}
+4.)  OSU: {'average': 3.5694, 'stddev': 2.074599288266468}
+5.)  GTWN: {'average': 2.7382, 'stddev': 1.9046484773783237}
+6.)  Mich: {'average': 2.1129, 'stddev': 2.0401657668693165}
+7.)  Minn: {'average': 1.6068, 'stddev': 1.6886655938710151}
+8.)  IwSt: {'average': 0.2857, 'stddev': 1.0918139467618468}
+9.)  Maryland: {'average': 0.0722, 'stddev': 0.8924856307984819}
+10.) Delaware: {'average': 0.0022, 'stddev': 0.4277926319464986}
+11.) WVU: {'average': 0.0009, 'stddev': 0.3535533905932738}
 
 1500m:
 
-Erin Z $ MSU: {'stddev': 2.4671716447894627, 'average': 7.359}
-Emily W $ IU: {'stddev': 2.4153736570613797, 'average': 6.849}
-Maddie P $ Minn: {'stddev': 2.278946622107079, 'average': 4.151}
-Nicole M $ MSU: {'stddev': 2.380247352701472, 'average': 3.151}
-Katlyn A $ IwSt: {'stddev': 2.239079223724971, 'average': 2.892}
-Ariane A $ PSU: {'stddev': 2.1898690421375386, 'average': 2.572}
-Molly M $ Mich: {'stddev': 2.239906864920139, 'average': 2.544}
-Madeleine P $ Wisc: {'stddev': 2.195322332151303, 'average': 2.474}
-Kristina K $ ND: {'stddev': 2.039188300508438, 'average': 1.903}
-Jenn S $ Mich: {'stddev': 2.1239200958027205, 'average': 1.815}
-Lauren M $ Mich: {'stddev': 2.110302688951317, 'average': 1.639}
-Maeghan E $ IwSt: {'stddev': 1.9599174521889802, 'average': 1.479}
-Zoe P $ Wisc: {'stddev': 2.084991099201502, 'average': 1.321}
-Anna S $ Minn: {'stddev': 2.052750204885344, 'average': 1.14}
-Juila E $ GTWN: {'stddev': 1.8912917588464144, 'average': 1.104}
-Holly S $ IwSt: {'stddev': 1.8231442035643752, 'average': 0.915}
-Arielle D $ OSU: {'stddev': 1.8454146029328606, 'average': 0.838}
-Bailey M $ MSU: {'stddev': 1.5075480739330085, 'average': 0.692}
-Jessica U $ Pitt: {'stddev': 1.520001306583434, 'average': 0.581}
-Amanda M $ MSU: {'stddev': 1.178440888444507, 'average': 0.25}
-Emily C $ ILL: {'stddev': 1.2158708562940854, 'average': 0.187}
-Colleen C $ Mich: {'stddev': 0.9235481451827989, 'average': 0.033}
-Jaime F $ IU: {'stddev': 0.6839855680567695, 'average': 0.031}
-Anneliese S $ ILL: {'stddev': 1.190974832912761, 'average': 0.031}
-Michaela L $ Purdue: {'stddev': 1.1338934190276817, 'average': 0.011}
-Jenny O $ Pitt: {'stddev': 0.408248290463863, 'average': 0.007}
-Megan B $ NW: {'stddev': 1.5275252316519468, 'average': 0.007}
-Allyx K $ Minn: {'stddev': 0.0, 'average': 0.006}
-Jamie F $ IU: {'stddev': 0.4472135954999579, 'average': 0.006}
-Erin McK $ ILL: {'stddev': 0.5, 'average': 0.005}
-Emma K $ NW: {'stddev': 0.5, 'average': 0.005}
-Maddy O $ Loyola: {'stddev': 0.0, 'average': 0.002}
+1.)  Erin Z $ MSU: {'average': 7.2294, 'stddev': 2.4566718282984037, 'inScoring': 0.8853}
+2.)  Emily W $ IU: {'average': 6.7179, 'stddev': 2.482367539251366, 'inScoring': 0.8559}
+3.)  Maddie P $ Minn: {'average': 4.0771, 'stddev': 2.393203697062839, 'inScoring': 0.6509}
+4.)  Nicole M $ MSU: {'average': 3.1648, 'stddev': 2.3746217694195533, 'inScoring': 0.5709}
+5.)  Katlyn A $ IwSt: {'average': 2.9294, 'stddev': 2.3186672646374804, 'inScoring': 0.5519}
+6.)  Molly M $ Mich: {'average': 2.6417, 'stddev': 2.3040678103661083, 'inScoring': 0.5287}
+7.)  Ariane A $ PSU: {'average': 2.5477, 'stddev': 2.2451908282729938, 'inScoring': 0.5167}
+8.)  Madeleine P $ Wisc: {'average': 2.4566, 'stddev': 2.249749447703268, 'inScoring': 0.5046}
+9.)  Kristina K $ ND: {'average': 1.974, 'stddev': 2.14717544078542, 'inScoring': 0.4457}
+10.) Jenn S $ Mich: {'average': 1.8136, 'stddev': 2.1258752387203956, 'inScoring': 0.4255}
+11.) Lauren M $ Mich: {'average': 1.7245, 'stddev': 2.083173920950568, 'inScoring': 0.414}
+12.) Maeghan E $ IwSt: {'average': 1.4344, 'stddev': 1.985749903417308, 'inScoring': 0.3729}
+13.) Anna S $ Minn: {'average': 1.2753, 'stddev': 2.003368238967613, 'inScoring': 0.3416}
+14.) Zoe P $ Wisc: {'average': 1.2567, 'stddev': 1.9734511477939887, 'inScoring': 0.332}
+15.) Juila E $ GTWN: {'average': 1.1577, 'stddev': 1.9177130773943611, 'inScoring': 0.3261}
+16.) Holly S $ IwSt: {'average': 0.8845, 'stddev': 1.7323704617327047, 'inScoring': 0.2705}
+17.) Arielle D $ OSU: {'average': 0.8005, 'stddev': 1.6800736628296227, 'inScoring': 0.2593}
+18.) Bailey M $ MSU: {'average': 0.6617, 'stddev': 1.5741411196549842, 'inScoring': 0.2265}
+19.) Jessica U $ Pitt: {'average': 0.6339, 'stddev': 1.590579695165658, 'inScoring': 0.2166}
+20.) Amanda M $ MSU: {'average': 0.2589, 'stddev': 1.300270530908521, 'inScoring': 0.1121}
+21.) Emily C $ ILL: {'average': 0.1997, 'stddev': 1.206840507278656, 'inScoring': 0.0914}
+22.) Colleen C $ Mich: {'average': 0.0447, 'stddev': 0.8421501424215702, 'inScoring': 0.0267}
+23.) Jaime F $ IU: {'average': 0.0305, 'stddev': 0.8965820491565065, 'inScoring': 0.0195}
+24.) Anneliese S $ ILL: {'average': 0.0224, 'stddev': 0.7417600433918423, 'inScoring': 0.0154}
+25.) Michaela L $ Purdue: {'average': 0.0148, 'stddev': 0.7396921365587836, 'inScoring': 0.0095}
+26.) Megan B $ NW: {'average': 0.0097, 'stddev': 0.8662873198357268, 'inScoring': 0.0058}
+27.) Jamie F $ IU: {'average': 0.0084, 'stddev': 0.9973027597539248, 'inScoring': 0.0055}
+28.) Nicole F $ UConn: {'average': 0.0077, 'stddev': 0.8439921178751973, 'inScoring': 0.0048}
+29.) Erin McK $ ILL: {'average': 0.0064, 'stddev': 0.7775528239689432, 'inScoring': 0.0039}
+30.) Emma K $ NW: {'average': 0.0057, 'stddev': 0.9102589898327995, 'inScoring': 0.0035}
+31.) Jenny O $ Pitt: {'average': 0.0039, 'stddev': 0.8756702684071968, 'inScoring': 0.0023}
+32.) Allyx K $ Minn: {'average': 0.0032, 'stddev': 0.583027399541909, 'inScoring': 0.0023}
+33.) Mary L $ UVA: {'average': 0.001, 'stddev': 0.4629100498862757, 'inScoring': 0.0008}
+34.) Stephanie P $ Delaware: {'average': 0.0007, 'stddev': 0.9574271077563381, 'inScoring': 0.0004}
+35.) Anna L $ NW: {'average': 0.0004, 'stddev': 0, 'inScoring': 0.0001}
+36.) Stefani W $ Minn: {'average': 0.0003, 'stddev': 0.7071067811865476, 'inScoring': 0.0002}
+37.) Charlotte E $ MSU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
+38.) Elsa S $ OSU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
 
-MSU: {'stddev': 4.4348313306211, 'average': 11.427}
-IU: {'stddev': 2.458545164809919, 'average': 6.886}
-Mich: {'stddev': 3.827896557426714, 'average': 6.028}
-Minn: {'stddev': 3.2789310148215063, 'average': 5.297}
-IwSt: {'stddev': 3.5677063564309566, 'average': 5.286}
-Wisc: {'stddev': 2.837598085365184, 'average': 3.795}
-PSU: {'stddev': 2.1898690421375386, 'average': 2.572}
-ND: {'stddev': 2.039188300508438, 'average': 1.903}
-GTWN: {'stddev': 1.8912917588464144, 'average': 1.104}
-OSU: {'stddev': 1.8454146029328606, 'average': 0.838}
-Pitt: {'stddev': 1.5300605449843576, 'average': 0.588}
-ILL: {'stddev': 1.2878692361918969, 'average': 0.223}
-NW: {'stddev': 1.1126972805283735, 'average': 0.012}
-Purdue: {'stddev': 1.1338934190276817, 'average': 0.011}
-Loyola: {'stddev': 0.0, 'average': 0.002}
+1.)  MSU: {'average': 11.3019, 'stddev': 4.428003664286239}
+2.)  IU: {'average': 6.7568, 'stddev': 2.529636151248923}
+3.)  Mich: {'average': 6.2239, 'stddev': 3.897298266649175}
+4.)  Minn: {'average': 5.3559, 'stddev': 3.2516936691262184}
+5.)  IwSt: {'average': 5.2483, 'stddev': 3.506322487477675}
+6.)  Wisc: {'average': 3.7133, 'stddev': 2.9286905043729896}
+7.)  PSU: {'average': 2.5477, 'stddev': 2.2451908282729938}
+8.)  ND: {'average': 1.974, 'stddev': 2.14717544078542}
+9.)  GTWN: {'average': 1.1577, 'stddev': 1.9177130773943611}
+10.) OSU: {'average': 0.8006, 'stddev': 1.6810866529221893}
+11.) Pitt: {'average': 0.6378, 'stddev': 1.5939270574064166}
+12.) ILL: {'average': 0.2285, 'stddev': 1.2129418432242032}
+13.) NW: {'average': 0.0158, 'stddev': 0.9065207736524146}
+14.) Purdue: {'average': 0.0148, 'stddev': 0.7396921365587836}
+15.) UConn: {'average': 0.0077, 'stddev': 0.8439921178751973}
+16.) UVA: {'average': 0.001, 'stddev': 0.4629100498862757}
+17.) Delaware: {'average': 0.0007, 'stddev': 0.9574271077563381}
 
 5000m:
 
-Emily W $ IU: {'stddev': 2.674454136676045, 'average': 5.394}
-Jenny S $ OSU: {'stddev': 2.7366024482448332, 'average': 4.591}
-Chelsea W $ NE: {'stddev': 2.6062031495999856, 'average': 4.451}
-Anna P $ Mich: {'stddev': 2.6565235151410276, 'average': 4.238}
-Ariane A $ PSU: {'stddev': 2.50593346165133, 'average': 3.754}
-Suzanne S $ PSU: {'stddev': 2.4576394427645174, 'average': 2.966}
-Erin Z $ MSU: {'stddev': 2.384018951738162, 'average': 2.915}
-Colleen C $ Mich: {'stddev': 2.323500183463114, 'average': 2.878}
-Jenny O $ Pitt: {'stddev': 2.3522072878370333, 'average': 2.269}
-Jazmine R $ NW: {'stddev': 2.183200116409501, 'average': 1.482}
-Anna L $ Maryland: {'stddev': 2.0584596926339787, 'average': 1.422}
-Cheyenne C $ WVU: {'stddev': 2.116279796153255, 'average': 1.344}
-Anna S $ Minn: {'stddev': 2.0036616713930138, 'average': 1.218}
-Tessa D $ OSU: {'stddev': 1.9175330044810928, 'average': 0.97}
-Anneliese S $ ILL: {'stddev': 1.7809900127345708, 'average': 0.956}
-Jamie F $ IU: {'stddev': 1.6989662993969263, 'average': 0.832}
-Megan B $ NW: {'stddev': 1.9025446681212934, 'average': 0.762}
-Erin G $ UConn: {'stddev': 1.764493163304414, 'average': 0.741}
-Mollee S $ Mich: {'stddev': 1.7129045943166423, 'average': 0.712}
-Sarah F $ IU: {'stddev': 1.7949950987009256, 'average': 0.679}
-Julia H $ Maryland: {'stddev': 1.7677752620747045, 'average': 0.598}
-Stephanie R $ Wisc: {'stddev': 1.3047286019894153, 'average': 0.372}
-Lauren M $ Mich: {'stddev': 1.2796352243032496, 'average': 0.243}
-Alyssa T $ UConn: {'stddev': 1.17422734995226, 'average': 0.102}
-Amanda M $ MSU: {'stddev': 1.0170952554312156, 'average': 0.057}
-Rachel T $ UVA: {'stddev': 0.8340576562282991, 'average': 0.042}
-Emma B $ ILL: {'stddev': 1.0, 'average': 0.006}
-Christel R $ IU: {'stddev': 0.0, 'average': 0.003}
-Jessica U $ Pitt: {'stddev': 0.0, 'average': 0.003}
+1.)  Emily W $ IU: {'average': 5.2856, 'stddev': 2.6489397293800736, 'inScoring': 0.7168}
+2.)  Jenny S $ OSU: {'average': 4.4506, 'stddev': 2.7300132450429535, 'inScoring': 0.6454}
+3.)  Chelsea W $ NE: {'average': 4.4312, 'stddev': 2.7077623677237397, 'inScoring': 0.6513}
+4.)  Anna P $ Mich: {'average': 4.2911, 'stddev': 2.641365814373405, 'inScoring': 0.6434}
+5.)  Ariane A $ PSU: {'average': 3.8853, 'stddev': 2.522471983158106, 'inScoring': 0.629}
+6.)  Suzanne S $ PSU: {'average': 3.01, 'stddev': 2.43268200624977, 'inScoring': 0.5497}
+7.)  Colleen C $ Mich: {'average': 2.8943, 'stddev': 2.4355334994039026, 'inScoring': 0.5279}
+8.)  Erin Z $ MSU: {'average': 2.7826, 'stddev': 2.3793877505229553, 'inScoring': 0.522}
+9.)  Jenny O $ Pitt: {'average': 2.3204, 'stddev': 2.4219602743818083, 'inScoring': 0.4657}
+10.) Jazmine R $ NW: {'average': 1.4783, 'stddev': 2.1309173322837505, 'inScoring': 0.3585}
+11.) Anna L $ Maryland: {'average': 1.437, 'stddev': 2.1329165576647915, 'inScoring': 0.3492}
+12.) Cheyenne C $ WVU: {'average': 1.338, 'stddev': 2.0983045565959424, 'inScoring': 0.3336}
+13.) Anna S $ Minn: {'average': 1.2025, 'stddev': 2.0563115393390285, 'inScoring': 0.313}
+14.) Tessa D $ OSU: {'average': 1.0124, 'stddev': 1.867641176654249, 'inScoring': 0.2881}
+15.) Anneliese S $ ILL: {'average': 0.948, 'stddev': 1.8434407374360868, 'inScoring': 0.275}
+16.) Jamie F $ IU: {'average': 0.842, 'stddev': 1.7878654998139842, 'inScoring': 0.2541}
+17.) Erin G $ UConn: {'average': 0.7894, 'stddev': 1.7740948560089558, 'inScoring': 0.2402}
+18.) Megan B $ NW: {'average': 0.7554, 'stddev': 1.7464056065855174, 'inScoring': 0.2318}
+19.) Mollee S $ Mich: {'average': 0.7248, 'stddev': 1.7523651020138988, 'inScoring': 0.2255}
+20.) Sarah F $ IU: {'average': 0.6798, 'stddev': 1.6862874140475368, 'inScoring': 0.2151}
+21.) Julia H $ Maryland: {'average': 0.615, 'stddev': 1.6806302564301017, 'inScoring': 0.1985}
+22.) Stephanie R $ Wisc: {'average': 0.3039, 'stddev': 1.448430556261892, 'inScoring': 0.1227}
+23.) Lauren M $ Mich: {'average': 0.2902, 'stddev': 1.3656953100204967, 'inScoring': 0.1171}
+24.) Alyssa T $ UConn: {'average': 0.1113, 'stddev': 1.1990799548377287, 'inScoring': 0.0548}
+25.) Amanda M $ MSU: {'average': 0.0531, 'stddev': 0.9269669415995264, 'inScoring': 0.0311}
+26.) Rachel T $ UVA: {'average': 0.0385, 'stddev': 0.93977425368092, 'inScoring': 0.0221}
+27.) Christel R $ IU: {'average': 0.0104, 'stddev': 0.7453559924999299, 'inScoring': 0.0064}
+28.) Emma B $ ILL: {'average': 0.0073, 'stddev': 0.9386576714124697, 'inScoring': 0.0044}
+29.) Jessica U $ Pitt: {'average': 0.0063, 'stddev': 0.8624977907359475, 'inScoring': 0.0042}
+30.) Shannon MacM $ Maryland: {'average': 0.0045, 'stddev': 0.9164862737363227, 'inScoring': 0.0028}
+31.) Bailey M $ MSU: {'average': 0.0006, 'stddev': 0.5773502691896257, 'inScoring': 0.0004}
+32.) Leah N $ PSU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
+33.) Madison A $ WVU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
 
-Mich: {'stddev': 4.418152175810462, 'average': 8.066}
-IU: {'stddev': 3.6642407273832953, 'average': 6.908}
-PSU: {'stddev': 3.887423836896852, 'average': 6.72}
-OSU: {'stddev': 3.4436488738223736, 'average': 5.561}
-NE: {'stddev': 2.6062031495999856, 'average': 4.451}
-MSU: {'stddev': 2.48610709410884, 'average': 2.972}
-Pitt: {'stddev': 2.358594950744415, 'average': 2.272}
-NW: {'stddev': 2.7053612617318885, 'average': 2.244}
-Maryland: {'stddev': 2.486814939271551, 'average': 2.02}
-WVU: {'stddev': 2.116279796153255, 'average': 1.344}
-Minn: {'stddev': 2.0036616713930138, 'average': 1.218}
-ILL: {'stddev': 1.7902750475171998, 'average': 0.962}
-UConn: {'stddev': 1.8607619089238039, 'average': 0.843}
-Wisc: {'stddev': 1.3047286019894153, 'average': 0.372}
-UVA: {'stddev': 0.8340576562282991, 'average': 0.042}
+1.)  Mich: {'average': 8.1897, 'stddev': 4.424914920301248}
+2.)  PSU: {'average': 6.8954, 'stddev': 3.9548687399770635}
+3.)  IU: {'average': 6.8176, 'stddev': 3.7008870540005026}
+4.)  OSU: {'average': 5.463, 'stddev': 3.4236198120651595}
+5.)  NE: {'average': 4.4312, 'stddev': 2.7077623677237397}
+6.)  MSU: {'average': 2.8363, 'stddev': 2.464167897361787}
+7.)  Pitt: {'average': 2.3267, 'stddev': 2.43125572737194}
+8.)  NW: {'average': 2.2337, 'stddev': 2.480154477701887}
+9.)  Maryland: {'average': 2.0565, 'stddev': 2.4699296022012183}
+10.) WVU: {'average': 1.3381, 'stddev': 2.098637337596169}
+11.) Minn: {'average': 1.2025, 'stddev': 2.0563115393390285}
+12.) ILL: {'average': 0.9553, 'stddev': 1.8455704219064344}
+13.) UConn: {'average': 0.9007, 'stddev': 1.8480009084895574}
+14.) Wisc: {'average': 0.3039, 'stddev': 1.448430556261892}
+15.) UVA: {'average': 0.0385, 'stddev': 0.93977425368092}
 
 100m HH:
 
-Erica F $ PSU: {'stddev': 1.8640096527292154, 'average': 8.735}
-Jada H $ IU: {'stddev': 2.097798936686354, 'average': 6.496}
-Cheyenne H $ UConn: {'stddev': 2.124187939961294, 'average': 6.333}
-Vanessa R $ PSU: {'stddev': 2.0174265505743847, 'average': 6.205}
-Haley H $ Delaware: {'stddev': 1.91207906775408, 'average': 5.506}
-Abby R $ ILL: {'stddev': 1.8340267113052873, 'average': 4.616}
-Brittany T $ Maryland: {'stddev': 1.676972441846063, 'average': 3.925}
-Jaclyn G $ IU: {'stddev': 1.103259525312201, 'average': 1.414}
-Colleen B $ BGSU: {'stddev': 0.9935156381547885, 'average': 1.239}
-Emilie D $ UConn: {'stddev': 0.9462953973987539, 'average': 1.2}
-Victoria N $ UConn: {'stddev': 0.5741144832383863, 'average': 0.284}
-Violet N $ MSU: {'stddev': 0.454858826147342, 'average': 0.037}
-Jessica M $ Nova: {'stddev': 0.0, 'average': 0.007}
-Ali D $ ILL: {'stddev': 0.0, 'average': 0.003}
+1.)  Erica F $ PSU: {'average': 8.7907, 'stddev': 1.820790426148448, 'inScoring': 0.995}
+2.)  Jada H $ IU: {'average': 6.6111, 'stddev': 2.019720630675566, 'inScoring': 0.9898}
+3.)  Cheyenne H $ UConn: {'average': 6.369, 'stddev': 2.1265536509017346, 'inScoring': 0.9903}
+4.)  Vanessa R $ PSU: {'average': 6.1842, 'stddev': 2.0070715263498773, 'inScoring': 0.9893}
+5.)  Haley H $ Delaware: {'average': 5.4462, 'stddev': 1.8785559062231452, 'inScoring': 0.9845}
+6.)  Abby R $ ILL: {'average': 4.4867, 'stddev': 1.7686307558390606, 'inScoring': 0.9677}
+7.)  Brittany T $ Maryland: {'average': 3.971, 'stddev': 1.6784552256821774, 'inScoring': 0.9507}
+8.)  Jaclyn G $ IU: {'average': 1.4417, 'stddev': 1.0451929596254268, 'inScoring': 0.6674}
+9.)  Colleen B $ BGSU: {'average': 1.2609, 'stddev': 0.9842983025799384, 'inScoring': 0.6294}
+10.) Emilie D $ UConn: {'average': 1.1489, 'stddev': 0.8934947723243348, 'inScoring': 0.6112}
+11.) Victoria N $ UConn: {'average': 0.2515, 'stddev': 0.5569727968456882, 'inScoring': 0.1912}
+12.) Violet N $ MSU: {'average': 0.032, 'stddev': 0.3814163183648473, 'inScoring': 0.0282}
+13.) Jessica M $ Nova: {'average': 0.0053, 'stddev': 0.36315844747302034, 'inScoring': 0.0046}
+14.) Ali D $ ILL: {'average': 0.0007, 'stddev': 0.408248290463863, 'inScoring': 0.0006}
+15.) Isabella B $ UVA: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
 
-PSU: {'stddev': 2.6973460429977605, 'average': 14.94}
-IU: {'stddev': 2.5660160064895132, 'average': 7.91}
-UConn: {'stddev': 2.5179060448815105, 'average': 7.817}
-Delaware: {'stddev': 1.91207906775408, 'average': 5.506}
-ILL: {'stddev': 1.8336305000803845, 'average': 4.619}
-Maryland: {'stddev': 1.676972441846063, 'average': 3.925}
-BGSU: {'stddev': 0.9935156381547885, 'average': 1.239}
-MSU: {'stddev': 0.454858826147342, 'average': 0.037}
-Nova: {'stddev': 0.0, 'average': 0.007}
+1.)  PSU: {'average': 14.9749, 'stddev': 2.5633878317050613}
+2.)  IU: {'average': 8.0528, 'stddev': 2.470797007259126}
+3.)  UConn: {'average': 7.7694, 'stddev': 2.5089132324154666}
+4.)  Delaware: {'average': 5.4462, 'stddev': 1.8785559062231452}
+5.)  ILL: {'average': 4.4874, 'stddev': 1.7690530737253756}
+6.)  Maryland: {'average': 3.971, 'stddev': 1.6784552256821774}
+7.)  BGSU: {'average': 1.2609, 'stddev': 0.9842983025799384}
+8.)  MSU: {'average': 0.032, 'stddev': 0.3814163183648473}
+9.)  Nova: {'average': 0.0053, 'stddev': 0.36315844747302034}
+10.) UVA: {'average': 0.0001, 'stddev': 0}
 
 3000m Steeplechase:
 
-Miriam S $ Maryland: {'stddev': 1.5394313394396155, 'average': 8.039}
-Kim G $ Maryland: {'stddev': 1.4886571465922234, 'average': 7.954}
-Rachel N $ Maryland: {'stddev': 1.461879985871991, 'average': 7.638}
-Erin L $ Maryland: {'stddev': 1.3238548227020934, 'average': 7.369}
+1.)  Miriam S $ Maryland: {'average': 8.0538, 'stddev': 1.5405008517645904, 'inScoring': 1.0}
+2.)  Kim G $ Maryland: {'average': 7.9374, 'stddev': 1.490068209957864, 'inScoring': 1.0}
+3.)  Rachel N $ Maryland: {'average': 7.673, 'stddev': 1.4638597229683086, 'inScoring': 1.0}
+4.)  Erin L $ Maryland: {'average': 7.3358, 'stddev': 1.3075202946540039, 'inScoring': 1.0}
 
-Maryland: {'stddev': 0.0, 'average': 25.0}
+1.)  Maryland: {'average': 25.0, 'stddev': 0.0}
 
 4x400m:
 
-Wisc: {'stddev': 1.277160490945254, 'average': 9.221}
-PSU: {'stddev': 2.072625816405926, 'average': 7.039}
-Iowa: {'stddev': 2.193083236878391, 'average': 5.343}
-OSU: {'stddev': 2.0805848250986054, 'average': 5.107}
-ILL: {'stddev': 1.939653235684801, 'average': 3.806}
-Minn: {'stddev': 1.7828296747221493, 'average': 2.68}
-IwSt: {'stddev': 1.7951419439235052, 'average': 2.003}
-MSU: {'stddev': 1.6756577029914623, 'average': 1.87}
-Maryland: {'stddev': 1.6926351084898519, 'average': 1.618}
-WVU: {'stddev': 1.7068049255676747, 'average': 1.579}
-Delaware: {'stddev': 1.6571281564897584, 'average': 1.325}
-IU: {'stddev': 1.5496471957994218, 'average': 1.087}
-Mich: {'stddev': 1.5016009659227385, 'average': 0.989}
-Mizzou: {'stddev': 1.517315482931082, 'average': 0.947}
-Purdue: {'stddev': 1.333666605785559, 'average': 0.805}
-GTWN: {'stddev': 1.121149964746967, 'average': 0.262}
-UConn: {'stddev': 0.9822585221220255, 'average': 0.204}
-Pitt: {'stddev': 0.8364256351507018, 'average': 0.086}
-Loyola: {'stddev': 1.0733344230135038, 'average': 0.029}
+1.)  Wisc: {'average': 9.1897, 'stddev': 1.3822163740402686, 'inScoring': 0.9908}
+2.)  PSU: {'average': 7.0155, 'stddev': 2.1078129209026604, 'inScoring': 0.9501}
+3.)  Iowa: {'average': 5.4714, 'stddev': 2.0903350910751017, 'inScoring': 0.8694}
+4.)  OSU: {'average': 5.1047, 'stddev': 2.029203505892155, 'inScoring': 0.8412}
+5.)  ILL: {'average': 3.6848, 'stddev': 1.949409729302756, 'inScoring': 0.7131}
+6.)  Minn: {'average': 2.6471, 'stddev': 1.8584369886914025, 'inScoring': 0.6007}
+7.)  IwSt: {'average': 1.9919, 'stddev': 1.7821156861627503, 'inScoring': 0.5109}
+8.)  MSU: {'average': 1.8414, 'stddev': 1.7167421850615794, 'inScoring': 0.4985}
+9.)  WVU: {'average': 1.6647, 'stddev': 1.7147866236191636, 'inScoring': 0.4732}
+10.) Maryland: {'average': 1.5837, 'stddev': 1.7230367057906866, 'inScoring': 0.4564}
+11.) Delaware: {'average': 1.4026, 'stddev': 1.6428595601615104, 'inScoring': 0.4331}
+12.) IU: {'average': 1.0491, 'stddev': 1.5149849467940355, 'inScoring': 0.3554}
+13.) Mich: {'average': 1.0119, 'stddev': 1.548191084000823, 'inScoring': 0.3447}
+14.) Mizzou: {'average': 0.8854, 'stddev': 1.4621197619001753, 'inScoring': 0.3249}
+15.) Purdue: {'average': 0.8002, 'stddev': 1.423898875587693, 'inScoring': 0.3006}
+16.) GTWN: {'average': 0.316, 'stddev': 1.117811767377562, 'inScoring': 0.1552}
+17.) UConn: {'average': 0.2502, 'stddev': 1.0848785804922474, 'inScoring': 0.1271}
+18.) Pitt: {'average': 0.0897, 'stddev': 0.8430400121510113, 'inScoring': 0.0547}
 
-Wisc: {'stddev': 1.277160490945254, 'average': 9.221}
-PSU: {'stddev': 2.072625816405926, 'average': 7.039}
-Iowa: {'stddev': 2.193083236878391, 'average': 5.343}
-OSU: {'stddev': 2.0805848250986054, 'average': 5.107}
-ILL: {'stddev': 1.939653235684801, 'average': 3.806}
-Minn: {'stddev': 1.7828296747221493, 'average': 2.68}
-IwSt: {'stddev': 1.7951419439235052, 'average': 2.003}
-MSU: {'stddev': 1.6756577029914623, 'average': 1.87}
-Maryland: {'stddev': 1.6926351084898519, 'average': 1.618}
-WVU: {'stddev': 1.7068049255676747, 'average': 1.579}
-Delaware: {'stddev': 1.6571281564897584, 'average': 1.325}
-IU: {'stddev': 1.5496471957994218, 'average': 1.087}
-Mich: {'stddev': 1.5016009659227385, 'average': 0.989}
-Mizzou: {'stddev': 1.517315482931082, 'average': 0.947}
-Purdue: {'stddev': 1.333666605785559, 'average': 0.805}
-GTWN: {'stddev': 1.121149964746967, 'average': 0.262}
-UConn: {'stddev': 0.9822585221220255, 'average': 0.204}
-Pitt: {'stddev': 0.8364256351507018, 'average': 0.086}
-Loyola: {'stddev': 1.0733344230135038, 'average': 0.029}
+1.)  Wisc: {'average': 9.1897, 'stddev': 1.3822163740402686}
+2.)  PSU: {'average': 7.0155, 'stddev': 2.1078129209026604}
+3.)  Iowa: {'average': 5.4714, 'stddev': 2.0903350910751017}
+4.)  OSU: {'average': 5.1047, 'stddev': 2.029203505892155}
+5.)  ILL: {'average': 3.6848, 'stddev': 1.949409729302756}
+6.)  Minn: {'average': 2.6471, 'stddev': 1.8584369886914025}
+7.)  IwSt: {'average': 1.9919, 'stddev': 1.7821156861627503}
+8.)  MSU: {'average': 1.8414, 'stddev': 1.7167421850615794}
+9.)  WVU: {'average': 1.6647, 'stddev': 1.7147866236191636}
+10.) Maryland: {'average': 1.5837, 'stddev': 1.7230367057906866}
+11.) Delaware: {'average': 1.4026, 'stddev': 1.6428595601615104}
+12.) IU: {'average': 1.0491, 'stddev': 1.5149849467940355}
+13.) Mich: {'average': 1.0119, 'stddev': 1.548191084000823}
+14.) Mizzou: {'average': 0.8854, 'stddev': 1.4621197619001753}
+15.) Purdue: {'average': 0.8002, 'stddev': 1.423898875587693}
+16.) GTWN: {'average': 0.316, 'stddev': 1.117811767377562}
+17.) UConn: {'average': 0.2502, 'stddev': 1.0848785804922474}
+18.) Pitt: {'average': 0.0897, 'stddev': 0.8430400121510113}
 
 4x800m:
 
-OSU: {'stddev': 1.6014379268998886, 'average': 8.63}
-Wisc: {'stddev': 1.7128243929273768, 'average': 8.017}
-Minn: {'stddev': 1.6747888156549977, 'average': 7.224}
-MSU: {'stddev': 1.9665651620264668, 'average': 4.733}
-Pitt: {'stddev': 1.9045349743824918, 'average': 3.516}
-Miami: {'stddev': 1.8412219147869264, 'average': 3.336}
-ILL: {'stddev': 1.7384851976464184, 'average': 2.931}
-Maryland: {'stddev': 1.6312669140602034, 'average': 2.451}
-Mizzou: {'stddev': 1.5478690689205763, 'average': 2.405}
-Purdue: {'stddev': 1.398153479894232, 'average': 1.932}
-NW: {'stddev': 0.9844461418776483, 'average': 0.766}
-CMU: {'stddev': 0.5550381751614251, 'average': 0.059}
+1.)  OSU: {'average': 8.6371, 'stddev': 1.6560512538590464, 'inScoring': 0.9929}
+2.)  Wisc: {'average': 7.9664, 'stddev': 1.6765450454836337, 'inScoring': 0.9921}
+3.)  Minn: {'average': 7.215, 'stddev': 1.7555990884450408, 'inScoring': 0.9877}
+4.)  MSU: {'average': 4.6967, 'stddev': 1.9936958940994263, 'inScoring': 0.9322}
+5.)  Pitt: {'average': 3.4829, 'stddev': 1.8502062412563198, 'inScoring': 0.846}
+6.)  Miami: {'average': 3.4314, 'stddev': 1.8465181809377675, 'inScoring': 0.8453}
+7.)  ILL: {'average': 2.9542, 'stddev': 1.7617896594680327, 'inScoring': 0.7942}
+8.)  Maryland: {'average': 2.4619, 'stddev': 1.6371274799584434, 'inScoring': 0.7445}
+9.)  Mizzou: {'average': 2.407, 'stddev': 1.615085030873328, 'inScoring': 0.7471}
+10.) Purdue: {'average': 1.9258, 'stddev': 1.4627699309218714, 'inScoring': 0.6716}
+11.) NW: {'average': 0.7586, 'stddev': 1.0388705316734548, 'inScoring': 0.3965}
+12.) CMU: {'average': 0.063, 'stddev': 0.5275715723287839, 'inScoring': 0.0499}
 
-OSU: {'stddev': 1.6014379268998886, 'average': 8.63}
-Wisc: {'stddev': 1.7128243929273768, 'average': 8.017}
-Minn: {'stddev': 1.6747888156549977, 'average': 7.224}
-MSU: {'stddev': 1.9665651620264668, 'average': 4.733}
-Pitt: {'stddev': 1.9045349743824918, 'average': 3.516}
-Miami: {'stddev': 1.8412219147869264, 'average': 3.336}
-ILL: {'stddev': 1.7384851976464184, 'average': 2.931}
-Maryland: {'stddev': 1.6312669140602034, 'average': 2.451}
-Mizzou: {'stddev': 1.5478690689205763, 'average': 2.405}
-Purdue: {'stddev': 1.398153479894232, 'average': 1.932}
-NW: {'stddev': 0.9844461418776483, 'average': 0.766}
-CMU: {'stddev': 0.5550381751614251, 'average': 0.059}
+1.)  OSU: {'average': 8.6371, 'stddev': 1.6560512538590464}
+2.)  Wisc: {'average': 7.9664, 'stddev': 1.6765450454836337}
+3.)  Minn: {'average': 7.215, 'stddev': 1.7555990884450408}
+4.)  MSU: {'average': 4.6967, 'stddev': 1.9936958940994263}
+5.)  Pitt: {'average': 3.4829, 'stddev': 1.8502062412563198}
+6.)  Miami: {'average': 3.4314, 'stddev': 1.8465181809377675}
+7.)  ILL: {'average': 2.9542, 'stddev': 1.7617896594680327}
+8.)  Maryland: {'average': 2.4619, 'stddev': 1.6371274799584434}
+9.)  Mizzou: {'average': 2.407, 'stddev': 1.615085030873328}
+10.) Purdue: {'average': 1.9258, 'stddev': 1.4627699309218714}
+11.) NW: {'average': 0.7586, 'stddev': 1.0388705316734548}
+12.) CMU: {'average': 0.063, 'stddev': 0.5275715723287839}
 
 LJ:
 
-Devin McD $ PSU: {'stddev': 2.12300446298959, 'average': 7.578}
-Morgan W $ OSU: {'stddev': 2.368535401999189, 'average': 6.417}
-Becky H $ ILL: {'stddev': 2.575171015073928, 'average': 5.511}
-Erica F $ PSU: {'stddev': 2.679775081826994, 'average': 4.481}
-Jada H $ IU: {'stddev': 2.6445215276307112, 'average': 3.22}
-Mary P $ PSU: {'stddev': 2.6380529762412763, 'average': 3.094}
-Kati P $ PSU: {'stddev': 2.577392407766534, 'average': 2.815}
-Yasi M $ IwSt: {'stddev': 2.4817429620625027, 'average': 1.807}
-Haley Y $ Mich: {'stddev': 2.3338232564403874, 'average': 1.771}
-Natalie T $ Wisc: {'stddev': 2.450207691298118, 'average': 1.52}
-Kellie L $ Iowa: {'stddev': 2.43886818302761, 'average': 1.463}
-Abby R $ ILL: {'stddev': 2.330971993916797, 'average': 1.301}
-Erica V $ PSU: {'stddev': 2.262067529683492, 'average': 1.259}
-Emma D $ OSU: {'stddev': 2.272859954596729, 'average': 1.1}
-Grace E $ NW: {'stddev': 2.3512440197438607, 'average': 1.04}
-Claire H $ OSU: {'stddev': 2.284228515309434, 'average': 0.329}
-Alyssa S $ Iowa: {'stddev': 2.8313761417928025, 'average': 0.19}
-Natalie O $ Iowa: {'stddev': 3.0935539041005504, 'average': 0.149}
-Allie H $ Iowa: {'stddev': 3.67404075897036, 'average': 0.134}
-Cassandra L $ PSU: {'stddev': 2.74175049324255, 'average': 0.113}
-Anna B $ OSU: {'stddev': 3.4196257952749955, 'average': 0.113}
-Dom S $ BGSU: {'stddev': 3.3452169123206628, 'average': 0.086}
-Emma B $ PSU: {'stddev': 3.7527767497325675, 'average': 0.061}
-Jordan K $ Mich: {'stddev': 3.4641016151377544, 'average': 0.054}
-Fawn D $ BGSU: {'stddev': 3.04724700110022, 'average': 0.053}
-Katelyn T $ Wisc: {'stddev': 3.04724700110022, 'average': 0.053}
-Jenna J $ Delaware: {'stddev': 2.4976179127511156, 'average': 0.051}
-Sarah A $ Wisc: {'stddev': 1.3887301496588271, 'average': 0.046}
-Stephanie S $ UConn: {'stddev': 3.7416573867739413, 'average': 0.044}
-Colleen H $ OSU: {'stddev': 4.0155946010522525, 'average': 0.041}
-Lauren C $ PSU: {'stddev': 3.1744169664559, 'average': 0.04}
-Kayla S $ IU: {'stddev': 3.9200340134578764, 'average': 0.035}
-Tammy B $ Toldeo: {'stddev': 1.51657508881031, 'average': 0.023}
-Kristen S $ Loyola: {'stddev': 0, 'average': 0.008}
+1.)  Devin McD $ PSU: {'average': 7.4922, 'stddev': 2.125709977459923, 'inScoring': 0.9985}
+2.)  Morgan W $ OSU: {'average': 6.341, 'stddev': 2.47813068195562, 'inScoring': 0.9875}
+3.)  Becky H $ ILL: {'average': 5.661, 'stddev': 2.582629753551136, 'inScoring': 0.9583}
+4.)  Erica F $ PSU: {'average': 4.3237, 'stddev': 2.687316201824415, 'inScoring': 0.8586}
+5.)  Jada H $ IU: {'average': 3.1939, 'stddev': 2.620387977815876, 'inScoring': 0.674}
+6.)  Mary P $ PSU: {'average': 3.1862, 'stddev': 2.636775180243744, 'inScoring': 0.6793}
+7.)  Kati P $ PSU: {'average': 2.7508, 'stddev': 2.5640078719064103, 'inScoring': 0.6082}
+8.)  Haley Y $ Mich: {'average': 1.9647, 'stddev': 2.4261759358950887, 'inScoring': 0.4714}
+9.)  Yasi M $ IwSt: {'average': 1.8674, 'stddev': 2.4760414618005333, 'inScoring': 0.4404}
+10.) Natalie T $ Wisc: {'average': 1.5702, 'stddev': 2.386169101312125, 'inScoring': 0.3839}
+11.) Kellie L $ Iowa: {'average': 1.4081, 'stddev': 2.360947399043541, 'inScoring': 0.3531}
+12.) Abby R $ ILL: {'average': 1.2404, 'stddev': 2.3931899513747883, 'inScoring': 0.3115}
+13.) Erica V $ PSU: {'average': 1.2255, 'stddev': 2.3431266051944006, 'inScoring': 0.3138}
+14.) Emma D $ OSU: {'average': 1.1588, 'stddev': 2.3114536850349046, 'inScoring': 0.3069}
+15.) Grace E $ NW: {'average': 1.0292, 'stddev': 2.300804058986665, 'inScoring': 0.2837}
+16.) Claire H $ OSU: {'average': 0.3842, 'stddev': 2.4254558536712625, 'inScoring': 0.1163}
+17.) Alyssa S $ Iowa: {'average': 0.1602, 'stddev': 2.8065547502629, 'inScoring': 0.0456}
+18.) Natalie O $ Iowa: {'average': 0.136, 'stddev': 3.158935053772496, 'inScoring': 0.0306}
+19.) Cassandra L $ PSU: {'average': 0.1277, 'stddev': 3.062657794827871, 'inScoring': 0.0294}
+20.) Allie H $ Iowa: {'average': 0.0934, 'stddev': 3.2217391242819513, 'inScoring': 0.0203}
+21.) Anna B $ OSU: {'average': 0.0906, 'stddev': 3.1266917886014003, 'inScoring': 0.0222}
+22.) Dom S $ BGSU: {'average': 0.0822, 'stddev': 3.482013892168564, 'inScoring': 0.0178}
+23.) Lauren C $ PSU: {'average': 0.0678, 'stddev': 3.7997589316864957, 'inScoring': 0.0131}
+24.) Jordan K $ Mich: {'average': 0.0617, 'stddev': 3.706454701141362, 'inScoring': 0.0125}
+25.) Emma B $ PSU: {'average': 0.0585, 'stddev': 3.899968991130119, 'inScoring': 0.011}
+26.) Colleen H $ OSU: {'average': 0.0544, 'stddev': 3.767656844145721, 'inScoring': 0.0085}
+27.) Jenna J $ Delaware: {'average': 0.0524, 'stddev': 2.7131853868588665, 'inScoring': 0.0067}
+28.) Kayla S $ IU: {'average': 0.0475, 'stddev': 3.85316063081295, 'inScoring': 0.0075}
+29.) Katelyn T $ Wisc: {'average': 0.0445, 'stddev': 3.9808273445335893, 'inScoring': 0.0078}
+30.) Fawn D $ BGSU: {'average': 0.04, 'stddev': 3.282420405383799, 'inScoring': 0.0054}
+31.) Stephanie S $ UConn: {'average': 0.0368, 'stddev': 3.972125095937662, 'inScoring': 0.0064}
+32.) Tammy B $ Toldeo: {'average': 0.0249, 'stddev': 1.3775162505060197, 'inScoring': 0.005}
+33.) Sarah A $ Wisc: {'average': 0.0241, 'stddev': 1.5776306410932541, 'inScoring': 0.0048}
 
-PSU: {'stddev': 3.8625322205976684, 'average': 18.042}
-OSU: {'stddev': 3.554916285578348, 'average': 7.998}
-ILL: {'stddev': 3.4606843819112565, 'average': 6.812}
-IU: {'stddev': 2.6532110121464823, 'average': 3.255}
-Iowa: {'stddev': 2.928635142512025, 'average': 1.936}
-Mich: {'stddev': 2.4312534903659713, 'average': 1.825}
-IwSt: {'stddev': 2.4817429620625027, 'average': 1.807}
-Wisc: {'stddev': 2.617834666403344, 'average': 1.619}
-NW: {'stddev': 2.3512440197438607, 'average': 1.04}
-BGSU: {'stddev': 3.602389204015576, 'average': 0.139}
-Delaware: {'stddev': 2.4976179127511156, 'average': 0.051}
-UConn: {'stddev': 3.7416573867739413, 'average': 0.044}
-Toldeo: {'stddev': 1.51657508881031, 'average': 0.023}
-Loyola: {'stddev': 0, 'average': 0.008}
+1.)  PSU: {'average': 17.8945, 'stddev': 4.127623223763009}
+2.)  OSU: {'average': 8.0283, 'stddev': 3.5840534852015424}
+3.)  ILL: {'average': 6.9014, 'stddev': 3.379307041256716}
+4.)  IU: {'average': 3.2414, 'stddev': 2.6807571649745614}
+5.)  Mich: {'average': 2.0264, 'stddev': 2.4979491581189803}
+6.)  IwSt: {'average': 1.8674, 'stddev': 2.4760414618005333}
+7.)  Iowa: {'average': 1.7977, 'stddev': 2.874829672005303}
+8.)  Wisc: {'average': 1.6388, 'stddev': 2.48124656006574}
+9.)  NW: {'average': 1.0292, 'stddev': 2.300804058986665}
+10.) BGSU: {'average': 0.1222, 'stddev': 3.626932528092467}
+11.) Delaware: {'average': 0.0524, 'stddev': 2.7131853868588665}
+12.) UConn: {'average': 0.0368, 'stddev': 3.972125095937662}
+13.) Toldeo: {'average': 0.0249, 'stddev': 1.3775162505060197}
 
 TJ:
 
-Tess L $ JMU: {'stddev': 2.726491711439027, 'average': 5.6}
-Natalie T $ Wisc: {'stddev': 2.7183161482869447, 'average': 5.544}
-Jesse H $ OSU: {'stddev': 2.8707280245981446, 'average': 5.282}
-Cassandra L $ PSU: {'stddev': 2.7270955304634175, 'average': 4.728}
-Erica F $ PSU: {'stddev': 2.887791554199968, 'average': 3.361}
-Erica V $ PSU: {'stddev': 2.823835586724794, 'average': 3.33}
-Katelyn M $ Wisc: {'stddev': 2.6882490836616824, 'average': 2.797}
-Sonia Z $ ILL: {'stddev': 2.716238177410648, 'average': 2.574}
-Yasi M $ IwSt: {'stddev': 2.5781258772283233, 'average': 2.567}
-Abby R $ ILL: {'stddev': 2.5882748008217797, 'average': 2.205}
-Kati P $ PSU: {'stddev': 2.4612480533827785, 'average': 1.762}
-Grace E $ NW: {'stddev': 2.3526603712628864, 'average': 1.668}
-Melissa S $ Penn: {'stddev': 2.3808432846606062, 'average': 1.498}
-Allie H $ Iowa: {'stddev': 2.3828965641930084, 'average': 0.866}
-Katie C $ JMU: {'stddev': 2.483769405446697, 'average': 0.765}
-Amanda K $ UConn: {'stddev': 2.565978957445766, 'average': 0.587}
-Natalie O $ Iowa: {'stddev': 2.304218031782619, 'average': 0.331}
-Nia C $ Wisc: {'stddev': 2.3028586354218192, 'average': 0.246}
-Abby R $ PSU: {'stddev': 2.395737191814268, 'average': 0.223}
-Jenna J $ Delaware: {'stddev': 0.4472135954999579, 'average': 0.039}
-Emily S $ JMU: {'stddev': 1.760681686165901, 'average': 0.027}
+1.)  Tess L $ JMU: {'average': 5.6519, 'stddev': 2.789376616269809, 'inScoring': 0.9383}
+2.)  Natalie T $ Wisc: {'average': 5.5006, 'stddev': 2.7620839535060804, 'inScoring': 0.925}
+3.)  Jesse H $ OSU: {'average': 5.1112, 'stddev': 2.7988694573829562, 'inScoring': 0.8909}
+4.)  Cassandra L $ PSU: {'average': 4.7918, 'stddev': 2.827539175481307, 'inScoring': 0.8545}
+5.)  Erica F $ PSU: {'average': 3.4642, 'stddev': 2.7582784023885702, 'inScoring': 0.6814}
+6.)  Erica V $ PSU: {'average': 3.3458, 'stddev': 2.7279120525477785, 'inScoring': 0.6634}
+7.)  Katelyn M $ Wisc: {'average': 2.8402, 'stddev': 2.6602037798375435, 'inScoring': 0.5781}
+8.)  Yasi M $ IwSt: {'average': 2.5862, 'stddev': 2.6075353416569493, 'inScoring': 0.5341}
+9.)  Sonia Z $ ILL: {'average': 2.4277, 'stddev': 2.6063080222978265, 'inScoring': 0.5083}
+10.) Abby R $ ILL: {'average': 2.302, 'stddev': 2.550413149621952, 'inScoring': 0.4869}
+11.) Kati P $ PSU: {'average': 1.8106, 'stddev': 2.4979579791451503, 'inScoring': 0.3999}
+12.) Grace E $ NW: {'average': 1.5541, 'stddev': 2.4490905865739774, 'inScoring': 0.3588}
+13.) Melissa S $ Penn: {'average': 1.3299, 'stddev': 2.4441889339716467, 'inScoring': 0.3127}
+14.) Allie H $ Iowa: {'average': 0.9055, 'stddev': 2.4139834531938753, 'inScoring': 0.2339}
+15.) Katie C $ JMU: {'average': 0.8764, 'stddev': 2.416723511441093, 'inScoring': 0.2205}
+16.) Amanda K $ UConn: {'average': 0.5721, 'stddev': 2.4343946286637723, 'inScoring': 0.1547}
+17.) Natalie O $ Iowa: {'average': 0.3471, 'stddev': 2.583734685499929, 'inScoring': 0.0978}
+18.) Abby R $ PSU: {'average': 0.2667, 'stddev': 2.7306282533879105, 'inScoring': 0.0783}
+19.) Nia C $ Wisc: {'average': 0.2543, 'stddev': 2.720223287273389, 'inScoring': 0.0721}
+20.) Jenna J $ Delaware: {'average': 0.0367, 'stddev': 1.3558891452289379, 'inScoring': 0.0049}
+21.) Emily S $ JMU: {'average': 0.025, 'stddev': 1.5965029122496297, 'inScoring': 0.0055}
 
-PSU: {'stddev': 4.955553087954937, 'average': 13.174}
-Wisc: {'stddev': 4.068564943052657, 'average': 8.587}
-JMU: {'stddev': 3.300781980794903, 'average': 6.392}
-OSU: {'stddev': 2.8707280245981446, 'average': 5.282}
-ILL: {'stddev': 3.6568455246626055, 'average': 4.779}
-IwSt: {'stddev': 2.5781258772283233, 'average': 2.567}
-NW: {'stddev': 2.3526603712628864, 'average': 1.668}
-Penn: {'stddev': 2.3808432846606062, 'average': 1.498}
-Iowa: {'stddev': 2.503385558066605, 'average': 1.197}
-UConn: {'stddev': 2.565978957445766, 'average': 0.587}
-Delaware: {'stddev': 0.4472135954999579, 'average': 0.039}
+1.)  PSU: {'average': 13.4028, 'stddev': 5.119312755224163}
+2.)  Wisc: {'average': 8.5951, 'stddev': 4.172780678931885}
+3.)  JMU: {'average': 6.5533, 'stddev': 3.3402591049088337}
+4.)  OSU: {'average': 5.1112, 'stddev': 2.7988694573829562}
+5.)  ILL: {'average': 4.7297, 'stddev': 3.568851488630992}
+6.)  IwSt: {'average': 2.5862, 'stddev': 2.6075353416569493}
+7.)  NW: {'average': 1.5541, 'stddev': 2.4490905865739774}
+8.)  Penn: {'average': 1.3299, 'stddev': 2.4441889339716467}
+9.)  Iowa: {'average': 1.2526, 'stddev': 2.681795823925957}
+10.) UConn: {'average': 0.5721, 'stddev': 2.4343946286637723}
+11.) Delaware: {'average': 0.0367, 'stddev': 1.3558891452289379}
 
 HJ:
 
-Vanessa R $ PSU: {'stddev': 1.2383010092014741, 'average': 8.988}
-Erica F $ PSU: {'stddev': 1.4335379419572511, 'average': 7.532}
-Ceila K $ IU: {'stddev': 1.5421667478837295, 'average': 7.31}
-Katie C $ JMU: {'stddev': 1.9006712147379978, 'average': 4.529}
-Jada H $ IU: {'stddev': 1.98149484694089, 'average': 3.914}
-Claire H $ OSU: {'stddev': 1.9670252908492594, 'average': 3.106}
-Sarah C $ Mich: {'stddev': 1.9098025662572256, 'average': 2.305}
-Abby R $ PSU: {'stddev': 1.9492476910393113, 'average': 2.251}
-Becky H $ ILL: {'stddev': 1.8487856091065977, 'average': 1.646}
-Skylar N $ CMU: {'stddev': 1.7885125051382578, 'average': 0.976}
-Fawn D $ BGSU: {'stddev': 1.7922652204555558, 'average': 0.804}
-Katelyn R $ JMU: {'stddev': 1.7279381499431063, 'average': 0.778}
-Sharuti P $ Miami: {'stddev': 1.770556654233105, 'average': 0.583}
-Sophia M $ Mich: {'stddev': 2.0079571760927712, 'average': 0.233}
-Lulu B $ Minn: {'stddev': 2.7908490844845093, 'average': 0.168}
-Abby R $ ILL: {'stddev': 2.234863037103794, 'average': 0.161}
-Arden McM $ Miami: {'stddev': 2.6521171712795946, 'average': 0.157}
-Karli F $ Wisc: {'stddev': 3.0126868491899472, 'average': 0.139}
-Daisy O $ OSU: {'stddev': 3.108770147058564, 'average': 0.131}
-Margaret L $ WashU: {'stddev': 1.8041346847683832, 'average': 0.128}
-Celia K $ IU: {'stddev': 2.9060932798622456, 'average': 0.115}
-Kassie K $ ILL: {'stddev': 3.763460689795546, 'average': 0.046}
+1.)  Vanessa R $ PSU: {'average': 8.9838, 'stddev': 1.2297515150951788, 'inScoring': 1.0}
+2.)  Erica F $ PSU: {'average': 7.5248, 'stddev': 1.4461653084657857, 'inScoring': 1.0}
+3.)  Ceila K $ IU: {'average': 7.2987, 'stddev': 1.5467765067249295, 'inScoring': 1.0}
+4.)  Katie C $ JMU: {'average': 4.5268, 'stddev': 1.976186305054087, 'inScoring': 0.971}
+5.)  Jada H $ IU: {'average': 3.9885, 'stddev': 1.9918332280548854, 'inScoring': 0.9353}
+6.)  Claire H $ OSU: {'average': 3.0971, 'stddev': 2.015959597571271, 'inScoring': 0.8035}
+7.)  Abby R $ PSU: {'average': 2.2952, 'stddev': 1.9292383466663965, 'inScoring': 0.648}
+8.)  Sarah C $ Mich: {'average': 2.1923, 'stddev': 1.8974014236209304, 'inScoring': 0.6364}
+9.)  Becky H $ ILL: {'average': 1.592, 'stddev': 1.8407798271469171, 'inScoring': 0.4756}
+10.) Skylar N $ CMU: {'average': 0.9524, 'stddev': 1.7583886490195453, 'inScoring': 0.3196}
+11.) Katelyn R $ JMU: {'average': 0.8557, 'stddev': 1.7710525662133403, 'inScoring': 0.2874}
+12.) Fawn D $ BGSU: {'average': 0.849, 'stddev': 1.8463718526213992, 'inScoring': 0.2834}
+13.) Sharuti P $ Miami: {'average': 0.5749, 'stddev': 1.9438934712940186, 'inScoring': 0.2036}
+14.) Sophia M $ Mich: {'average': 0.2503, 'stddev': 1.9772823800200496, 'inScoring': 0.095}
+15.) Celia K $ IU: {'average': 0.1528, 'stddev': 2.571259947923753, 'inScoring': 0.0508}
+16.) Abby R $ ILL: {'average': 0.139, 'stddev': 2.5017156003680614, 'inScoring': 0.0453}
+17.) Daisy O $ OSU: {'average': 0.1385, 'stddev': 2.204980551016331, 'inScoring': 0.0495}
+18.) Karli F $ Wisc: {'average': 0.136, 'stddev': 2.2428696351675943, 'inScoring': 0.0488}
+19.) Lulu B $ Minn: {'average': 0.1346, 'stddev': 2.3914296038223215, 'inScoring': 0.0472}
+20.) Arden McM $ Miami: {'average': 0.1336, 'stddev': 2.3913308861860694, 'inScoring': 0.0445}
+21.) Margaret L $ WashU: {'average': 0.1331, 'stddev': 2.461810792315002, 'inScoring': 0.0428}
+22.) Kassie K $ ILL: {'average': 0.0509, 'stddev': 2.951313137171296, 'inScoring': 0.0123}
 
-PSU: {'stddev': 2.8193097572823578, 'average': 18.771}
-IU: {'stddev': 2.784929951513114, 'average': 11.339}
-JMU: {'stddev': 2.3512561265744023, 'average': 5.307}
-OSU: {'stddev': 2.1550591013361156, 'average': 3.237}
-Mich: {'stddev': 2.1074057134683017, 'average': 2.538}
-ILL: {'stddev': 2.085326624164638, 'average': 1.853}
-CMU: {'stddev': 1.7885125051382578, 'average': 0.976}
-BGSU: {'stddev': 1.7922652204555558, 'average': 0.804}
-Miami: {'stddev': 2.185705097424711, 'average': 0.74}
-Minn: {'stddev': 2.7908490844845093, 'average': 0.168}
-Wisc: {'stddev': 3.0126868491899472, 'average': 0.139}
-WashU: {'stddev': 1.8041346847683832, 'average': 0.128}
+1.)  PSU: {'average': 18.8038, 'stddev': 2.767358196392132}
+2.)  IU: {'average': 11.44, 'stddev': 2.7081235927001805}
+3.)  JMU: {'average': 5.3825, 'stddev': 2.522503715631342}
+4.)  OSU: {'average': 3.2356, 'stddev': 2.1463873707580583}
+5.)  Mich: {'average': 2.4426, 'stddev': 2.1031038717537194}
+6.)  ILL: {'average': 1.7819, 'stddev': 2.087411438822268}
+7.)  CMU: {'average': 0.9524, 'stddev': 1.7583886490195453}
+8.)  BGSU: {'average': 0.849, 'stddev': 1.8463718526213992}
+9.)  Miami: {'average': 0.7085, 'stddev': 2.1594589809839935}
+10.) Wisc: {'average': 0.136, 'stddev': 2.2428696351675943}
+11.) Minn: {'average': 0.1346, 'stddev': 2.3914296038223215}
+12.) WashU: {'average': 0.1331, 'stddev': 2.461810792315002}
 
 Shot:
 
-Carah C $ ILL: {'stddev': 0.8989900907035534, 'average': 9.475}
-Marley OB $ PSU: {'stddev': 0.8974387981341103, 'average': 8.403}
-Obioma A $ ILL: {'stddev': 1.1895647787994375, 'average': 5.952}
-Inga A $ ILL: {'stddev': 1.369240234151341, 'average': 5.416}
-Sally B $ PSU: {'stddev': 1.7760385163454713, 'average': 4.13}
-Rachel K $ PSU: {'stddev': 1.815295783907401, 'average': 3.789}
-Ehitare E $ ILL: {'stddev': 1.7885924058877993, 'average': 3.748}
-Samantha M $ UConn: {'stddev': 1.735489732280064, 'average': 2.503}
-Elizabeth V $ Loyola: {'stddev': 1.6326224056923047, 'average': 2.292}
-Nayeli L $ ILL: {'stddev': 1.352140091958976, 'average': 0.172}
-Ali D $ ILL: {'stddev': 1.5491933384829668, 'average': 0.055}
-Erica F $ PSU: {'stddev': 1.4719601443879744, 'average': 0.031}
-Danielle M $ UConn: {'stddev': 2.5071326821120348, 'average': 0.02}
-Colleen C $ Mich: {'stddev': 0.5175491695067657, 'average': 0.013}
-Arden McM $ Miami: {'stddev': 0, 'average': 0.001}
+1.)  Carah C $ ILL: {'average': 9.4976, 'stddev': 0.8810629189715787, 'inScoring': 1.0}
+2.)  Marley OB $ PSU: {'average': 8.3944, 'stddev': 0.8862997194624807, 'inScoring': 1.0}
+3.)  Obioma A $ ILL: {'average': 6.0601, 'stddev': 1.122147009705564, 'inScoring': 1.0}
+4.)  Inga A $ ILL: {'average': 5.5635, 'stddev': 1.2784878580261574, 'inScoring': 1.0}
+5.)  Sally B $ PSU: {'average': 4.3719, 'stddev': 1.5753016101424424, 'inScoring': 0.9999}
+6.)  Ehitare E $ ILL: {'average': 4.0779, 'stddev': 1.5644353577081331, 'inScoring': 0.9999}
+7.)  Rachel K $ PSU: {'average': 3.9565, 'stddev': 1.5664140944563576, 'inScoring': 1.0}
+8.)  Samantha M $ UConn: {'average': 2.8611, 'stddev': 1.4221145031527764, 'inScoring': 0.9978}
+9.)  Nayeli L $ ILL: {'average': 0.8883, 'stddev': 0.663403007639366, 'inScoring': 0.7699}
+10.) Ali D $ ILL: {'average': 0.146, 'stddev': 1.386366043197732, 'inScoring': 0.099}
+11.) Danielle M $ UConn: {'average': 0.1344, 'stddev': 1.0690087780577955, 'inScoring': 0.1079}
+12.) Erica F $ PSU: {'average': 0.0276, 'stddev': 1.6381079584074072, 'inScoring': 0.0112}
+13.) Colleen C $ Mich: {'average': 0.0122, 'stddev': 0.7886124735372786, 'inScoring': 0.0069}
+14.) Arden McM $ Miami: {'average': 0.005, 'stddev': 0.4385290096535146, 'inScoring': 0.004}
+15.) Leah G $ Miami: {'average': 0.0035, 'stddev': 0.0, 'inScoring': 0.0035}
 
-ILL: {'stddev': 1.6275899511391219, 'average': 21.46}
-PSU: {'stddev': 2.372256858479411, 'average': 16.345}
-UConn: {'stddev': 1.7494105254105066, 'average': 2.523}
-Loyola: {'stddev': 1.6326224056923047, 'average': 2.292}
-Mich: {'stddev': 0.5175491695067657, 'average': 0.013}
-Miami: {'stddev': 0, 'average': 0.001}
-
-Meet Score:
-PSU: {'stddev': 11.0969, 'points': 122.65}
-ILL: {'stddev': 8.0043, 'points': 70.97}
-Wisc: {'stddev': 8.6823, 'points': 61.82}
-OSU: {'stddev': 8.3556, 'points': 54.34}
-IU: {'stddev': 7.529, 'points': 49.92}
-MSU: {'stddev': 7.6852, 'points': 35.77}
-Maryland: {'stddev': 4.125, 'points': 35.52}
-Mich: {'stddev': 8.6351, 'points': 33.41}
-Iowa: {'stddev': 6.481, 'points': 22.12}
-Minn: {'stddev': 6.008, 'points': 19.69}
-IwSt: {'stddev': 6.191, 'points': 17.61}
-JMU: {'stddev': 4.7145, 'points': 14.91}
-Delaware: {'stddev': 4.8478, 'points': 13.75}
-UConn: {'stddev': 6.0955, 'points': 12.32}
-GTWN: {'stddev': 4.0613, 'points': 8.71}
-Pitt: {'stddev': 3.4973, 'points': 6.46}
-NW: {'stddev': 4.5376, 'points': 5.73}
-NE: {'stddev': 2.6062, 'points': 4.45}
-Miami: {'stddev': 2.8579, 'points': 4.08}
-WVU: {'stddev': 3.1456, 'points': 3.95}
-Mizzou: {'stddev': 2.1675, 'points': 3.35}
-Purdue: {'stddev': 2.2404, 'points': 2.75}
-Loyola: {'stddev': 1.9538, 'points': 2.33}
-UVA: {'stddev': 2.1109, 'points': 2.32}
-BGSU: {'stddev': 4.25, 'points': 2.25}
-ND: {'stddev': 2.0392, 'points': 1.9}
-Penn: {'stddev': 2.3808, 'points': 1.5}
-Drexel: {'stddev': 2.2943, 'points': 1.46}
-CMU: {'stddev': 1.8727, 'points': 1.03}
-WashU: {'stddev': 1.8041, 'points': 0.13}
-Toledo: {'stddev': 1.2792, 'points': 0.09}
-Toldeo: {'stddev': 1.5166, 'points': 0.02}
-Nova: {'stddev': 0.0, 'points': 0.01}
+1.)  ILL: {'average': 21.6899, 'stddev': 1.468248468535396}
+2.)  PSU: {'average': 16.7333, 'stddev': 2.126457921598552}
+3.)  UConn: {'average': 2.9955, 'stddev': 1.496950634348487}
+4.)  Mich: {'average': 0.0122, 'stddev': 0.7886124735372786}
+5.)  Miami: {'average': 0.0085, 'stddev': 0.34222378222022665}
 
 Meet Score:
-PSU: {'points': 136}
-ILL: {'points': 78}
-Wisc: {'points': 65}
-OSU: {'points': 63}
-IU: {'points': 60}
-MSU: {'points': 39}
-Maryland: {'points': 37}
-Mich: {'points': 23}
-Iowa: {'points': 21}
-Minn: {'points': 19}
-IwSt: {'points': 18}
-JMU: {'points': 17}
-Delaware: {'points': 14}
-UConn: {'points': 9}
-NE: {'points': 7}
-GTWN: {'points': 6}
-Pitt: {'points': 6}
-Miami: {'points': 4}
-UVA: {'points': 3}
-ND: {'points': 1}
-BGSU: {'points': 1}
-Loyola: {'points': 1}
-Mizzou: {'points': 1}
+1.)  PSU: {'stddev': 11.252, 'points': 123.45}
+2.)  ILL: {'stddev': 7.9139, 'points': 70.88}
+3.)  Wisc: {'stddev': 8.5084, 'points': 61.71}
+4.)  OSU: {'stddev': 8.3737, 'points': 53.89}
+5.)  IU: {'stddev': 7.5771, 'points': 49.88}
+6.)  Maryland: {'stddev': 4.1619, 'points': 35.62}
+7.)  MSU: {'stddev': 7.6782, 'points': 35.54}
+8.)  Mich: {'stddev': 8.7028, 'points': 33.76}
+9.)  Iowa: {'stddev': 6.4612, 'points': 22.24}
+10.) Minn: {'stddev': 5.8684, 'points': 19.6}
+11.) IwSt: {'stddev': 6.1883, 'points': 17.59}
+12.) JMU: {'stddev': 4.8828, 'points': 15.24}
+13.) Delaware: {'stddev': 5.1786, 'points': 13.88}
+14.) UConn: {'stddev': 6.1533, 'points': 12.79}
+15.) GTWN: {'stddev': 4.0572, 'points': 8.59}
+16.) Pitt: {'stddev': 3.5476, 'points': 6.54}
+17.) NW: {'stddev': 4.3982, 'points': 5.59}
+18.) NE: {'stddev': 2.7078, 'points': 4.43}
+19.) Miami: {'stddev': 2.8618, 'points': 4.15}
+20.) WVU: {'stddev': 3.166, 'points': 4.02}
+21.) Mizzou: {'stddev': 2.1786, 'points': 3.29}
+22.) Purdue: {'stddev': 2.1713, 'points': 2.74}
+23.) UVA: {'stddev': 2.2239, 'points': 2.38}
+24.) BGSU: {'stddev': 4.3662, 'points': 2.32}
+25.) ND: {'stddev': 2.1472, 'points': 1.97}
+26.) Drexel: {'stddev': 2.1115, 'points': 1.5}
+27.) Penn: {'stddev': 2.4442, 'points': 1.33}
+28.) CMU: {'stddev': 1.8358, 'points': 1.02}
+29.) WashU: {'stddev': 2.4618, 'points': 0.13}
+30.) Toledo: {'stddev': 0.9349, 'points': 0.07}
+31.) Toldeo: {'stddev': 1.3775, 'points': 0.02}
+32.) Nova: {'stddev': 0.3632, 'points': 0.01}
+
+Meet Score:
+1.)  PSU: {'points': 135}
+2.)  ILL: {'points': 79}
+3.)  Wisc: {'points': 65}
+4.)  OSU: {'points': 63}
+5.)  IU: {'points': 60}
+6.)  MSU: {'points': 38}
+7.)  Maryland: {'points': 36}
+8.)  Mich: {'points': 25}
+9.)  Iowa: {'points': 19}
+10.) Minn: {'points': 19}
+11.) JMU: {'points': 19}
+12.) IwSt: {'points': 18}
+13.) Delaware: {'points': 14}
+14.) UConn: {'points': 9}
+15.) NE: {'points': 7}
+16.) Pitt: {'points': 6}
+17.) GTWN: {'points': 6}
+18.) Miami: {'points': 4}
+19.) UVA: {'points': 3}
+20.) WVU: {'points': 1}
+21.) ND: {'points': 1}
+22.) BGSU: {'points': 1}
+23.) Mizzou: {'points': 1}

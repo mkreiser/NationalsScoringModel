@@ -27,7 +27,7 @@ if __name__ == '__main__':
   scoreByCalculatedTime.scoreByCalculatedTime(womensAthletesAnalyzedTimes, 'outputs/Womens-Calculated-Score.txt')
   scoreByCalculatedTime.scoreByCalculatedTime(mensAthletesAnalyzedTimes, 'outputs/Mens-Calculated-Score.txt')
 
-  modelMeet.modelMeet(womensAthletesAnalyzedTimes, 'outputs/Womens-Model-Score.txt', 1000)
-  modelMeet.modelMeet(mensAthletesAnalyzedTimes, 'outputs/Mens-Model-Score.txt', 1000)
+  modelMeet.modelMeet(womensAthletesAnalyzedTimes, 'outputs/Womens-Model-Score.txt', 10000)
+  modelMeet.modelMeet(mensAthletesAnalyzedTimes, 'outputs/Mens-Model-Score.txt', 10000)
 
   helpers.printDuration('Completed program', envStartTime, time.time())
