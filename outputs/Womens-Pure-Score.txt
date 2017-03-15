@@ -1,0 +1,288 @@
+
+100m:
+Becky H ILL: 13.03, points: 10
+Audrey R IU: 13.12, points: 8
+Madison H IwSt: 13.28, points: 7
+Kellie L Iowa: 13.37, points: 6
+Devin M PSU: 13.52, points: 5
+Brittany G Delaware: 13.57, points: 4
+Melanie S MSU: 13.64, points: 3
+Daisy O OSU: 13.7, points: 2
+Borchueh W GTWN: 13.72, points: 1
+
+ILL: {'points': 10, 'count': 1}
+IU: {'points': 8, 'count': 1}
+IwSt: {'points': 7, 'count': 1}
+Iowa: {'points': 6, 'count': 1}
+PSU: {'points': 5, 'count': 1}
+Delaware: {'points': 4, 'count': 1}
+MSU: {'points': 3, 'count': 1}
+OSU: {'points': 2, 'count': 1}
+GTWN: {'points': 1, 'count': 1}
+
+200m:
+Becky H ILL: 26.41, points: 10
+Rachel P PSU: 26.58, points: 8
+Audrey R IU: 26.92, points: 7
+Morgan W OSU: 27.59, points: 6
+Brittany G Delaware: 27.69, points: 5
+Hanna D Wisc: 27.78, points: 4
+Tess L JMU: 27.84, points: 3
+Borchueh W GTWN: 27.85, points: 2
+Kellie L Iowa: 28.13, points: 1
+
+ILL: {'points': 10, 'count': 1}
+PSU: {'points': 8, 'count': 1}
+IU: {'points': 7, 'count': 1}
+OSU: {'points': 6, 'count': 1}
+Delaware: {'points': 5, 'count': 1}
+Wisc: {'points': 4, 'count': 1}
+JMU: {'points': 3, 'count': 1}
+GTWN: {'points': 2, 'count': 1}
+Iowa: {'points': 1, 'count': 1}
+
+400m:
+Becky H ILL: 60.14, points: 10
+Emma D OSU: 61.31, points: 8
+Hanna D Wisc: 62.04, points: 7
+Gabrielle L Mich: 62.45, points: 6
+Madison S Iowa: 62.73, points: 5
+Meghan R PSU: 64.0, points: 4
+Mary E UVA: 64.2, points: 3
+Alexandria C Mich: 64.31, points: 2
+Jill B PSU: 64.52, points: 1
+
+ILL: {'points': 10, 'count': 1}
+Mich: {'points': 8, 'count': 2}
+OSU: {'points': 8, 'count': 1}
+Wisc: {'points': 7, 'count': 1}
+PSU: {'points': 5, 'count': 2}
+Iowa: {'points': 5, 'count': 1}
+UVA: {'points': 3, 'count': 1}
+
+800m:
+Hanna D Wisc: 139.19, points: 10
+Madeleine P Wisc: 139.39, points: 8
+Erin Z MSU: 142.12, points: 7
+Emily M PSU: 142.72, points: 6
+Gabriella R Wisc: 143.75, points: 5
+Emma D OSU: 145.32, points: 4
+Meghan G GTWN: 146.16, points: 3
+Lauren McG MSU: 147.86, points: 2
+Nicole M MSU: 148.34, points: 1
+
+Wisc: {'points': 23, 'count': 3}
+MSU: {'points': 10, 'count': 3}
+PSU: {'points': 6, 'count': 1}
+OSU: {'points': 4, 'count': 1}
+GTWN: {'points': 3, 'count': 1}
+
+1500m:
+Erin Z MSU: 289.4, points: 10
+Emily W IU: 290.58, points: 8
+Nicole M MSU: 301.14, points: 7
+Maddie P Minn: 301.34, points: 6
+Katlyn A IwSt: 301.88, points: 5
+Molly M Mich: 302.4, points: 4
+Ariane A PSU: 303.35, points: 3
+Madeleine P Wisc: 303.51, points: 2
+Kristina K ND: 304.62, points: 1
+
+MSU: {'points': 17, 'count': 2}
+IU: {'points': 8, 'count': 1}
+Minn: {'points': 6, 'count': 1}
+IwSt: {'points': 5, 'count': 1}
+Mich: {'points': 4, 'count': 1}
+PSU: {'points': 3, 'count': 1}
+Wisc: {'points': 2, 'count': 1}
+ND: {'points': 1, 'count': 1}
+
+5000m:
+Emily W IU: 1092.01, points: 10
+Chelsea W NE: 1102.77, points: 8
+Anna P Mich: 1103.04, points: 7
+Ariane A PSU: 1106.75, points: 6
+Jenny S OSU: 1111.51, points: 5
+Colleen C Mich: 1113.97, points: 4
+Suzanne S PSU: 1115.68, points: 3
+Erin Z MSU: 1117.34, points: 2
+Jenny O Pitt: 1123.77, points: 1
+
+Mich: {'points': 11, 'count': 2}
+IU: {'points': 10, 'count': 1}
+PSU: {'points': 9, 'count': 2}
+NE: {'points': 8, 'count': 1}
+OSU: {'points': 5, 'count': 1}
+MSU: {'points': 2, 'count': 1}
+Pitt: {'points': 1, 'count': 1}
+
+100m HH:
+Erica F PSU: 16.07, points: 10
+Cheyenne H UConn: 16.4, points: 8
+Jada H IU: 16.51, points: 7
+Vanessa R PSU: 16.59, points: 6
+Haley H Delaware: 16.6, points: 5
+Abby R ILL: 17.0, points: 4
+Brittany T Maryland: 17.12, points: 3
+Jaclyn G IU: 17.76, points: 2
+Colleen B BGSU: 17.78, points: 1
+
+PSU: {'points': 16, 'count': 2}
+IU: {'points': 9, 'count': 2}
+UConn: {'points': 8, 'count': 1}
+Delaware: {'points': 5, 'count': 1}
+ILL: {'points': 4, 'count': 1}
+Maryland: {'points': 3, 'count': 1}
+BGSU: {'points': 1, 'count': 1}
+
+3000m Steeplechase:
+Miriam S Maryland: 800.05, points: 10
+Kim G Maryland: 800.5, points: 8
+Rachel N Maryland: 806.4, points: 7
+Erin L Maryland: 811.8, points: 6
+
+Maryland: {'points': 25, 'count': 3}
+
+4x100m:
+
+
+4x400m:
+Wisc: 250.7, points: 10
+PSU: 260.45, points: 8
+ILL: 269.05, points: 7
+Iowa: 269.13, points: 6
+OSU: 270.47, points: 5
+MSU: 275.24, points: 4
+IwSt: 276.53, points: 3
+Mich: 277.18, points: 2
+WVU: 277.26, points: 1
+
+Wisc: {'points': 10, 'count': 1}
+PSU: {'points': 8, 'count': 1}
+ILL: {'points': 7, 'count': 1}
+Iowa: {'points': 6, 'count': 1}
+OSU: {'points': 5, 'count': 1}
+MSU: {'points': 4, 'count': 1}
+IwSt: {'points': 3, 'count': 1}
+Mich: {'points': 2, 'count': 1}
+WVU: {'points': 1, 'count': 1}
+
+4x800m:
+OSU: 598.75, points: 10
+Wisc: 605.48, points: 8
+Minn: 612.76, points: 7
+MSU: 637.91, points: 6
+Pitt: 648.92, points: 5
+Miami: 649.02, points: 4
+ILL: 653.61, points: 3
+Maryland: 658.0, points: 2
+Mizzou: 658.61, points: 1
+
+OSU: {'points': 10, 'count': 1}
+Wisc: {'points': 8, 'count': 1}
+Minn: {'points': 7, 'count': 1}
+MSU: {'points': 6, 'count': 1}
+Pitt: {'points': 5, 'count': 1}
+Miami: {'points': 4, 'count': 1}
+ILL: {'points': 3, 'count': 1}
+Maryland: {'points': 2, 'count': 1}
+Mizzou: {'points': 1, 'count': 1}
+
+LJ:
+Devin McD PSU: 4.91, points: 10
+Morgan W OSU: 4.88, points: 8
+Becky H ILL: 4.8, points: 7
+Erica F PSU: 4.74, points: 6
+Jada H IU: 4.67, points: 5
+Mary P PSU: 4.67, points: 4
+Kati P PSU: 4.6, points: 3
+Yasi M IwSt: 4.6, points: 2
+Haley Y Mich: 4.59, points: 1
+
+PSU: {'points': 20, 'count': 3}
+OSU: {'points': 8, 'count': 1}
+ILL: {'points': 7, 'count': 1}
+IU: {'points': 5, 'count': 1}
+IwSt: {'points': 2, 'count': 1}
+Mich: {'points': 1, 'count': 1}
+
+TJ:
+Cassandra L PSU: 10.21, points: 10
+Tess L JMU: 10.17, points: 8
+Natalie T Wisc: 10.14, points: 7
+Jesse H OSU: 10.1, points: 6
+Erica F PSU: 9.93, points: 5
+Erica V PSU: 9.92, points: 4
+Katelyn M Wisc: 9.85, points: 3
+Yasi M IwSt: 9.8, points: 2
+Sonia Z ILL: 9.79, points: 1
+
+PSU: {'points': 19, 'count': 3}
+Wisc: {'points': 10, 'count': 2}
+JMU: {'points': 8, 'count': 1}
+OSU: {'points': 6, 'count': 1}
+IwSt: {'points': 2, 'count': 1}
+ILL: {'points': 1, 'count': 1}
+
+HJ:
+Vanessa R PSU: 1.58, points: 10
+Erica F PSU: 1.57, points: 8
+Ceila K IU: 1.55, points: 7
+Jada H IU: 1.48, points: 6
+Katie C JMU: 1.47, points: 5
+Claire H OSU: 1.44, points: 4
+Sarah C Mich: 1.42, points: 3
+Abby R PSU: 1.42, points: 2
+Becky H ILL: 1.4, points: 1
+
+PSU: {'points': 20, 'count': 3}
+IU: {'points': 13, 'count': 2}
+JMU: {'points': 5, 'count': 1}
+OSU: {'points': 4, 'count': 1}
+Mich: {'points': 3, 'count': 1}
+ILL: {'points': 1, 'count': 1}
+
+Shot:
+Carah C ILL: 11.3, points: 10
+Marley OB PSU: 10.87, points: 8
+Obioma A ILL: 9.78, points: 7
+Sally B PSU: 9.34, points: 6
+Ehitare E ILL: 9.26, points: 5
+Inga A ILL: 9.12, points: 4
+Samantha M UConn: 8.96, points: 3
+Elizabeth V Loyola: 8.95, points: 2
+Rachel K PSU: 8.63, points: 1
+
+ILL: {'points': 22, 'count': 3}
+PSU: {'points': 15, 'count': 3}
+UConn: {'points': 3, 'count': 1}
+Loyola: {'points': 2, 'count': 1}
+
+Discus:
+
+
+Meet Score:
+PSU: 134
+ILL: 75
+Wisc: 64
+IU: 60
+OSU: 58
+MSU: 42
+Maryland: 30
+Mich: 29
+IwSt: 19
+Iowa: 18
+JMU: 16
+Delaware: 14
+Minn: 13
+UConn: 11
+NE: 8
+GTWN: 6
+Pitt: 6
+Miami: 4
+UVA: 3
+Loyola: 2
+ND: 1
+WVU: 1
+BGSU: 1
+Mizzou: 1

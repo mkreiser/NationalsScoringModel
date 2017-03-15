@@ -1,0 +1,288 @@
+
+100m:
+Melvin I Iowa: 10.88, points: 10
+Mike G Iowa: 11.02, points: 8
+DeVante C Mich: 11.03, points: 7
+Stephen F OSU: 11.06, points: 6
+Cameron S PSU: 11.1, points: 5
+Garret S IU: 11.12, points: 4
+Jordan W Mich: 11.18, points: 3
+Keon'tay W Iowa: 11.2, points: 2
+Trevor E IU: 11.21, points: 1
+
+Iowa: {'points': 20, 'count': 3}
+Mich: {'points': 10, 'count': 2}
+OSU: {'points': 6, 'count': 1}
+IU: {'points': 5, 'count': 2}
+PSU: {'points': 5, 'count': 1}
+
+200m:
+Cameron S PSU: 22.81, points: 10
+DeVante C Mich: 22.89, points: 8
+Peter VB Wisc: 23.2, points: 7
+Suleman B ILL: 23.28, points: 6
+Garrett S IU: 23.32, points: 5
+Mateusz L ILL: 23.35, points: 4
+Mason R ILL: 23.36, points: 3
+Keon'tay W Iowa: 23.42, points: 2
+Melvin I Iowa: 23.43, points: 1
+
+ILL: {'points': 13, 'count': 3}
+PSU: {'points': 10, 'count': 1}
+Mich: {'points': 8, 'count': 1}
+Wisc: {'points': 7, 'count': 1}
+IU: {'points': 5, 'count': 1}
+Iowa: {'points': 3, 'count': 2}
+
+400m:
+Jerod A MSU: 50.64, points: 10
+Hunter S PSU: 51.22, points: 8
+Tyler S ILL: 51.3, points: 7
+Brandon D UConn: 51.87, points: 6
+Mateusz L ILL: 51.99, points: 5
+Alex B ILL: 52.13, points: 4
+Brad S Mich: 52.24, points: 3
+Trevor E IU: 52.28, points: 2
+Evan G Maryland: 52.49, points: 1
+
+ILL: {'points': 16, 'count': 3}
+MSU: {'points': 10, 'count': 1}
+PSU: {'points': 8, 'count': 1}
+UConn: {'points': 6, 'count': 1}
+Mich: {'points': 3, 'count': 1}
+IU: {'points': 2, 'count': 1}
+Maryland: {'points': 1, 'count': 1}
+
+800m:
+Matt L IU: 117.86, points: 10
+Andrew S Wisc: 118.03, points: 8
+John D IU: 118.39, points: 7
+Andrew N Minn: 118.81, points: 6
+Evan R Wisc: 118.87, points: 5
+Bryan M PSU: 119.08, points: 4
+Jared R IU: 119.56, points: 3
+Evan K Wisc: 120.63, points: 2
+John H Mich: 120.74, points: 1
+
+IU: {'points': 20, 'count': 3}
+Wisc: {'points': 15, 'count': 3}
+Minn: {'points': 6, 'count': 1}
+PSU: {'points': 4, 'count': 1}
+Mich: {'points': 1, 'count': 1}
+
+1500m:
+Alec A Minn: 237.7, points: 10
+John D IU: 241.0, points: 8
+Chris R IwSt: 242.01, points: 7
+Evan R Wisc: 243.05, points: 6
+Evan K Wisc: 244.05, points: 5
+Bryan M PSU: 244.24, points: 4
+Paul B OSU: 244.59, points: 3
+Andrew H Minn: 246.09, points: 2
+Willy W ILL: 246.42, points: 1
+
+Minn: {'points': 12, 'count': 2}
+Wisc: {'points': 11, 'count': 2}
+IU: {'points': 8, 'count': 1}
+IwSt: {'points': 7, 'count': 1}
+PSU: {'points': 4, 'count': 1}
+OSU: {'points': 3, 'count': 1}
+ILL: {'points': 1, 'count': 1}
+
+5000m:
+Chris R IwSt: 892.76, points: 10
+Will G IwSt: 896.25, points: 8
+Andrew S PSU: 908.64, points: 7
+Josh F IU: 909.06, points: 6
+Robby A Miami: 910.86, points: 5
+Matthew S Purdue: 918.83, points: 4
+Jared T Miami: 920.26, points: 3
+Willy W ILL: 921.33, points: 2
+Mitchell W Maryland: 923.89, points: 1
+
+IwSt: {'points': 18, 'count': 2}
+Miami: {'points': 8, 'count': 2}
+PSU: {'points': 7, 'count': 1}
+IU: {'points': 6, 'count': 1}
+Purdue: {'points': 4, 'count': 1}
+ILL: {'points': 2, 'count': 1}
+Maryland: {'points': 1, 'count': 1}
+
+100m HH:
+Jerry C UConn: 14.1, points: 10
+Rasheed F OSU: 14.45, points: 8
+Thomas L PSU: 14.62, points: 7
+Hunter C Wisc: 14.68, points: 6
+Michael J ILL: 14.92, points: 5
+Joseph B ILL: 15.05, points: 4
+Yashmeet G Mich: 15.44, points: 3
+Noah N Pitt: 15.55, points: 2
+Tim S Purdue: 16.22, points: 1
+
+UConn: {'points': 10, 'count': 1}
+ILL: {'points': 9, 'count': 2}
+OSU: {'points': 8, 'count': 1}
+PSU: {'points': 7, 'count': 1}
+Wisc: {'points': 6, 'count': 1}
+Mich: {'points': 3, 'count': 1}
+Pitt: {'points': 2, 'count': 1}
+Purdue: {'points': 1, 'count': 1}
+
+3000m Steeplechase:
+Matt P Maryland: 629.4, points: 10
+Ethan B Maryland: 675.05, points: 8
+Adolfo B Maryland: 675.4, points: 7
+Matthew G Maryland: 690.07, points: 6
+
+Maryland: {'points': 25, 'count': 3}
+
+4x100m:
+Maryland: 49.05, points: 10
+
+Maryland: {'points': 10, 'count': 1}
+
+4x400m:
+ILL: 203.3, points: 10
+IU: 211.28, points: 8
+Mich: 212.26, points: 7
+Wisc: 212.55, points: 6
+PSU: 212.9, points: 5
+GVSU: 214.76, points: 4
+GTWN: 217.5, points: 3
+MSU: 218.21, points: 2
+CMU: 219.38, points: 1
+
+ILL: {'points': 10, 'count': 1}
+IU: {'points': 8, 'count': 1}
+Mich: {'points': 7, 'count': 1}
+Wisc: {'points': 6, 'count': 1}
+PSU: {'points': 5, 'count': 1}
+GVSU: {'points': 4, 'count': 1}
+GTWN: {'points': 3, 'count': 1}
+MSU: {'points': 2, 'count': 1}
+CMU: {'points': 1, 'count': 1}
+
+4x800m:
+Wisc: 483.55, points: 10
+ILL: 486.7, points: 8
+Purdue: 486.82, points: 7
+IwSt: 489.26, points: 6
+Minn: 490.67, points: 5
+IU: 491.65, points: 4
+Mich: 492.84, points: 3
+MSU: 494.46, points: 2
+OSU: 500.28, points: 1
+
+Wisc: {'points': 10, 'count': 1}
+ILL: {'points': 8, 'count': 1}
+Purdue: {'points': 7, 'count': 1}
+IwSt: {'points': 6, 'count': 1}
+Minn: {'points': 5, 'count': 1}
+IU: {'points': 4, 'count': 1}
+Mich: {'points': 3, 'count': 1}
+MSU: {'points': 2, 'count': 1}
+OSU: {'points': 1, 'count': 1}
+
+LJ:
+Daniel K Mich: 6.35, points: 10
+Garret S IU: 6.31, points: 8
+Jared D Toledo: 6.26, points: 7
+Kebba B Iowa: 6.17, points: 6
+Alex B IwSt: 6.14, points: 5
+Drew V OSU: 6.08, points: 4
+Andrew H Mich: 6.07, points: 3
+Jeffery M PSU: 6.07, points: 2
+Christopher M Iowa: 6.0, points: 1
+
+Mich: {'points': 13, 'count': 2}
+IU: {'points': 8, 'count': 1}
+Toledo: {'points': 7, 'count': 1}
+Iowa: {'points': 7, 'count': 2}
+IwSt: {'points': 5, 'count': 1}
+OSU: {'points': 4, 'count': 1}
+PSU: {'points': 2, 'count': 1}
+
+TJ:
+Kebba B Iowa: 13.53, points: 10
+Abdul M IwSt: 12.7, points: 8
+Randy B Minn: 12.66, points: 7
+Hunter C Wisc: 12.6, points: 6
+Peter VB Wisc: 12.31, points: 5
+Mateusz L ILL: 12.31, points: 4
+Brandon B UConn: 12.29, points: 3
+Kyle P PSU: 12.27, points: 2
+Neil B OSU: 12.22, points: 1
+
+Wisc: {'points': 11, 'count': 2}
+Iowa: {'points': 10, 'count': 1}
+IwSt: {'points': 8, 'count': 1}
+Minn: {'points': 7, 'count': 1}
+ILL: {'points': 4, 'count': 1}
+UConn: {'points': 3, 'count': 1}
+PSU: {'points': 2, 'count': 1}
+OSU: {'points': 1, 'count': 1}
+
+HJ:
+Abdul M IwSt: 1.85, points: 10
+Hameed O ILL: 1.85, points: 8
+Kevin G Mich: 1.77, points: 7
+Dustin H IwSt: 1.75, points: 6
+Sean OH MSU: 1.75, points: 5
+Trevor E IU: 1.75, points: 4
+Thomas L GWU: 1.72, points: 3
+Michael J UConn: 1.72, points: 2
+Phillip C Purdue: 1.65, points: 1
+
+IwSt: {'points': 16, 'count': 2}
+ILL: {'points': 8, 'count': 1}
+Mich: {'points': 7, 'count': 1}
+MSU: {'points': 5, 'count': 1}
+IU: {'points': 4, 'count': 1}
+GWU: {'points': 3, 'count': 1}
+UConn: {'points': 2, 'count': 1}
+Purdue: {'points': 1, 'count': 1}
+
+Shot:
+Michael F Wisc: 13.56, points: 10
+Kevin Y Mich: 12.43, points: 8
+Thomas N ILL: 12.35, points: 7
+Tyler D IU: 12.3, points: 6
+Salvaor R ILL: 12.22, points: 5
+Tristian N JMU: 12.1, points: 4
+Garrett S PSU: 11.88, points: 3
+Bob C Mich: 11.17, points: 2
+Zach T UConn: 11.14, points: 1
+
+ILL: {'points': 12, 'count': 2}
+Mich: {'points': 10, 'count': 2}
+Wisc: {'points': 10, 'count': 1}
+IU: {'points': 6, 'count': 1}
+JMU: {'points': 4, 'count': 1}
+PSU: {'points': 3, 'count': 1}
+UConn: {'points': 1, 'count': 1}
+
+Discus:
+
+
+Meet Score:
+ILL: 83
+Wisc: 76
+IU: 76
+Mich: 65
+IwSt: 60
+PSU: 57
+Iowa: 40
+Maryland: 37
+Minn: 30
+OSU: 23
+UConn: 22
+MSU: 19
+Purdue: 13
+Miami: 8
+Toledo: 7
+JMU: 4
+GVSU: 4
+GTWN: 3
+GWU: 3
+Pitt: 2
+CMU: 1
