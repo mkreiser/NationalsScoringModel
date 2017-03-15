@@ -13,6 +13,9 @@ def twoDecimalFloat(num):
 def fourDecimalFloat(num):
   return float('{0:.4f}'.format(num))
 
+def sixDecimalFloat(num):
+  return float('{0:.6f}'.format(num))
+
 def getIndoorColumns():
   return [
     { 'column': 0, 'event': '60m' },

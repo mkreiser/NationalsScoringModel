@@ -1,286 +1,310 @@
 
-100m:
-Becky H ILL: 13.03, points: 10
-Audrey R IU: 13.12, points: 8
-Madison H IwSt: 13.28, points: 7
-Kellie L Iowa: 13.37, points: 6
-Devin M PSU: 13.52, points: 5
-Brittany G Delaware: 13.57, points: 4
-Melanie S MSU: 13.64, points: 3
-Daisy O OSU: 13.7, points: 2
-Borchueh W GTWN: 13.72, points: 1
+-----------------------------100m-----------------------------
+      Position              Name                Club          Calculated Time           Mean               Median       
+         1                Becky H               ILL                12.97               13.03               12.99        
+         2                Audrey R               IU                13.12               13.12               13.12        
+         3               Madison H              IwSt               13.28               13.28               13.28        
+         4                Kellie L              Iowa               13.35               13.37               13.38        
+         5                Devin M               PSU                13.52               13.52               13.52        
+         6               Brittany G           Delaware             13.57               13.57               13.57        
+         7               Melanie S              MSU                 13.6               13.64               13.64        
+         8                Daisy O               OSU                13.66                13.7                13.7        
+         9               Borchueh W             GTWN               13.72               13.72               13.72        
 
-1.)  ILL: {'count': 1, 'points': 10}
-2.)  IU: {'count': 1, 'points': 8}
-3.)  IwSt: {'count': 1, 'points': 7}
-4.)  Iowa: {'count': 1, 'points': 6}
-5.)  PSU: {'count': 1, 'points': 5}
-6.)  Delaware: {'count': 1, 'points': 4}
-7.)  MSU: {'count': 1, 'points': 3}
-8.)  OSU: {'count': 1, 'points': 2}
-9.)  GTWN: {'count': 1, 'points': 1}
+         Position                    Team                     Points                    Count           
+            1                        ILL                        10                        1             
+            2                         IU                        8                         1             
+            3                        IwSt                       7                         1             
+            4                        Iowa                       6                         1             
+            5                        PSU                        5                         1             
+            6                      Delaware                     4                         1             
+            7                        MSU                        3                         1             
+            8                        OSU                        2                         1             
+            9                        GTWN                       1                         1             
 
-200m:
-Becky H ILL: 26.41, points: 10
-Rachel P PSU: 26.58, points: 8
-Audrey R IU: 26.92, points: 7
-Morgan W OSU: 27.59, points: 6
-Brittany G Delaware: 27.69, points: 5
-Hanna D Wisc: 27.78, points: 4
-Tess L JMU: 27.84, points: 3
-Borchueh W GTWN: 27.85, points: 2
-Kellie L Iowa: 28.13, points: 1
+-----------------------------200m-----------------------------
+      Position              Name                Club          Calculated Time           Mean               Median       
+         1                Becky H               ILL                26.27               26.41               26.47        
+         2                Rachel P              PSU                26.58               26.58               26.58        
+         3                Audrey R               IU                26.92               26.92               26.92        
+         4                Morgan W              OSU                27.43               27.59               27.59        
+         5               Brittany G           Delaware             27.48               27.69               27.51        
+         6                Hanna D               Wisc               27.78               27.78               27.78        
+         7                 Tess L               JMU                27.84               27.84               27.84        
+         8               Borchueh W             GTWN               27.85               27.85               27.85        
+         9                Kellie L              Iowa               27.87               28.13               28.28        
 
-1.)  ILL: {'count': 1, 'points': 10}
-2.)  PSU: {'count': 1, 'points': 8}
-3.)  IU: {'count': 1, 'points': 7}
-4.)  OSU: {'count': 1, 'points': 6}
-5.)  Delaware: {'count': 1, 'points': 5}
-6.)  Wisc: {'count': 1, 'points': 4}
-7.)  JMU: {'count': 1, 'points': 3}
-8.)  GTWN: {'count': 1, 'points': 2}
-9.)  Iowa: {'count': 1, 'points': 1}
+         Position                    Team                     Points                    Count           
+            1                        ILL                        10                        1             
+            2                        PSU                        8                         1             
+            3                         IU                        7                         1             
+            4                        OSU                        6                         1             
+            5                      Delaware                     5                         1             
+            6                        Wisc                       4                         1             
+            7                        JMU                        3                         1             
+            8                        GTWN                       2                         1             
+            9                        Iowa                       1                         1             
 
-400m:
-Becky H ILL: 60.14, points: 10
-Emma D OSU: 61.31, points: 8
-Hanna D Wisc: 62.04, points: 7
-Gabrielle L Mich: 62.45, points: 6
-Madison S Iowa: 62.73, points: 5
-Meghan R PSU: 64.0, points: 4
-Mary E UVA: 64.2, points: 3
-Alexandria C Mich: 64.31, points: 2
-Jill B PSU: 64.52, points: 1
+-----------------------------400m-----------------------------
+      Position              Name                Club          Calculated Time           Mean               Median       
+         1                Becky H               ILL                60.14               60.14               60.14        
+         2                 Emma D               OSU                61.31               61.31               61.31        
+         3                Hanna D               Wisc               62.04               62.04               62.04        
+         4              Gabrielle L             Mich               62.45               62.45               62.45        
+         5               Madison S              Iowa               62.73               62.73               62.73        
+         6                Meghan R              PSU                 64.0                64.0                64.0        
+         7                 Mary E               UVA                 64.2                64.2                64.2        
+         8              Alexandria C            Mich               64.31               64.31               64.31        
+         9                 Jill B               PSU                64.52               64.52               64.52        
 
-1.)  ILL: {'count': 1, 'points': 10}
-2.)  OSU: {'count': 1, 'points': 8}
-3.)  Mich: {'count': 2, 'points': 8}
-4.)  Wisc: {'count': 1, 'points': 7}
-5.)  Iowa: {'count': 1, 'points': 5}
-6.)  PSU: {'count': 2, 'points': 5}
-7.)  UVA: {'count': 1, 'points': 3}
+         Position                    Team                     Points                    Count           
+            1                        ILL                        10                        1             
+            2                        Mich                       8                         2             
+            3                        OSU                        8                         1             
+            4                        Wisc                       7                         1             
+            5                        PSU                        5                         2             
+            6                        Iowa                       5                         1             
+            7                        UVA                        3                         1             
 
-800m:
-Hanna D Wisc: 139.19, points: 10
-Madeleine P Wisc: 139.39, points: 8
-Erin Z MSU: 142.12, points: 7
-Emily M PSU: 142.72, points: 6
-Gabriella R Wisc: 143.75, points: 5
-Emma D OSU: 145.32, points: 4
-Meghan G GTWN: 146.16, points: 3
-Lauren McG MSU: 147.86, points: 2
-Nicole M MSU: 148.34, points: 1
+-----------------------------800m-----------------------------
+      Position              Name                Club          Calculated Time           Mean               Median       
+         1                Hanna D               Wisc               138.9               139.19              139.19       
+         2              Madeleine P             Wisc               137.37              139.39              139.67       
+         3                 Erin Z               MSU                141.92              142.12              142.12       
+         4                Emily M               PSU                142.72              142.72              142.72       
+         5              Gabriella R             Wisc               143.75              143.75              143.75       
+         6                 Emma D               OSU                144.95              145.32              145.32       
+         7                Meghan G              GTWN               146.16              146.16              146.16       
+         8               Lauren McG             MSU                148.45              147.86              147.86       
+         9                Nicole M              MSU                147.98              148.34              148.92       
 
-1.)  Wisc: {'count': 3, 'points': 23}
-2.)  MSU: {'count': 3, 'points': 10}
-3.)  PSU: {'count': 1, 'points': 6}
-4.)  OSU: {'count': 1, 'points': 4}
-5.)  GTWN: {'count': 1, 'points': 3}
+         Position                    Team                     Points                    Count           
+            1                        Wisc                       23                        3             
+            2                        MSU                        10                        3             
+            3                        PSU                        6                         1             
+            4                        OSU                        4                         1             
+            5                        GTWN                       3                         1             
 
-1500m:
-Erin Z MSU: 289.4, points: 10
-Emily W IU: 290.58, points: 8
-Nicole M MSU: 301.14, points: 7
-Maddie P Minn: 301.34, points: 6
-Katlyn A IwSt: 301.88, points: 5
-Molly M Mich: 302.4, points: 4
-Ariane A PSU: 303.35, points: 3
-Madeleine P Wisc: 303.51, points: 2
-Kristina K ND: 304.62, points: 1
+-----------------------------1500m-----------------------------
+      Position              Name                Club          Calculated Time           Mean               Median       
+         1                 Erin Z               MSU                288.86              289.4               289.61       
+         2                Emily W                IU                290.58              290.58              290.58       
+         3                Nicole M              MSU                301.44              301.14              300.83       
+         4                Maddie P              Minn               298.56              301.34              298.36       
+         5                Katlyn A              IwSt               301.88              301.88              301.88       
+         6                Molly M               Mich               302.4               302.4               302.4        
+         7                Ariane A              PSU                302.86              303.35              303.35       
+         8              Madeleine P             Wisc               302.9               303.51              304.06       
+         9               Kristina K              ND                304.62              304.62              304.62       
 
-1.)  MSU: {'count': 2, 'points': 17}
-2.)  IU: {'count': 1, 'points': 8}
-3.)  Minn: {'count': 1, 'points': 6}
-4.)  IwSt: {'count': 1, 'points': 5}
-5.)  Mich: {'count': 1, 'points': 4}
-6.)  PSU: {'count': 1, 'points': 3}
-7.)  Wisc: {'count': 1, 'points': 2}
-8.)  ND: {'count': 1, 'points': 1}
+         Position                    Team                     Points                    Count           
+            1                        MSU                        17                        2             
+            2                         IU                        8                         1             
+            3                        Minn                       6                         1             
+            4                        IwSt                       5                         1             
+            5                        Mich                       4                         1             
+            6                        PSU                        3                         1             
+            7                        Wisc                       2                         1             
+            8                         ND                        1                         1             
 
-5000m:
-Emily W IU: 1092.01, points: 10
-Chelsea W NE: 1102.77, points: 8
-Anna P Mich: 1103.04, points: 7
-Ariane A PSU: 1106.75, points: 6
-Jenny S OSU: 1111.51, points: 5
-Colleen C Mich: 1113.97, points: 4
-Suzanne S PSU: 1115.68, points: 3
-Erin Z MSU: 1117.34, points: 2
-Jenny O Pitt: 1123.77, points: 1
+-----------------------------5000m-----------------------------
+      Position              Name                Club          Calculated Time           Mean               Median       
+         1                Emily W                IU               1093.39             1092.01             1092.01       
+         2               Chelsea W               NE               1102.77             1102.77             1102.77       
+         3                 Anna P               Mich              1103.04             1103.04             1103.04       
+         4                Ariane A              PSU               1106.54             1106.75             1106.75       
+         5                Jenny S               OSU               1102.75             1111.51             1111.51       
+         6               Colleen C              Mich              1115.95             1113.97             1113.97       
+         7               Suzanne S              PSU               1115.68             1115.68             1115.68       
+         8                 Erin Z               MSU               1117.34             1117.34             1117.34       
+         9                Jenny O               Pitt              1123.77             1123.77             1123.77       
 
-1.)  Mich: {'count': 2, 'points': 11}
-2.)  IU: {'count': 1, 'points': 10}
-3.)  PSU: {'count': 2, 'points': 9}
-4.)  NE: {'count': 1, 'points': 8}
-5.)  OSU: {'count': 1, 'points': 5}
-6.)  MSU: {'count': 1, 'points': 2}
-7.)  Pitt: {'count': 1, 'points': 1}
+         Position                    Team                     Points                    Count           
+            1                        Mich                       11                        2             
+            2                         IU                        10                        1             
+            3                        PSU                        9                         2             
+            4                         NE                        8                         1             
+            5                        OSU                        5                         1             
+            6                        MSU                        2                         1             
+            7                        Pitt                       1                         1             
 
-100m HH:
-Erica F PSU: 16.07, points: 10
-Cheyenne H UConn: 16.4, points: 8
-Jada H IU: 16.51, points: 7
-Vanessa R PSU: 16.59, points: 6
-Haley H Delaware: 16.6, points: 5
-Abby R ILL: 17.0, points: 4
-Brittany T Maryland: 17.12, points: 3
-Jaclyn G IU: 17.76, points: 2
-Colleen B BGSU: 17.78, points: 1
+-----------------------------100m HH-----------------------------
+      Position              Name                Club          Calculated Time           Mean               Median       
+         1                Erica F               PSU                15.77               16.07               16.26        
+         2               Cheyenne H            UConn                16.4                16.4                16.4        
+         3                 Jada H                IU                16.34               16.51               16.51        
+         4               Vanessa R              PSU                16.44               16.59               16.52        
+         5                Haley H             Delaware              16.6                16.6                16.6        
+         6                 Abby R               ILL                16.83                17.0               17.02        
+         7               Brittany T           Maryland             16.97               17.12               17.12        
+         8                Jaclyn G               IU                17.76               17.76               17.76        
+         9               Colleen B              BGSU               17.78               17.78               17.78        
 
-1.)  PSU: {'count': 2, 'points': 16}
-2.)  IU: {'count': 2, 'points': 9}
-3.)  UConn: {'count': 1, 'points': 8}
-4.)  Delaware: {'count': 1, 'points': 5}
-5.)  ILL: {'count': 1, 'points': 4}
-6.)  Maryland: {'count': 1, 'points': 3}
-7.)  BGSU: {'count': 1, 'points': 1}
+         Position                    Team                     Points                    Count           
+            1                        PSU                        16                        2             
+            2                         IU                        9                         2             
+            3                       UConn                       8                         1             
+            4                      Delaware                     5                         1             
+            5                        ILL                        4                         1             
+            6                      Maryland                     3                         1             
+            7                        BGSU                       1                         1             
 
-3000m Steeplechase:
-Miriam S Maryland: 800.05, points: 10
-Kim G Maryland: 800.5, points: 8
-Rachel N Maryland: 806.4, points: 7
-Erin L Maryland: 811.8, points: 6
+-----------------------------3000m Steeplechase-----------------------------
+      Position              Name                Club          Calculated Time           Mean               Median       
+         1                Miriam S            Maryland             800.05              800.05              800.05       
+         2                 Kim G              Maryland             800.5               800.5               800.5        
+         3                Rachel N            Maryland             806.4               806.4               806.4        
+         4                 Erin L             Maryland             811.8               811.8               811.8        
 
-1.)  Maryland: {'count': 3, 'points': 25}
+         Position                    Team                     Points                    Count           
+            1                      Maryland                     25                        3             
 
-4x100m:
+-----------------------------4x400m-----------------------------
+      Position              Club          Calculated Time           Mean               Median       
+         1                  Wisc               250.7               250.7               250.7        
+         2                  PSU                260.26              260.45              259.92       
+         3                  ILL                271.46              269.05              266.51       
+         4                  Iowa               265.6               269.13              269.13       
+         5                  OSU                266.55              270.47              269.69       
+         6                  MSU                276.94              275.24              271.44       
+         7                  IwSt               276.52              276.53              276.53       
+         8                  Mich               279.52              277.18              274.0        
+         9                  WVU                277.26              277.26              277.26       
 
+         Position                    Team                     Points                    Count           
+            1                        Wisc                       10                        1             
+            2                        PSU                        8                         1             
+            3                        ILL                        7                         1             
+            4                        Iowa                       6                         1             
+            5                        OSU                        5                         1             
+            6                        MSU                        4                         1             
+            7                        IwSt                       3                         1             
+            8                        Mich                       2                         1             
+            9                        WVU                        1                         1             
 
-4x400m:
-Wisc: 250.7, points: 10
-PSU: 260.45, points: 8
-ILL: 269.05, points: 7
-Iowa: 269.13, points: 6
-OSU: 270.47, points: 5
-MSU: 275.24, points: 4
-IwSt: 276.53, points: 3
-Mich: 277.18, points: 2
-WVU: 277.26, points: 1
+-----------------------------4x800m-----------------------------
+      Position              Club          Calculated Time           Mean               Median       
+         1                  OSU                598.75              598.75              598.75       
+         2                  Wisc               605.48              605.48              605.48       
+         3                  Minn               612.76              612.76              612.76       
+         4                  MSU                637.91              637.91              637.91       
+         5                  Pitt               648.92              648.92              648.92       
+         6                 Miami               649.02              649.02              649.02       
+         7                  ILL                653.61              653.61              653.61       
+         8                Maryland             658.0               658.0               658.0        
+         9                 Mizzou              658.61              658.61              658.61       
 
-1.)  Wisc: {'count': 1, 'points': 10}
-2.)  PSU: {'count': 1, 'points': 8}
-3.)  ILL: {'count': 1, 'points': 7}
-4.)  Iowa: {'count': 1, 'points': 6}
-5.)  OSU: {'count': 1, 'points': 5}
-6.)  MSU: {'count': 1, 'points': 4}
-7.)  IwSt: {'count': 1, 'points': 3}
-8.)  Mich: {'count': 1, 'points': 2}
-9.)  WVU: {'count': 1, 'points': 1}
+         Position                    Team                     Points                    Count           
+            1                        OSU                        10                        1             
+            2                        Wisc                       8                         1             
+            3                        Minn                       7                         1             
+            4                        MSU                        6                         1             
+            5                        Pitt                       5                         1             
+            6                       Miami                       4                         1             
+            7                        ILL                        3                         1             
+            8                      Maryland                     2                         1             
+            9                       Mizzou                      1                         1             
 
-4x800m:
-OSU: 598.75, points: 10
-Wisc: 605.48, points: 8
-Minn: 612.76, points: 7
-MSU: 637.91, points: 6
-Pitt: 648.92, points: 5
-Miami: 649.02, points: 4
-ILL: 653.61, points: 3
-Maryland: 658.0, points: 2
-Mizzou: 658.61, points: 1
+-----------------------------LJ-----------------------------
+      Position              Name                Club          Calculated Time           Mean               Median       
+         1               Devin McD              PSU                 4.91                4.91                4.91        
+         2                Morgan W              OSU                 4.84                4.88                4.89        
+         3                Becky H               ILL                 4.8                 4.8                 4.78        
+         4                Erica F               PSU                 4.74                4.74                4.74        
+         5                 Mary P               PSU                 4.67                4.67                4.67        
+         6                 Jada H                IU                 4.67                4.67                4.67        
+         7                 Kati P               PSU                 4.65                4.6                 4.6         
+         8                 Yasi M               IwSt                4.57                4.6                 4.6         
+         9                Haley Y               Mich                4.59                4.59                4.59        
 
-1.)  OSU: {'count': 1, 'points': 10}
-2.)  Wisc: {'count': 1, 'points': 8}
-3.)  Minn: {'count': 1, 'points': 7}
-4.)  MSU: {'count': 1, 'points': 6}
-5.)  Pitt: {'count': 1, 'points': 5}
-6.)  Miami: {'count': 1, 'points': 4}
-7.)  ILL: {'count': 1, 'points': 3}
-8.)  Maryland: {'count': 1, 'points': 2}
-9.)  Mizzou: {'count': 1, 'points': 1}
+         Position                    Team                     Points                    Count           
+            1                        PSU                        21                        3             
+            2                        OSU                        8                         1             
+            3                        ILL                        7                         1             
+            4                         IU                        4                         1             
+            5                        IwSt                       2                         1             
+            6                        Mich                       1                         1             
 
-LJ:
-Devin McD PSU: 4.91, points: 10
-Morgan W OSU: 4.88, points: 8
-Becky H ILL: 4.8, points: 7
-Erica F PSU: 4.74, points: 6
-Jada H IU: 4.67, points: 5
-Mary P PSU: 4.67, points: 4
-Kati P PSU: 4.6, points: 3
-Yasi M IwSt: 4.6, points: 2
-Haley Y Mich: 4.59, points: 1
+-----------------------------TJ-----------------------------
+      Position              Name                Club          Calculated Time           Mean               Median       
+         1              Cassandra L             PSU                10.07               10.21               10.17        
+         2                 Tess L               JMU                10.17               10.17               10.17        
+         3               Natalie T              Wisc               10.14               10.14               10.14        
+         4                Jesse H               OSU                 10.1                10.1                10.1        
+         5                Erica F               PSU                 9.93                9.93                9.93        
+         6                Erica V               PSU                 9.92                9.92                9.92        
+         7               Katelyn M              Wisc                9.85                9.85                9.85        
+         8                 Yasi M               IwSt                9.82                9.8                 9.8         
+         9                Sonia Z               ILL                 9.79                9.79                9.79        
 
-1.)  PSU: {'count': 3, 'points': 20}
-2.)  OSU: {'count': 1, 'points': 8}
-3.)  ILL: {'count': 1, 'points': 7}
-4.)  IU: {'count': 1, 'points': 5}
-5.)  IwSt: {'count': 1, 'points': 2}
-6.)  Mich: {'count': 1, 'points': 1}
+         Position                    Team                     Points                    Count           
+            1                        PSU                        19                        3             
+            2                        Wisc                       10                        2             
+            3                        JMU                        8                         1             
+            4                        OSU                        6                         1             
+            5                        IwSt                       2                         1             
+            6                        ILL                        1                         1             
 
-TJ:
-Cassandra L PSU: 10.21, points: 10
-Tess L JMU: 10.17, points: 8
-Natalie T Wisc: 10.14, points: 7
-Jesse H OSU: 10.1, points: 6
-Erica F PSU: 9.93, points: 5
-Erica V PSU: 9.92, points: 4
-Katelyn M Wisc: 9.85, points: 3
-Yasi M IwSt: 9.8, points: 2
-Sonia Z ILL: 9.79, points: 1
+-----------------------------HJ-----------------------------
+      Position              Name                Club          Calculated Time           Mean               Median       
+         1               Vanessa R              PSU                 1.61                1.58                1.57        
+         2                Erica F               PSU                 1.56                1.57                1.57        
+         3                Ceila K                IU                 1.55                1.55                1.55        
+         4                 Jada H                IU                 1.46                1.48                1.48        
+         5                Katie C               JMU                 1.47                1.47                1.47        
+         6                Claire H              OSU                 1.44                1.44                1.45        
+         7                 Abby R               PSU                 1.42                1.42                1.42        
+         8                Sarah C               Mich                1.42                1.42                1.42        
+         9                Becky H               ILL                 1.4                 1.4                 1.4         
 
-1.)  PSU: {'count': 3, 'points': 19}
-2.)  Wisc: {'count': 2, 'points': 10}
-3.)  JMU: {'count': 1, 'points': 8}
-4.)  OSU: {'count': 1, 'points': 6}
-5.)  IwSt: {'count': 1, 'points': 2}
-6.)  ILL: {'count': 1, 'points': 1}
+         Position                    Team                     Points                    Count           
+            1                        PSU                        21                        3             
+            2                         IU                        13                        2             
+            3                        JMU                        5                         1             
+            4                        OSU                        4                         1             
+            5                        Mich                       2                         1             
+            6                        ILL                        1                         1             
 
-HJ:
-Vanessa R PSU: 1.58, points: 10
-Erica F PSU: 1.57, points: 8
-Ceila K IU: 1.55, points: 7
-Jada H IU: 1.48, points: 6
-Katie C JMU: 1.47, points: 5
-Claire H OSU: 1.44, points: 4
-Abby R PSU: 1.42, points: 3
-Sarah C Mich: 1.42, points: 2
-Becky H ILL: 1.4, points: 1
+-----------------------------Shot-----------------------------
+      Position              Name                Club          Calculated Time           Mean               Median       
+         1                Carah C               ILL                 11.3                11.3                11.3        
+         2               Marley OB              PSU                10.87               10.87               10.87        
+         3                Obioma A              ILL                 9.76                9.78                9.81        
+         4                Sally B               PSU                 9.34                9.34                9.34        
+         5               Ehitare E              ILL                 9.26                9.26                9.26        
+         6                 Inga A               ILL                 9.64                9.12                9.12        
+         7               Samantha M            UConn                8.96                8.96                8.96        
+         8                Rachel K              PSU                 9.23                8.63                8.63        
+         9                Nayeli L              ILL                 8.14                8.14                8.2         
 
-1.)  PSU: {'count': 3, 'points': 21}
-2.)  IU: {'count': 2, 'points': 13}
-3.)  JMU: {'count': 1, 'points': 5}
-4.)  OSU: {'count': 1, 'points': 4}
-5.)  Mich: {'count': 1, 'points': 2}
-6.)  ILL: {'count': 1, 'points': 1}
+         Position                    Team                     Points                    Count           
+            1                        ILL                        22                        3             
+            2                        PSU                        16                        3             
+            3                       UConn                       3                         1             
 
-Shot:
-Carah C ILL: 11.3, points: 10
-Marley OB PSU: 10.87, points: 8
-Obioma A ILL: 9.78, points: 7
-Sally B PSU: 9.34, points: 6
-Ehitare E ILL: 9.26, points: 5
-Inga A ILL: 9.12, points: 4
-Samantha M UConn: 8.96, points: 3
-Rachel K PSU: 8.63, points: 2
-Nayeli L ILL: 8.14, points: 1
+-----------------------------Meet Score:-----------------------------
 
-1.)  ILL: {'count': 3, 'points': 22}
-2.)  PSU: {'count': 3, 'points': 16}
-3.)  UConn: {'count': 1, 'points': 3}
-
-Discus:
-
-
-Meet Score:
-1.)  PSU: 136
-2.)  ILL: 75
-3.)  Wisc: 64
-4.)  IU: 60
-5.)  OSU: 58
-6.)  MSU: 42
-7.)  Maryland: 30
-8.)  Mich: 28
-9.)  IwSt: 19
-10.) Iowa: 18
-11.) JMU: 16
-12.) Delaware: 14
-13.) Minn: 13
-14.) UConn: 11
-15.) NE: 8
-16.) Pitt: 6
-17.) GTWN: 6
-18.) Miami: 4
-19.) UVA: 3
-20.) BGSU: 1
-21.) ND: 1
-22.) WVU: 1
-23.) Mizzou: 1
+         Position                    Team                     Points          
+            1                        PSU                       137            
+            2                        ILL                        75            
+            3                        Wisc                       64            
+            4                         IU                        59            
+            5                        OSU                        58            
+            6                        MSU                        42            
+            7                      Maryland                     30            
+            8                        Mich                       28            
+            9                        IwSt                       19            
+            10                       Iowa                       18            
+            11                       JMU                        16            
+            12                     Delaware                     14            
+            13                       Minn                       13            
+            14                      UConn                       11            
+            15                        NE                        8             
+            16                       Pitt                       6             
+            17                       GTWN                       6             
+            18                      Miami                       4             
+            19                       UVA                        3             
+            20                       WVU                        1             
+            21                        ND                        1             
+            22                      Mizzou                      1             
+            23                       BGSU                       1             

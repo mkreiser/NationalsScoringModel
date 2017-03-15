@@ -84,11 +84,13 @@ def modelMeet(resultList, filename, runs):
       for athlete, points in singleEventAthletes.items():
         if (athlete in eventTotalAthleteScore):
           eventTotalAthleteScore[athlete]['points'] += points
+          eventTotalAthleteScore[athlete]['pointsList'].append(points)
           eventTotalAthleteScore[athlete]['count'] += 1
           eventAthleteStdDev[athlete].append(points)
         else:
           eventTotalAthleteScore[athlete] = {
             'points': points,
+            'pointsList': [ points ],
             'count': 1
           }
           eventAthleteStdDev[athlete] = [points]
@@ -96,15 +98,25 @@ def modelMeet(resultList, filename, runs):
     eventAthleteSummary = {}
     for athlete, data in eventTotalAthleteScore.items():
       if (len(eventAthleteStdDev[athlete]) > 1):
+        try:
+          mode = statistics.mode(eventTotalAthleteScore[athlete]['pointsList']),
+          mode = mode[0]
+        except statistics.StatisticsError:
+          mode = eventTotalAthleteScore[athlete]['pointsList'][0]
+
         eventAthleteSummary[athlete] = {
           'average': eventTotalAthleteScore[athlete]['points'] / runs,
-          'inScoring': str((eventTotalAthleteScore[athlete]['count'] / runs) * 100) + '%',
-          'stddev': statistics.stdev(eventAthleteStdDev[athlete])
+          'inScoring': str(helpers.twoDecimalFloat((eventTotalAthleteScore[athlete]['count'] / runs) * 100)) + '%',
+          'median': statistics.median(eventTotalAthleteScore[athlete]['pointsList']),
+          'mode': mode,
+          'stddev': helpers.sixDecimalFloat(statistics.stdev(eventAthleteStdDev[athlete]))
         }
       else:
         eventAthleteSummary[athlete] = {
           'average': eventTotalAthleteScore[athlete]['points'] / runs,
-          'inScoring': str((eventTotalAthleteScore[athlete]['count'] / runs) * 100) + '%',
+          'inScoring': str(helpers.twoDecimalFloat((eventTotalAthleteScore[athlete]['count'] / runs) * 100)) + '%',
+          'median': statistics.median(eventTotalAthleteScore[athlete]['pointsList']),
+          'mode': eventTotalAthleteScore[athlete]['pointsList'][0],
           'stddev': 0
         }
 
@@ -113,7 +125,7 @@ def modelMeet(resultList, filename, runs):
       if (len(eventStdDev[club]) > 1):
         eventSummary[club] = {
           'average': eventTotalScore[club] / runs,
-          'stddev': statistics.stdev(eventStdDev[club])
+          'stddev': helpers.sixDecimalFloat(statistics.stdev(eventStdDev[club]))
         }
       else:
         eventSummary[club] = {
@@ -153,17 +165,17 @@ def modelMeet(resultList, filename, runs):
         }
 
     sortedEventScores = sorted(eventSummary.items(), key=lambda x: x[1]['average'], reverse=True)
-    textOutput.write('\n' + eventName + ':\n')
-    textOut.printEventScores(textOutput, sortedEventAthletes)
-    textOut.printEventScores(textOutput, sortedEventScores)
+    textOutput.write('\n-----------------------------' + eventName + '-----------------------------\n')
+    textOut.printModelEventAthleteScores(textOutput, sortedEventAthletes)
+    textOut.printModelEventScores(textOutput, sortedEventScores)
 
   for club in meetAverageScore:
     meetAverageScore[club]['points'] = helpers.twoDecimalFloat(meetAverageScore[club]['points'])
-    meetAverageScore[club]['stddev'] = helpers.fourDecimalFloat(meetAverageScore[club]['variance'] ** 0.5)
+    meetAverageScore[club]['stddev'] = helpers.sixDecimalFloat(meetAverageScore[club]['variance'] ** 0.5)
     meetAverageScore[club].pop('variance', None)
 
   sortedMeetAverageScores = sorted(meetAverageScore.items(), key=lambda x: x[1]['points'], reverse=True)
-  textOut.printMeetScores(textOutput, sortedMeetAverageScores)
+  textOut.printMeetScoresWithDev(textOutput, sortedMeetAverageScores)
 
   sortedMeetModelScores = sorted(meetModelScore.items(), key=lambda x: x[1]['points'], reverse=True)
   textOut.printMeetScores(textOutput, sortedMeetModelScores)

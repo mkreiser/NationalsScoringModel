@@ -1,624 +1,655 @@
 
-100m:
+-----------------------------100m-----------------------------
 
-1.)  Becky H $ ILL: {'average': 7.3813, 'stddev': 2.5060917381897534, 'inScoring': 0.9153}
-2.)  Audrey R $ IU: {'average': 6.3221, 'stddev': 2.4850466844893555, 'inScoring': 0.8606}
-3.)  Madison H $ IwSt: {'average': 5.0685, 'stddev': 2.42866826955295, 'inScoring': 0.7785}
-4.)  Kellie L $ Iowa: {'average': 4.6703, 'stddev': 2.415940129887955, 'inScoring': 0.7402}
-5.)  Devin M $ PSU: {'average': 3.4556, 'stddev': 2.177168100163911, 'inScoring': 0.6431}
-6.)  Brittany G $ Delaware: {'average': 3.0579, 'stddev': 2.1606153701043724, 'inScoring': 0.6023}
-7.)  Melanie S $ MSU: {'average': 2.848, 'stddev': 2.153638976405045, 'inScoring': 0.5834}
-8.)  Daisy O $ OSU: {'average': 2.4209, 'stddev': 2.072437943201182, 'inScoring': 0.534}
-9.)  Borchueh W $ GTWN: {'average': 1.9707, 'stddev': 2.009643608270429, 'inScoring': 0.4766}
-10.) Laura C $ Wisc: {'average': 1.5046, 'stddev': 1.8445976799773365, 'inScoring': 0.4103}
-11.) Kati P $ PSU: {'average': 1.381, 'stddev': 1.8014870550316153, 'inScoring': 0.3855}
-12.) Chynelle W $ Drexel: {'average': 1.3378, 'stddev': 1.7825986266616296, 'inScoring': 0.3808}
-13.) Mary M $ MSU: {'average': 1.1991, 'stddev': 1.7855839138074092, 'inScoring': 0.3521}
-14.) Erica S $ Mich: {'average': 1.0126, 'stddev': 1.6368441162245875, 'inScoring': 0.3225}
-15.) Emma D $ OSU: {'average': 0.7453, 'stddev': 1.53381723508441, 'inScoring': 0.2613}
-16.) Tiffany H $ Maryland: {'average': 0.4762, 'stddev': 1.3992429116164584, 'inScoring': 0.1882}
-17.) Yasi M $ IwSt: {'average': 0.4115, 'stddev': 1.3435122083337243, 'inScoring': 0.1675}
-18.) Keely K $ Iowa: {'average': 0.2004, 'stddev': 1.1752927080189777, 'inScoring': 0.0958}
-19.) Mary P $ PSU: {'average': 0.1214, 'stddev': 1.0078771857339532, 'inScoring': 0.0656}
-20.) Abigail Z $ UConn: {'average': 0.1188, 'stddev': 1.0932157800754252, 'inScoring': 0.0603}
-21.) Lindsey J $ Minn: {'average': 0.0737, 'stddev': 0.9547030846637771, 'inScoring': 0.0421}
-22.) Tammy B $ Toledo: {'average': 0.0658, 'stddev': 0.918278497324994, 'inScoring': 0.0368}
-23.) Jada H $ IU: {'average': 0.05, 'stddev': 0.9613225483816111, 'inScoring': 0.0283}
-24.) Colleen B $ BGSU: {'average': 0.0488, 'stddev': 0.9624159320400023, 'inScoring': 0.0297}
-25.) Stephanie S $ UConn: {'average': 0.0304, 'stddev': 0.7860638582996681, 'inScoring': 0.0196}
-26.) Anne L $ IwSt: {'average': 0.0093, 'stddev': 0.8320894671583893, 'inScoring': 0.006}
-27.) Tammy BB $ Toledo: {'average': 0.0044, 'stddev': 0.9494618646961632, 'inScoring': 0.0029}
-28.) Lauren G $ ILL: {'average': 0.0041, 'stddev': 0.6686751354593717, 'inScoring': 0.003}
-29.) Kassie K $ ILL: {'average': 0.004, 'stddev': 0.43994134506405985, 'inScoring': 0.0032}
-30.) Jenna J $ Delaware: {'average': 0.0032, 'stddev': 0.3958473906635696, 'inScoring': 0.0027}
-31.) Kayla S $ IU: {'average': 0.0011, 'stddev': 0.5345224838248488, 'inScoring': 0.0007}
-32.) Ada P $ JMU: {'average': 0.001, 'stddev': 0.33333333333333337, 'inScoring': 0.0009}
-33.) Jessica R $ Wisc: {'average': 0.0002, 'stddev': 0.0, 'inScoring': 0.0002}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                   Becky H $ ILL                 7.4333                   2.50612                    91.88%                     10.0                       10            
+            2                   Audrey R $ IU                 6.2796                   2.44929                    85.07%                      8                         10            
+            3                  Madison H $ IwSt               5.0673                   2.406203                   77.93%                      7                         8             
+            4                  Kellie L $ Iowa                4.7382                   2.401201                   74.9%                      7.0                        8             
+            5                   Devin M $ PSU                 3.4112                   2.154104                   63.33%                      6                         6             
+            6               Brittany G $ Delaware             3.0248                   2.148207                   60.17%                      5                         6             
+            7                  Melanie S $ MSU                2.8162                   2.147861                   57.59%                      5                         6             
+            8                   Daisy O $ OSU                 2.435                    2.04101                    54.09%                      5                         5             
+            9                 Borchueh W $ GTWN               2.0004                   1.998406                   47.82%                     4.0                        5             
+            10                  Laura C $ Wisc                1.542                    1.820518                   42.23%                      4                         3             
+            11                   Kati P $ PSU                 1.3871                   1.83087                    38.79%                      3                         3             
+            12               Chynelle W $ Drexel              1.3307                   1.797241                   38.07%                      3                         4             
+            13                   Mary M $ MSU                 1.208                    1.804341                   35.51%                      3                         2             
+            14                  Erica S $ Mich                0.983                    1.649315                   31.46%                     3.0                        2             
+            15                   Emma D $ OSU                 0.7656                   1.531652                   26.9%                      3.0                        1             
+            16               Tiffany H $ Maryland             0.4726                   1.365323                   19.04%                     2.0                        2             
+            17                  Yasi M $ IwSt                 0.4001                   1.380623                   16.43%                      2                         1             
+            18                  Keely K $ Iowa                0.1975                   1.104474                    9.6%                      2.0                        1             
+            19                Abigail Z $ UConn               0.1178                   1.027554                   6.37%                       2                         1             
+            20                   Mary P $ PSU                 0.1166                   1.058363                   6.32%                      2.0                        1             
+            21                 Lindsey J $ Minn               0.0691                   0.968739                   3.92%                      1.0                        1             
+            22                 Tammy B $ Toledo               0.0587                   0.958471                   3.49%                       1                         1             
+            23                 Colleen B $ BGSU               0.0497                   0.909195                   3.04%                      1.0                        1             
+            24                   Jada H $ IU                  0.0387                   0.904089                   2.38%                      1.0                        1             
+            25               Stephanie S $ UConn              0.0271                   0.787903                   1.64%                      1.0                        1             
+            26                  Anne L $ IwSt                 0.0077                   0.816497                   0.49%                       1                         1             
+            27                Tammy BB $ Toledo               0.0057                   0.719874                   0.39%                       1                         1             
+            28                Jenna J $ Delaware              0.0054                   0.822275                   0.33%                       1                         1             
+            29                  Lauren G $ ILL                0.0047                   0.708445                   0.33%                       1                         1             
+            30                  Kassie K $ ILL                0.0029                   0.472582                   0.25%                       1                         1             
+            31                   Ada P $ JMU                  0.0021                   0.869718                   0.13%                       1                         1             
+            32                   Kayla S $ IU                 0.0007                   0.408248                   0.06%                      1.0                        1             
+            33                 Jessica R $ Wisc               0.0005                     0.0                      0.05%                       1                         1             
 
-1.)  ILL: {'average': 7.3894, 'stddev': 2.5104387834125568}
-2.)  IU: {'average': 6.3732, 'stddev': 2.534361248348163}
-3.)  IwSt: {'average': 5.4893, 'stddev': 2.772714500863685}
-4.)  PSU: {'average': 4.958, 'stddev': 3.1058989587690915}
-5.)  Iowa: {'average': 4.8707, 'stddev': 2.620464865946821}
-6.)  MSU: {'average': 4.0471, 'stddev': 2.806988171865687}
-7.)  OSU: {'average': 3.1662, 'stddev': 2.5248614727583623}
-8.)  Delaware: {'average': 3.0611, 'stddev': 2.1683179445576597}
-9.)  GTWN: {'average': 1.9707, 'stddev': 2.009643608270429}
-10.) Wisc: {'average': 1.5048, 'stddev': 1.845087332208439}
-11.) Drexel: {'average': 1.3378, 'stddev': 1.7825986266616296}
-12.) Mich: {'average': 1.0126, 'stddev': 1.6368441162245875}
-13.) Maryland: {'average': 0.4762, 'stddev': 1.3992429116164584}
-14.) UConn: {'average': 0.1492, 'stddev': 1.1163841187633878}
-15.) Minn: {'average': 0.0737, 'stddev': 0.9547030846637771}
-16.) Toledo: {'average': 0.0702, 'stddev': 0.9349325238401777}
-17.) BGSU: {'average': 0.0488, 'stddev': 0.9624159320400023}
-18.) JMU: {'average': 0.001, 'stddev': 0.33333333333333337}
+         Position                    Team                    Average                    Stddev          
+            1                        ILL                      7.4409                   2.510777         
+            2                         IU                      6.319                    2.500288         
+            3                        IwSt                     5.4751                   2.757353         
+            4                        Iowa                     4.9357                   2.590806         
+            5                        PSU                      4.9149                   3.032309         
+            6                        MSU                      4.0242                   2.788264         
+            7                        OSU                      3.2006                   2.521729         
+            8                      Delaware                   3.0302                   2.156416         
+            9                        GTWN                     2.0004                   1.998406         
+            10                       Wisc                     1.5425                   1.821332         
+            11                      Drexel                    1.3307                   1.797241         
+            12                       Mich                     0.983                    1.649315         
+            13                     Maryland                   0.4726                   1.365323         
+            14                      UConn                     0.1449                   1.039819         
+            15                       Minn                     0.0691                   0.968739         
+            16                      Toledo                    0.0644                   0.952855         
+            17                       BGSU                     0.0497                   0.909195         
+            18                       JMU                      0.0021                   0.869718         
 
-200m:
+-----------------------------200m-----------------------------
 
-1.)  Becky H $ ILL: {'average': 7.9133, 'stddev': 2.2816908927322253, 'inScoring': 0.9512}
-2.)  Rachel P $ PSU: {'average': 6.8174, 'stddev': 2.3117942864713448, 'inScoring': 0.8988}
-3.)  Audrey R $ IU: {'average': 5.5155, 'stddev': 2.312559540738151, 'inScoring': 0.8093}
-4.)  Morgan W $ OSU: {'average': 3.8531, 'stddev': 2.1924889737850872, 'inScoring': 0.6739}
-5.)  Brittany G $ Delaware: {'average': 3.6997, 'stddev': 2.09137773726188, 'inScoring': 0.6531}
-6.)  Hanna D $ Wisc: {'average': 2.6498, 'stddev': 2.0087222603332227, 'inScoring': 0.5499}
-7.)  Tess L $ JMU: {'average': 2.5347, 'stddev': 1.9688582042481215, 'inScoring': 0.5343}
-8.)  Borchueh W $ GTWN: {'average': 2.4039, 'stddev': 1.9561408997416416, 'inScoring': 0.5246}
-9.)  Kellie L $ Iowa: {'average': 2.3817, 'stddev': 1.943861425142326, 'inScoring': 0.5273}
-10.) Jill B $ PSU: {'average': 1.3541, 'stddev': 1.7508955135138413, 'inScoring': 0.3756}
-11.) Madison S $ Iowa: {'average': 1.2479, 'stddev': 1.7817427409201971, 'inScoring': 0.3545}
-12.) Katie C $ JMU: {'average': 0.7696, 'stddev': 1.518683614695817, 'inScoring': 0.2575}
-13.) Liz K $ Minn: {'average': 0.708, 'stddev': 1.554002766845233, 'inScoring': 0.243}
-14.) Laura C $ Wisc: {'average': 0.6561, 'stddev': 1.525229614590983, 'inScoring': 0.2304}
-15.) Lindsey J $ Minn: {'average': 0.6359, 'stddev': 1.5046886701705007, 'inScoring': 0.226}
-16.) Jada H $ IU: {'average': 0.6288, 'stddev': 1.480735345401178, 'inScoring': 0.2264}
-17.) Erica S $ Mich: {'average': 0.4804, 'stddev': 1.4133571504798936, 'inScoring': 0.1814}
-18.) Emma D $ OSU: {'average': 0.4415, 'stddev': 1.3675968418502311, 'inScoring': 0.1765}
-19.) Mary M $ MSU: {'average': 0.39, 'stddev': 1.35301909813684, 'inScoring': 0.156}
-20.) Sarah C $ Mich: {'average': 0.318, 'stddev': 1.282696077752709, 'inScoring': 0.1329}
-21.) Chynelle W $ Drexel: {'average': 0.1598, 'stddev': 1.1316373032582294, 'inScoring': 0.0791}
-22.) Gabrielle L $ Mich: {'average': 0.1508, 'stddev': 1.1404775573613102, 'inScoring': 0.0773}
-23.) Abigail Z $ UConn: {'average': 0.1107, 'stddev': 1.0357581914017868, 'inScoring': 0.0575}
-24.) Kassie K $ ILL: {'average': 0.0938, 'stddev': 1.0809541982240638, 'inScoring': 0.0488}
-25.) Krista C $ Delaware: {'average': 0.026, 'stddev': 0.7989025989633303, 'inScoring': 0.0159}
-26.) Melanie S $ MSU: {'average': 0.0243, 'stddev': 0.8227362885058688, 'inScoring': 0.0154}
-27.) Hailey W $ Minn: {'average': 0.0225, 'stddev': 0.820148526307703, 'inScoring': 0.0138}
-28.) Sylvia O $ GTWN: {'average': 0.0052, 'stddev': 0.46589082794780523, 'inScoring': 0.0043}
-29.) Daisy O $ OSU: {'average': 0.0051, 'stddev': 0.6628679652796169, 'inScoring': 0.0034}
-30.) Maia H $ PSU: {'average': 0.0014, 'stddev': 0.5773502691896257, 'inScoring': 0.0012}
-31.) Keely K $ Iowa: {'average': 0.0006, 'stddev': 0.4472135954999579, 'inScoring': 0.0005}
-32.) Rebecca L $ WVU: {'average': 0.0003, 'stddev': 0, 'inScoring': 0.0001}
-33.) Jordyn R $ Wisc: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                   Becky H $ ILL                 7.9097                   2.263845                   95.06%                     10.0                       10            
+            2                   Rachel P $ PSU                6.8186                   2.314102                   89.8%                      8.0                        10            
+            3                   Audrey R $ IU                 5.5553                   2.274798                   81.04%                     7.0                        8             
+            4                   Morgan W $ OSU                3.9008                   2.163869                   67.71%                      6                         7             
+            5               Brittany G $ Delaware             3.6589                   2.076482                   65.2%                      6.0                        7             
+            6                   Hanna D $ Wisc                2.6291                   1.991195                   54.63%                      5                         6             
+            7                    Tess L $ JMU                 2.5463                   2.018588                   53.76%                     5.0                        6             
+            8                 Borchueh W $ GTWN               2.4302                   1.935813                   52.93%                      5                         5             
+            9                  Kellie L $ Iowa                2.3795                   1.939446                   52.94%                     5.0                        5             
+            10                   Jill B $ PSU                 1.3718                   1.755956                   38.36%                     4.0                        4             
+            11                 Madison S $ Iowa               1.211                    1.782208                   35.03%                      3                         2             
+            12                  Katie C $ JMU                 0.7552                   1.556117                   25.45%                      3                         1             
+            13                   Liz K $ Minn                 0.7035                   1.534262                   24.07%                      3                         2             
+            14                  Laura C $ Wisc                0.6602                   1.507594                   23.59%                      3                         1             
+            15                 Lindsey J $ Minn               0.6108                   1.484211                   21.91%                      3                         1             
+            16                   Jada H $ IU                  0.608                    1.488665                   21.8%                      3.0                        2             
+            17                  Erica S $ Mich                0.4835                   1.456858                   18.34%                     2.0                        2             
+            18                   Emma D $ OSU                 0.4445                   1.431635                   16.97%                      2                         2             
+            19                   Mary M $ MSU                 0.4054                   1.370155                   16.16%                     2.0                        1             
+            20                  Sarah C $ Mich                0.3018                   1.300501                   12.95%                      2                         1             
+            21                Gabrielle L $ Mich              0.1637                   1.049507                   8.19%                       2                         1             
+            22               Chynelle W $ Drexel              0.1553                   1.191566                   7.55%                       2                         1             
+            23                Abigail Z $ UConn               0.1112                   1.064315                   5.67%                       2                         1             
+            24                  Kassie K $ ILL                 0.1                     1.07277                    5.29%                       2                         1             
+            25               Krista C $ Delaware              0.0293                   0.878983                   1.75%                       1                         1             
+            26                 Melanie S $ MSU                0.0216                   0.820755                   1.36%                      1.0                        1             
+            27                 Hailey W $ Minn                0.0203                   0.775463                   1.38%                      1.0                        1             
+            28                 Sylvia O $ GTWN                0.0081                   0.659353                    0.6%                      1.0                        1             
+            29                  Daisy O $ OSU                 0.0042                   0.550659                   0.31%                       1                         1             
+            30                   Maia H $ PSU                 0.0011                   0.316228                    0.1%                      1.0                        1             
+            31                  Keely K $ Iowa                0.0008                   0.377964                   0.07%                       1                         1             
+            32                 Alyssa S $ Iowa                0.0003                     0.0                      0.03%                       1                         1             
 
-1.)  PSU: {'average': 8.1729, 'stddev': 3.1715671068747615}
-2.)  ILL: {'average': 8.0071, 'stddev': 2.356332364773748}
-3.)  IU: {'average': 6.1443, 'stddev': 2.823826656316269}
-4.)  OSU: {'average': 4.2997, 'stddev': 2.570777862390236}
-5.)  Delaware: {'average': 3.7257, 'stddev': 2.143231075226294}
-6.)  Iowa: {'average': 3.6302, 'stddev': 2.6905128879812605}
-7.)  Wisc: {'average': 3.306, 'stddev': 2.513663598006042}
-8.)  JMU: {'average': 3.3043, 'stddev': 2.492009562006354}
-9.)  GTWN: {'average': 2.4091, 'stddev': 1.9665895587520676}
-10.) Minn: {'average': 1.3664, 'stddev': 1.9021258252869822}
-11.) Mich: {'average': 0.9492, 'stddev': 1.7057819782952433}
-12.) MSU: {'average': 0.4143, 'stddev': 1.3620079922359207}
-13.) Drexel: {'average': 0.1598, 'stddev': 1.1316373032582294}
-14.) UConn: {'average': 0.1107, 'stddev': 1.0357581914017868}
-15.) WVU: {'average': 0.0003, 'stddev': 0}
+         Position                    Team                    Average                    Stddev          
+            1                        PSU                      8.1915                   3.172054         
+            2                        ILL                      8.0097                   2.345188         
+            3                         IU                      6.1633                   2.752437         
+            4                        OSU                      4.3495                   2.538703         
+            5                      Delaware                   3.6882                   2.126738         
+            6                        Iowa                     3.5916                   2.683882         
+            7                        JMU                      3.3015                   2.545048         
+            8                        Wisc                     3.2893                   2.471346         
+            9                        GTWN                     2.4383                   1.953287         
+            10                       Minn                     1.3346                   1.940208         
+            11                       Mich                     0.949                    1.73757          
+            12                       MSU                      0.427                    1.383776         
+            13                      Drexel                    0.1553                   1.191566         
+            14                      UConn                     0.1112                   1.064315         
 
-400m:
+-----------------------------400m-----------------------------
 
-1.)  Becky H $ ILL: {'average': 8.0662, 'stddev': 2.2788138047862296, 'inScoring': 0.9655}
-2.)  Emma D $ OSU: {'average': 6.4607, 'stddev': 2.463810283462038, 'inScoring': 0.889}
-3.)  Hanna D $ Wisc: {'average': 5.3967, 'stddev': 2.2749728450490863, 'inScoring': 0.8338}
-4.)  Gabrielle L $ Mich: {'average': 4.8448, 'stddev': 2.31839421037341, 'inScoring': 0.7761}
-5.)  Madison S $ Iowa: {'average': 4.3642, 'stddev': 2.2009613728444095, 'inScoring': 0.7509}
-6.)  Meghan R $ PSU: {'average': 2.379, 'stddev': 1.9800909443706376, 'inScoring': 0.5458}
-7.)  Mary E $ UVA: {'average': 2.3394, 'stddev': 1.9617334376995783, 'inScoring': 0.5372}
-8.)  Alexandria C $ Mich: {'average': 2.0818, 'stddev': 1.9318049297202486, 'inScoring': 0.5099}
-9.)  Jill B $ PSU: {'average': 1.8543, 'stddev': 1.8590060618315045, 'inScoring': 0.4832}
-10.) Sarah W $ PSU: {'average': 1.6576, 'stddev': 1.7889374282938852, 'inScoring': 0.4508}
-11.) Haley Y $ Mich: {'average': 1.426, 'stddev': 1.7609346773661065, 'inScoring': 0.4112}
-12.) Sarah C $ Mich: {'average': 1.4199, 'stddev': 1.7430972202023032, 'inScoring': 0.4083}
-13.) Katilyn W $ WVU: {'average': 1.0208, 'stddev': 1.598065167886746, 'inScoring': 0.3353}
-14.) Alyssa S $ Iowa: {'average': 0.8533, 'stddev': 1.519426061616332, 'inScoring': 0.2893}
-15.) Gina P $ MSU: {'average': 0.6879, 'stddev': 1.4770763592093403, 'inScoring': 0.2555}
-16.) Monica M $ PSU: {'average': 0.5722, 'stddev': 1.3413719906069546, 'inScoring': 0.2305}
-17.) Krista C $ Delaware: {'average': 0.1493, 'stddev': 0.9975326800007154, 'inScoring': 0.0821}
-18.) Maeghan E $ IwSt: {'average': 0.1177, 'stddev': 1.0070887533888102, 'inScoring': 0.0652}
-19.) Amy B $ PSU: {'average': 0.1109, 'stddev': 1.0111131313704365, 'inScoring': 0.0598}
-20.) Olivia C $ Mich: {'average': 0.0898, 'stddev': 0.9314942433927685, 'inScoring': 0.0514}
-21.) Rita C $ PSU: {'average': 0.0513, 'stddev': 0.8400558432774492, 'inScoring': 0.0314}
-22.) Paige A $ BGSU: {'average': 0.0393, 'stddev': 0.7779950939086514, 'inScoring': 0.0253}
-23.) Colleen H $ OSU: {'average': 0.0138, 'stddev': 0.6930102148559838, 'inScoring': 0.0096}
-24.) Madi G $ IU: {'average': 0.001, 'stddev': 0.0, 'inScoring': 0.001}
-25.) Abby R $ ILL: {'average': 0.0009, 'stddev': 0.7559289460184544, 'inScoring': 0.0007}
-26.) Stephanie B $ MSU: {'average': 0.0006, 'stddev': 0.0, 'inScoring': 0.0006}
-27.) Shannon MacM $ Maryland: {'average': 0.0005, 'stddev': 0.0, 'inScoring': 0.0005}
-28.) Shayna H $ OSU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                   Becky H $ ILL                 8.0216                   2.260148                   96.34%                     10.0                       10            
+            2                    Emma D $ OSU                 6.4926                   2.452191                   88.74%                     8.0                        10            
+            3                   Hanna D $ Wisc                5.4469                   2.298017                   84.18%                     7.0                        8             
+            4                 Gabrielle L $ Mich              4.7387                   2.376096                   76.71%                      7                         8             
+            5                  Madison S $ Iowa               4.3681                   2.20809                    75.16%                     6.0                        7             
+            6                   Meghan R $ PSU                2.429                    1.972602                   55.59%                      5                         5             
+            7                    Mary E $ UVA                 2.3401                   1.93768                    53.58%                     4.0                        5             
+            8                Alexandria C $ Mich              2.0971                   1.942312                   51.26%                     4.0                        5             
+            9                    Jill B $ PSU                 1.8563                   1.852695                   48.0%                      4.0                        4             
+            10                  Sarah W $ PSU                 1.7003                   1.788736                   45.68%                     4.0                        4             
+            11                  Sarah C $ Mich                1.4329                   1.764306                   41.3%                      3.0                        3             
+            12                  Haley Y $ Mich                1.3988                   1.744148                   40.61%                      3                         3             
+            13                 Katilyn W $ WVU                 1.02                    1.62143                    33.49%                      3                         2             
+            14                 Alyssa S $ Iowa                0.8617                   1.562832                   29.36%                     3.0                        1             
+            15                   Gina P $ MSU                 0.6454                   1.480622                   24.11%                      2                         1             
+            16                  Monica M $ PSU                0.5543                   1.380614                   22.22%                     2.0                        1             
+            17               Krista C $ Delaware              0.1489                   0.98874                    7.99%                       2                         1             
+            18                 Maeghan E $ IwSt               0.1239                   1.007245                   6.85%                       1                         1             
+            19                   Amy B $ PSU                  0.1072                   0.972217                   5.98%                      2.0                        1             
+            20                 Olivia C $ Mich                0.1037                   1.018999                   5.82%                      1.0                        1             
+            21                   Rita C $ PSU                 0.0503                   0.780199                   3.02%                      1.0                        1             
+            22                  Paige A $ BGSU                0.0426                   0.832996                   2.65%                       1                         1             
+            23                 Colleen H $ OSU                0.0158                   0.708788                   1.05%                       1                         1             
+            24                Stephanie B $ MSU               0.0014                   0.389249                   0.12%                      1.0                        1             
+            25             Shannon MacM $ Maryland            0.0009                   0.48795                    0.07%                       1                         1             
+            26                   Abby R $ ILL                 0.0008                   0.377964                   0.07%                       1                         1             
+            27                  Shayna H $ OSU                0.0004                     0.0                      0.02%                      2.0                        2             
+            28                   Madi G $ IU                  0.0003                     0.0                      0.03%                       1                         1             
 
-1.)  Mich: {'average': 9.7784, 'stddev': 4.187789880293207}
-2.)  ILL: {'average': 8.0671, 'stddev': 2.279054975452787}
-3.)  PSU: {'average': 6.5949, 'stddev': 3.61074336574855}
-4.)  OSU: {'average': 6.4746, 'stddev': 2.4773962311316584}
-5.)  Wisc: {'average': 5.3967, 'stddev': 2.2749728450490863}
-6.)  Iowa: {'average': 5.2175, 'stddev': 2.795531045131214}
-7.)  UVA: {'average': 2.3394, 'stddev': 1.9617334376995783}
-8.)  WVU: {'average': 1.0208, 'stddev': 1.598065167886746}
-9.)  MSU: {'average': 0.6885, 'stddev': 1.4774738475034552}
-10.) Delaware: {'average': 0.1493, 'stddev': 0.9975326800007154}
-11.) IwSt: {'average': 0.1177, 'stddev': 1.0070887533888102}
-12.) BGSU: {'average': 0.0393, 'stddev': 0.7779950939086514}
-13.) IU: {'average': 0.001, 'stddev': 0.0}
-14.) Maryland: {'average': 0.0005, 'stddev': 0.0}
+         Position                    Team                    Average                    Stddev          
+            1                        Mich                     9.6885                   4.221341         
+            2                        ILL                      8.0224                   2.260717         
+            3                        PSU                      6.6691                   3.624272         
+            4                        OSU                      6.5088                   2.465681         
+            5                        Wisc                     5.4469                   2.298017         
+            6                        Iowa                     5.2298                   2.798759         
+            7                        UVA                      2.3401                   1.93768          
+            8                        WVU                       1.02                    1.62143          
+            9                        MSU                      0.6468                   1.48241          
+            10                     Delaware                   0.1489                   0.98874          
+            11                       IwSt                     0.1239                   1.007245         
+            12                       BGSU                     0.0426                   0.832996         
+            13                     Maryland                   0.0009                   0.48795          
+            14                        IU                      0.0003                     0.0            
 
-800m:
+-----------------------------800m-----------------------------
 
-1.)  Madeleine P $ Wisc: {'average': 8.1628, 'stddev': 2.130442135400649, 'inScoring': 0.9737}
-2.)  Hanna D $ Wisc: {'average': 7.1972, 'stddev': 2.3094786886451883, 'inScoring': 0.9549}
-3.)  Erin Z $ MSU: {'average': 5.446, 'stddev': 2.1768297490502375, 'inScoring': 0.8593}
-4.)  Emily M $ PSU: {'average': 4.9586, 'stddev': 2.188727885853513, 'inScoring': 0.8149}
-5.)  Gabriella R $ Wisc: {'average': 4.2182, 'stddev': 2.0895832594536787, 'inScoring': 0.7536}
-6.)  Emma D $ OSU: {'average': 3.4947, 'stddev': 1.9902854847346718, 'inScoring': 0.6915}
-7.)  Meghan G $ GTWN: {'average': 2.7382, 'stddev': 1.9046484773783237, 'inScoring': 0.6106}
-8.)  Nicole M $ MSU: {'average': 1.7426, 'stddev': 1.7371362753851505, 'inScoring': 0.4796}
-9.)  Maddie P $ Minn: {'average': 1.5751, 'stddev': 1.6491160446730504, 'inScoring': 0.449}
-10.) Lauren McG $ MSU: {'average': 1.5116, 'stddev': 1.658397296943932, 'inScoring': 0.4397}
-11.) Gabriella R $ Mich: {'average': 1.2641, 'stddev': 1.607169436003058, 'inScoring': 0.3945}
-12.) Sara K $ Wisc: {'average': 0.8076, 'stddev': 1.3912186357618956, 'inScoring': 0.2976}
-13.) Molly M $ Mich: {'average': 0.7238, 'stddev': 1.3870251265552476, 'inScoring': 0.2723}
-14.) Sarah A $ MSU: {'average': 0.6959, 'stddev': 1.4077064159501573, 'inScoring': 0.2617}
-15.) Meghan R $ PSU: {'average': 0.4906, 'stddev': 1.2756060165102363, 'inScoring': 0.2095}
-16.) Amanda M $ MSU: {'average': 0.2313, 'stddev': 1.0581009524477218, 'inScoring': 0.1168}
-17.) Katlyn A $ IwSt: {'average': 0.1869, 'stddev': 1.0408715314189776, 'inScoring': 0.0961}
-18.) Bailey M $ MSU: {'average': 0.1387, 'stddev': 0.9880152098017895, 'inScoring': 0.0779}
-19.) Cassie H $ Mich: {'average': 0.125, 'stddev': 0.9667866950766943, 'inScoring': 0.0681}
-20.) Holly S $ IwSt: {'average': 0.0988, 'stddev': 0.924116351036103, 'inScoring': 0.0562}
-21.) Katrina H $ Maryland: {'average': 0.0722, 'stddev': 0.8924856307984819, 'inScoring': 0.043}
-22.) Francesca R $ OSU: {'average': 0.0445, 'stddev': 0.8536788463771511, 'inScoring': 0.0282}
-23.) Allyx K $ Minn: {'average': 0.0317, 'stddev': 0.7972048150346712, 'inScoring': 0.0209}
-24.) Tessa D $ OSU: {'average': 0.0302, 'stddev': 0.7586179571713481, 'inScoring': 0.0198}
-25.) Michelle K $ PSU: {'average': 0.0047, 'stddev': 0.6931669932133818, 'inScoring': 0.0037}
-26.) Darien K $ PSU: {'average': 0.0042, 'stddev': 0.693888666488711, 'inScoring': 0.0028}
-27.) Nicole L $ Delaware: {'average': 0.0012, 'stddev': 0.5345224838248488, 'inScoring': 0.0008}
-28.) Casey B $ Delaware: {'average': 0.001, 'stddev': 0.0, 'inScoring': 0.001}
-29.) Erica F $ PSU: {'average': 0.0009, 'stddev': 0.4879500364742666, 'inScoring': 0.0007}
-30.) Kinsey R $ WVU: {'average': 0.0009, 'stddev': 0.3535533905932738, 'inScoring': 0.0008}
-31.) Zoe P $ Wisc: {'average': 0.0007, 'stddev': 0.0, 'inScoring': 0.0007}
-32.) Hailey B $ PSU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                 Madeleine P $ Wisc              8.1823                   2.133963                   97.56%                     10.0                       10            
+            2                   Hanna D $ Wisc                7.1927                   2.278268                   95.33%                      8                         8             
+            3                    Erin Z $ MSU                 5.4506                   2.185265                   85.65%                      7                         7             
+            4                   Emily M $ PSU                 4.9584                   2.208652                   81.84%                     6.0                        7             
+            5                 Gabriella R $ Wisc              4.1951                   2.107158                   75.78%                     6.0                        7             
+            6                    Emma D $ OSU                  3.49                    1.992903                   68.23%                      5                         6             
+            7                  Meghan G $ GTWN                 2.77                    1.904762                   61.74%                     5.0                        6             
+            8                   Nicole M $ MSU                1.7384                   1.728111                   47.25%                      4                         4             
+            9                  Maddie P $ Minn                1.5893                   1.629981                   45.72%                     3.0                        3             
+            10                 Lauren McG $ MSU               1.5442                   1.652209                   45.26%                     3.0                        4             
+            11                Gabriella R $ Mich              1.2173                   1.551269                   38.39%                      3                         3             
+            12                  Sara K $ Wisc                 0.7581                   1.39329                    28.44%                     2.0                        1             
+            13                  Molly M $ Mich                0.7512                   1.394584                   28.47%                      2                         1             
+            14                  Sarah A $ MSU                 0.6819                   1.364887                   25.95%                      2                         2             
+            15                  Meghan R $ PSU                0.4858                   1.290435                   20.15%                      2                         1             
+            16                  Amanda M $ MSU                0.2383                   1.078372                   11.85%                      2                         1             
+            17                 Katlyn A $ IwSt                0.1961                   1.046815                   9.99%                       2                         1             
+            18                 Cassie H $ Mich                0.1375                   1.046727                   7.25%                       2                         1             
+            19                  Bailey M $ MSU                0.1248                   0.983465                   6.96%                      2.0                        1             
+            20                  Holly S $ IwSt                0.0982                   0.908007                    5.8%                      1.0                        1             
+            21               Katrina H $ Maryland             0.0738                   0.891123                   4.26%                      1.0                        1             
+            22                Francesca R $ OSU               0.0472                   0.872061                    3.0%                      1.0                        1             
+            23                  Tessa D $ OSU                 0.0336                   0.819908                   2.09%                       1                         1             
+            24                  Allyx K $ Minn                0.0324                   0.834631                   2.04%                      1.0                        1             
+            25                  Darien K $ PSU                0.0035                   0.628796                   0.26%                      1.0                        1             
+            26                 Michelle K $ PSU               0.0034                   0.549125                   0.26%                      1.0                        1             
+            27                Casey B $ Delaware              0.0021                   0.736788                   0.15%                       1                         1             
+            28               Nicole L $ Delaware              0.0014                   0.467099                   0.11%                       1                         1             
+            29                  Kinsey R $ WVU                0.0009                     0.0                      0.09%                       1                         1             
+            30                  Erica F $ PSU                 0.0008                   0.516398                   0.06%                      1.0                        1             
+            31                   Zoe P $ Wisc                 0.0006                     0.0                      0.06%                      1.0                        1             
+            32                  Jenny O $ Pitt                0.0001                      0                       0.01%                       1                         1             
 
-1.)  Wisc: {'average': 19.9569, 'stddev': 3.6741952266006144}
-2.)  MSU: {'average': 9.6803, 'stddev': 3.7802392214928355}
-3.)  PSU: {'average': 5.459, 'stddev': 2.597068599393665}
-4.)  OSU: {'average': 3.5694, 'stddev': 2.074599288266468}
-5.)  GTWN: {'average': 2.7382, 'stddev': 1.9046484773783237}
-6.)  Mich: {'average': 2.1129, 'stddev': 2.0401657668693165}
-7.)  Minn: {'average': 1.6068, 'stddev': 1.6886655938710151}
-8.)  IwSt: {'average': 0.2857, 'stddev': 1.0918139467618468}
-9.)  Maryland: {'average': 0.0722, 'stddev': 0.8924856307984819}
-10.) Delaware: {'average': 0.0022, 'stddev': 0.4277926319464986}
-11.) WVU: {'average': 0.0009, 'stddev': 0.3535533905932738}
+         Position                    Team                    Average                    Stddev          
+            1                        Wisc                    19.9217                   3.812635         
+            2                        MSU                      9.6971                   3.838214         
+            3                        PSU                      5.4519                   2.557147         
+            4                        OSU                      3.5708                   2.101656         
+            5                        GTWN                      2.77                    1.904762         
+            6                        Mich                     2.106                    2.01165          
+            7                        Minn                     1.6217                   1.66238          
+            8                        IwSt                     0.2943                   1.131465         
+            9                      Maryland                   0.0738                   0.891123         
+            10                     Delaware                   0.0035                   0.628796         
+            11                       WVU                      0.0009                     0.0            
+            12                       Pitt                     0.0001                      0             
 
-1500m:
+-----------------------------1500m-----------------------------
 
-1.)  Erin Z $ MSU: {'average': 7.2294, 'stddev': 2.4566718282984037, 'inScoring': 0.8853}
-2.)  Emily W $ IU: {'average': 6.7179, 'stddev': 2.482367539251366, 'inScoring': 0.8559}
-3.)  Maddie P $ Minn: {'average': 4.0771, 'stddev': 2.393203697062839, 'inScoring': 0.6509}
-4.)  Nicole M $ MSU: {'average': 3.1648, 'stddev': 2.3746217694195533, 'inScoring': 0.5709}
-5.)  Katlyn A $ IwSt: {'average': 2.9294, 'stddev': 2.3186672646374804, 'inScoring': 0.5519}
-6.)  Molly M $ Mich: {'average': 2.6417, 'stddev': 2.3040678103661083, 'inScoring': 0.5287}
-7.)  Ariane A $ PSU: {'average': 2.5477, 'stddev': 2.2451908282729938, 'inScoring': 0.5167}
-8.)  Madeleine P $ Wisc: {'average': 2.4566, 'stddev': 2.249749447703268, 'inScoring': 0.5046}
-9.)  Kristina K $ ND: {'average': 1.974, 'stddev': 2.14717544078542, 'inScoring': 0.4457}
-10.) Jenn S $ Mich: {'average': 1.8136, 'stddev': 2.1258752387203956, 'inScoring': 0.4255}
-11.) Lauren M $ Mich: {'average': 1.7245, 'stddev': 2.083173920950568, 'inScoring': 0.414}
-12.) Maeghan E $ IwSt: {'average': 1.4344, 'stddev': 1.985749903417308, 'inScoring': 0.3729}
-13.) Anna S $ Minn: {'average': 1.2753, 'stddev': 2.003368238967613, 'inScoring': 0.3416}
-14.) Zoe P $ Wisc: {'average': 1.2567, 'stddev': 1.9734511477939887, 'inScoring': 0.332}
-15.) Juila E $ GTWN: {'average': 1.1577, 'stddev': 1.9177130773943611, 'inScoring': 0.3261}
-16.) Holly S $ IwSt: {'average': 0.8845, 'stddev': 1.7323704617327047, 'inScoring': 0.2705}
-17.) Arielle D $ OSU: {'average': 0.8005, 'stddev': 1.6800736628296227, 'inScoring': 0.2593}
-18.) Bailey M $ MSU: {'average': 0.6617, 'stddev': 1.5741411196549842, 'inScoring': 0.2265}
-19.) Jessica U $ Pitt: {'average': 0.6339, 'stddev': 1.590579695165658, 'inScoring': 0.2166}
-20.) Amanda M $ MSU: {'average': 0.2589, 'stddev': 1.300270530908521, 'inScoring': 0.1121}
-21.) Emily C $ ILL: {'average': 0.1997, 'stddev': 1.206840507278656, 'inScoring': 0.0914}
-22.) Colleen C $ Mich: {'average': 0.0447, 'stddev': 0.8421501424215702, 'inScoring': 0.0267}
-23.) Jaime F $ IU: {'average': 0.0305, 'stddev': 0.8965820491565065, 'inScoring': 0.0195}
-24.) Anneliese S $ ILL: {'average': 0.0224, 'stddev': 0.7417600433918423, 'inScoring': 0.0154}
-25.) Michaela L $ Purdue: {'average': 0.0148, 'stddev': 0.7396921365587836, 'inScoring': 0.0095}
-26.) Megan B $ NW: {'average': 0.0097, 'stddev': 0.8662873198357268, 'inScoring': 0.0058}
-27.) Jamie F $ IU: {'average': 0.0084, 'stddev': 0.9973027597539248, 'inScoring': 0.0055}
-28.) Nicole F $ UConn: {'average': 0.0077, 'stddev': 0.8439921178751973, 'inScoring': 0.0048}
-29.) Erin McK $ ILL: {'average': 0.0064, 'stddev': 0.7775528239689432, 'inScoring': 0.0039}
-30.) Emma K $ NW: {'average': 0.0057, 'stddev': 0.9102589898327995, 'inScoring': 0.0035}
-31.) Jenny O $ Pitt: {'average': 0.0039, 'stddev': 0.8756702684071968, 'inScoring': 0.0023}
-32.) Allyx K $ Minn: {'average': 0.0032, 'stddev': 0.583027399541909, 'inScoring': 0.0023}
-33.) Mary L $ UVA: {'average': 0.001, 'stddev': 0.4629100498862757, 'inScoring': 0.0008}
-34.) Stephanie P $ Delaware: {'average': 0.0007, 'stddev': 0.9574271077563381, 'inScoring': 0.0004}
-35.) Anna L $ NW: {'average': 0.0004, 'stddev': 0, 'inScoring': 0.0001}
-36.) Stefani W $ Minn: {'average': 0.0003, 'stddev': 0.7071067811865476, 'inScoring': 0.0002}
-37.) Charlotte E $ MSU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
-38.) Elsa S $ OSU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                    Erin Z $ MSU                 7.2513                   2.44444                    88.93%                      10                        10            
+            2                    Emily W $ IU                 6.766                    2.502061                   86.14%                     8.0                        10            
+            3                  Maddie P $ Minn                4.0699                   2.385553                   65.3%                      7.0                        8             
+            4                   Nicole M $ MSU                3.0955                   2.386007                   55.95%                      6                         7             
+            5                  Katlyn A $ IwSt                2.8871                   2.315779                   54.88%                     6.0                        7             
+            6                   Molly M $ Mich                2.6105                   2.286341                   52.65%                      5                         7             
+            7                   Ariane A $ PSU                2.5684                   2.273958                   52.28%                     5.0                        7             
+            8                 Madeleine P $ Wisc              2.4792                   2.255958                   51.33%                      5                         6             
+            9                  Kristina K $ ND                2.0353                   2.173344                   44.91%                      5                         5             
+            10                  Jenn S $ Mich                 1.8008                   2.114928                   42.49%                      4                         6             
+            11                 Lauren M $ Mich                1.7582                   2.096475                   41.89%                      4                         6             
+            12                 Maeghan E $ IwSt               1.4193                   1.988504                   36.58%                     4.0                        5             
+            13                  Anna S $ Minn                 1.3088                   1.960839                   34.62%                     4.0                        2             
+            14                   Zoe P $ Wisc                 1.2284                   1.967896                   32.97%                      4                         4             
+            15                  Juila E $ GTWN                1.1227                   1.864647                   31.26%                     3.0                        2             
+            16                  Holly S $ IwSt                0.8932                   1.758933                   27.46%                     3.0                        1             
+            17                 Arielle D $ OSU                0.7922                   1.684061                   25.69%                      3                         1             
+            18                  Bailey M $ MSU                0.6721                   1.662749                   22.61%                      3                         1             
+            19                 Jessica U $ Pitt               0.6585                   1.611562                   22.23%                      3                         1             
+            20                  Amanda M $ MSU                0.2354                   1.235363                   10.78%                     2.0                        1             
+            21                  Emily C $ ILL                 0.1996                   1.175424                   9.47%                       2                         1             
+            22                 Colleen C $ Mich               0.0372                   0.911127                   2.31%                       1                         1             
+            23                   Jaime F $ IU                 0.0274                   0.972155                   1.65%                       1                         1             
+            24                Anneliese S $ ILL               0.0259                   0.804046                   1.67%                       1                         1             
+            25               Michaela L $ Purdue              0.0146                   0.772352                   0.89%                       1                         1             
+            26                   Megan B $ NW                 0.0082                   0.681845                   0.57%                       1                         1             
+            27                   Jamie F $ IU                 0.0079                   0.811797                   0.49%                       1                         1             
+            28                 Nicole F $ UConn               0.0072                   0.648782                   0.49%                       1                         1             
+            29                   Emma K $ NW                  0.0065                   0.525502                   0.48%                      1.0                        1             
+            30                  Jenny O $ Pitt                0.005                    0.619732                   0.38%                      1.0                        1             
+            31                  Erin McK $ ILL                0.0043                   0.441809                   0.37%                       1                         1             
+            32                  Allyx K $ Minn                0.0021                   0.383482                   0.18%                      1.0                        1             
+            33              Stephanie P $ Delaware            0.0008                   0.547723                   0.05%                       2                         2             
+            34                   Mary L $ UVA                 0.0003                     0.0                      0.03%                       1                         1             
+            35                   Rita C $ PSU                 0.0001                      0                       0.01%                       1                         1             
+            36                 Stefani W $ Minn               0.0001                      0                       0.01%                       1                         1             
 
-1.)  MSU: {'average': 11.3019, 'stddev': 4.428003664286239}
-2.)  IU: {'average': 6.7568, 'stddev': 2.529636151248923}
-3.)  Mich: {'average': 6.2239, 'stddev': 3.897298266649175}
-4.)  Minn: {'average': 5.3559, 'stddev': 3.2516936691262184}
-5.)  IwSt: {'average': 5.2483, 'stddev': 3.506322487477675}
-6.)  Wisc: {'average': 3.7133, 'stddev': 2.9286905043729896}
-7.)  PSU: {'average': 2.5477, 'stddev': 2.2451908282729938}
-8.)  ND: {'average': 1.974, 'stddev': 2.14717544078542}
-9.)  GTWN: {'average': 1.1577, 'stddev': 1.9177130773943611}
-10.) OSU: {'average': 0.8006, 'stddev': 1.6810866529221893}
-11.) Pitt: {'average': 0.6378, 'stddev': 1.5939270574064166}
-12.) ILL: {'average': 0.2285, 'stddev': 1.2129418432242032}
-13.) NW: {'average': 0.0158, 'stddev': 0.9065207736524146}
-14.) Purdue: {'average': 0.0148, 'stddev': 0.7396921365587836}
-15.) UConn: {'average': 0.0077, 'stddev': 0.8439921178751973}
-16.) UVA: {'average': 0.001, 'stddev': 0.4629100498862757}
-17.) Delaware: {'average': 0.0007, 'stddev': 0.9574271077563381}
+         Position                    Team                    Average                    Stddev          
+            1                        MSU                     11.2436                   4.382379         
+            2                         IU                      6.8013                   2.546703         
+            3                        Mich                     6.2058                   3.839392         
+            4                        Minn                     5.3809                   3.17252          
+            5                        IwSt                     5.1996                   3.511069         
+            6                        Wisc                     3.7076                   2.907233         
+            7                        PSU                      2.5685                   2.274385         
+            8                         ND                      2.0353                   2.173344         
+            9                        GTWN                     1.1227                   1.864647         
+            10                       OSU                      0.7922                   1.684061         
+            11                       Pitt                     0.6635                   1.619318         
+            12                       ILL                      0.2298                   1.207904         
+            13                        NW                      0.0147                   0.632618         
+            14                      Purdue                    0.0146                   0.772352         
+            15                      UConn                     0.0072                   0.648782         
+            16                     Delaware                   0.0008                   0.547723         
+            17                       UVA                      0.0003                     0.0            
 
-5000m:
+-----------------------------5000m-----------------------------
 
-1.)  Emily W $ IU: {'average': 5.2856, 'stddev': 2.6489397293800736, 'inScoring': 0.7168}
-2.)  Jenny S $ OSU: {'average': 4.4506, 'stddev': 2.7300132450429535, 'inScoring': 0.6454}
-3.)  Chelsea W $ NE: {'average': 4.4312, 'stddev': 2.7077623677237397, 'inScoring': 0.6513}
-4.)  Anna P $ Mich: {'average': 4.2911, 'stddev': 2.641365814373405, 'inScoring': 0.6434}
-5.)  Ariane A $ PSU: {'average': 3.8853, 'stddev': 2.522471983158106, 'inScoring': 0.629}
-6.)  Suzanne S $ PSU: {'average': 3.01, 'stddev': 2.43268200624977, 'inScoring': 0.5497}
-7.)  Colleen C $ Mich: {'average': 2.8943, 'stddev': 2.4355334994039026, 'inScoring': 0.5279}
-8.)  Erin Z $ MSU: {'average': 2.7826, 'stddev': 2.3793877505229553, 'inScoring': 0.522}
-9.)  Jenny O $ Pitt: {'average': 2.3204, 'stddev': 2.4219602743818083, 'inScoring': 0.4657}
-10.) Jazmine R $ NW: {'average': 1.4783, 'stddev': 2.1309173322837505, 'inScoring': 0.3585}
-11.) Anna L $ Maryland: {'average': 1.437, 'stddev': 2.1329165576647915, 'inScoring': 0.3492}
-12.) Cheyenne C $ WVU: {'average': 1.338, 'stddev': 2.0983045565959424, 'inScoring': 0.3336}
-13.) Anna S $ Minn: {'average': 1.2025, 'stddev': 2.0563115393390285, 'inScoring': 0.313}
-14.) Tessa D $ OSU: {'average': 1.0124, 'stddev': 1.867641176654249, 'inScoring': 0.2881}
-15.) Anneliese S $ ILL: {'average': 0.948, 'stddev': 1.8434407374360868, 'inScoring': 0.275}
-16.) Jamie F $ IU: {'average': 0.842, 'stddev': 1.7878654998139842, 'inScoring': 0.2541}
-17.) Erin G $ UConn: {'average': 0.7894, 'stddev': 1.7740948560089558, 'inScoring': 0.2402}
-18.) Megan B $ NW: {'average': 0.7554, 'stddev': 1.7464056065855174, 'inScoring': 0.2318}
-19.) Mollee S $ Mich: {'average': 0.7248, 'stddev': 1.7523651020138988, 'inScoring': 0.2255}
-20.) Sarah F $ IU: {'average': 0.6798, 'stddev': 1.6862874140475368, 'inScoring': 0.2151}
-21.) Julia H $ Maryland: {'average': 0.615, 'stddev': 1.6806302564301017, 'inScoring': 0.1985}
-22.) Stephanie R $ Wisc: {'average': 0.3039, 'stddev': 1.448430556261892, 'inScoring': 0.1227}
-23.) Lauren M $ Mich: {'average': 0.2902, 'stddev': 1.3656953100204967, 'inScoring': 0.1171}
-24.) Alyssa T $ UConn: {'average': 0.1113, 'stddev': 1.1990799548377287, 'inScoring': 0.0548}
-25.) Amanda M $ MSU: {'average': 0.0531, 'stddev': 0.9269669415995264, 'inScoring': 0.0311}
-26.) Rachel T $ UVA: {'average': 0.0385, 'stddev': 0.93977425368092, 'inScoring': 0.0221}
-27.) Christel R $ IU: {'average': 0.0104, 'stddev': 0.7453559924999299, 'inScoring': 0.0064}
-28.) Emma B $ ILL: {'average': 0.0073, 'stddev': 0.9386576714124697, 'inScoring': 0.0044}
-29.) Jessica U $ Pitt: {'average': 0.0063, 'stddev': 0.8624977907359475, 'inScoring': 0.0042}
-30.) Shannon MacM $ Maryland: {'average': 0.0045, 'stddev': 0.9164862737363227, 'inScoring': 0.0028}
-31.) Bailey M $ MSU: {'average': 0.0006, 'stddev': 0.5773502691896257, 'inScoring': 0.0004}
-32.) Leah N $ PSU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
-33.) Madison A $ WVU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                    Emily W $ IU                 5.2805                   2.708437                   72.17%                      8                         10            
+            2                   Jenny S $ OSU                 4.444                    2.745738                   64.27%                      7                         10            
+            3                   Chelsea W $ NE                4.3848                   2.665851                   64.54%                     7.0                        10            
+            4                   Anna P $ Mich                 4.3344                   2.635676                   64.69%                      7                         10            
+            5                   Ariane A $ PSU                3.8309                   2.54899                    61.5%                      7.0                        8             
+            6                  Suzanne S $ PSU                3.008                    2.416439                   54.4%                      6.0                        7             
+            7                  Colleen C $ Mich               2.9117                   2.382662                   53.9%                      6.0                        7             
+            8                    Erin Z $ MSU                 2.782                    2.372283                   52.28%                     6.0                        7             
+            9                   Jenny O $ Pitt                2.2761                   2.451059                   45.5%                      5.0                        6             
+            10                  Jazmine R $ NW                1.5241                   2.125176                   36.52%                     4.0                        5             
+            11                Anna L $ Maryland               1.439                    2.151877                   35.32%                     4.0                        2             
+            12                 Cheyenne C $ WVU               1.3547                   2.078848                   33.71%                      4                         5             
+            13                  Anna S $ Minn                 1.2075                   2.042457                   31.56%                     4.0                        3             
+            14                  Tessa D $ OSU                 0.9908                   1.888456                   28.16%                     3.0                        3             
+            15                Anneliese S $ ILL               0.9412                   1.861531                   27.17%                      3                         1             
+            16                   Jamie F $ IU                 0.8852                   1.78315                    26.86%                     3.0                        1             
+            17                  Erin G $ UConn                0.7851                   1.787088                   23.76%                     3.0                        2             
+            18                 Mollee S $ Mich                0.7661                   1.776083                   23.1%                      3.0                        3             
+            19                   Megan B $ NW                 0.7655                   1.758489                   23.0%                      3.0                        1             
+            20                   Sarah F $ IU                 0.6749                   1.742806                   21.66%                     3.0                        1             
+            21                Julia H $ Maryland              0.5915                   1.654794                   19.55%                      3                         2             
+            22                Stephanie R $ Wisc              0.3099                   1.429016                   12.26%                     2.0                        1             
+            23                 Lauren M $ Mich                0.2851                   1.363126                   11.78%                     2.0                        1             
+            24                 Alyssa T $ UConn               0.1097                   1.139328                   5.44%                      2.0                        1             
+            25                  Amanda M $ MSU                0.0534                   1.028737                   2.94%                      2.0                        1             
+            26                  Rachel T $ UVA                0.0374                   0.865006                   2.18%                      2.0                        1             
+            27                   Emma B $ ILL                 0.0078                   0.878952                   0.57%                       1                         1             
+            28                 Christel R $ IU                0.0072                   0.819096                   0.49%                       1                         1             
+            29                 Jessica U $ Pitt               0.0058                   0.854456                   0.39%                       1                         1             
+            30             Shannon MacM $ Maryland            0.0039                   0.926125                   0.23%                       1                         1             
+            31                  Bailey M $ MSU                0.0013                   0.744024                   0.08%                      1.5                        1             
+            32                   Leah N $ PSU                 0.0005                   0.707107                   0.02%                      2.5                        3             
 
-1.)  Mich: {'average': 8.1897, 'stddev': 4.424914920301248}
-2.)  PSU: {'average': 6.8954, 'stddev': 3.9548687399770635}
-3.)  IU: {'average': 6.8176, 'stddev': 3.7008870540005026}
-4.)  OSU: {'average': 5.463, 'stddev': 3.4236198120651595}
-5.)  NE: {'average': 4.4312, 'stddev': 2.7077623677237397}
-6.)  MSU: {'average': 2.8363, 'stddev': 2.464167897361787}
-7.)  Pitt: {'average': 2.3267, 'stddev': 2.43125572737194}
-8.)  NW: {'average': 2.2337, 'stddev': 2.480154477701887}
-9.)  Maryland: {'average': 2.0565, 'stddev': 2.4699296022012183}
-10.) WVU: {'average': 1.3381, 'stddev': 2.098637337596169}
-11.) Minn: {'average': 1.2025, 'stddev': 2.0563115393390285}
-12.) ILL: {'average': 0.9553, 'stddev': 1.8455704219064344}
-13.) UConn: {'average': 0.9007, 'stddev': 1.8480009084895574}
-14.) Wisc: {'average': 0.3039, 'stddev': 1.448430556261892}
-15.) UVA: {'average': 0.0385, 'stddev': 0.93977425368092}
+         Position                    Team                    Average                    Stddev          
+            1                        Mich                     8.2889                   4.461404         
+            2                         IU                      6.8476                   3.79344          
+            3                        PSU                      6.8394                   3.958518         
+            4                        OSU                      5.4348                   3.401266         
+            5                         NE                      4.3848                   2.665851         
+            6                        MSU                      2.8367                   2.442101         
+            7                         NW                      2.2896                   2.556539         
+            8                        Pitt                     2.2819                   2.461832         
+            9                      Maryland                   2.0344                   2.428022         
+            10                       WVU                      1.3547                   2.078848         
+            11                       Minn                     1.2075                   2.042457         
+            12                       ILL                      0.949                    1.876415         
+            13                      UConn                     0.8948                   1.873729         
+            14                       Wisc                     0.3099                   1.429016         
+            15                       UVA                      0.0374                   0.865006         
 
-100m HH:
+-----------------------------100m HH-----------------------------
 
-1.)  Erica F $ PSU: {'average': 8.7907, 'stddev': 1.820790426148448, 'inScoring': 0.995}
-2.)  Jada H $ IU: {'average': 6.6111, 'stddev': 2.019720630675566, 'inScoring': 0.9898}
-3.)  Cheyenne H $ UConn: {'average': 6.369, 'stddev': 2.1265536509017346, 'inScoring': 0.9903}
-4.)  Vanessa R $ PSU: {'average': 6.1842, 'stddev': 2.0070715263498773, 'inScoring': 0.9893}
-5.)  Haley H $ Delaware: {'average': 5.4462, 'stddev': 1.8785559062231452, 'inScoring': 0.9845}
-6.)  Abby R $ ILL: {'average': 4.4867, 'stddev': 1.7686307558390606, 'inScoring': 0.9677}
-7.)  Brittany T $ Maryland: {'average': 3.971, 'stddev': 1.6784552256821774, 'inScoring': 0.9507}
-8.)  Jaclyn G $ IU: {'average': 1.4417, 'stddev': 1.0451929596254268, 'inScoring': 0.6674}
-9.)  Colleen B $ BGSU: {'average': 1.2609, 'stddev': 0.9842983025799384, 'inScoring': 0.6294}
-10.) Emilie D $ UConn: {'average': 1.1489, 'stddev': 0.8934947723243348, 'inScoring': 0.6112}
-11.) Victoria N $ UConn: {'average': 0.2515, 'stddev': 0.5569727968456882, 'inScoring': 0.1912}
-12.) Violet N $ MSU: {'average': 0.032, 'stddev': 0.3814163183648473, 'inScoring': 0.0282}
-13.) Jessica M $ Nova: {'average': 0.0053, 'stddev': 0.36315844747302034, 'inScoring': 0.0046}
-14.) Ali D $ ILL: {'average': 0.0007, 'stddev': 0.408248290463863, 'inScoring': 0.0006}
-15.) Isabella B $ UVA: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                   Erica F $ PSU                 8.7531                   1.835184                   99.55%                      10                        10            
+            2                    Jada H $ IU                  6.6447                   2.057609                   99.21%                      7                         8             
+            3                 Cheyenne H $ UConn              6.3927                   2.087177                   98.9%                      7.0                        8             
+            4                  Vanessa R $ PSU                6.1641                   2.013956                   98.93%                      6                         8             
+            5                 Haley H $ Delaware              5.4174                   1.893891                   98.36%                     6.0                        6             
+            6                    Abby R $ ILL                 4.5232                   1.799897                   96.82%                     5.0                        5             
+            7               Brittany T $ Maryland             3.9648                   1.675726                   95.13%                      4                         4             
+            8                   Jaclyn G $ IU                  1.44                    1.053478                   66.17%                      2                         2             
+            9                  Colleen B $ BGSU               1.2581                   0.990558                   62.82%                     2.0                        2             
+            10                 Emilie D $ UConn               1.1358                   0.911811                   60.22%                     2.0                        1             
+            11                Victoria N $ UConn              0.263                    0.546479                   20.01%                      1                         1             
+            12                  Violet N $ MSU                0.0354                   0.353802                   3.16%                      1.0                        1             
+            13                 Jessica M $ Nova               0.0062                   0.255609                   0.58%                      1.0                        1             
+            14                   Ali D $ ILL                  0.0008                     0.0                      0.08%                      1.0                        1             
+            15                 Isabella B $ UVA               0.0003                   0.707107                   0.02%                      1.5                        2             
+            16                  Jamie H $ Iowa                0.0002                     0.0                      0.02%                      1.0                        1             
+            17                 Margaux S $ PSU                0.0002                     0.0                      0.02%                      1.0                        1             
 
-1.)  PSU: {'average': 14.9749, 'stddev': 2.5633878317050613}
-2.)  IU: {'average': 8.0528, 'stddev': 2.470797007259126}
-3.)  UConn: {'average': 7.7694, 'stddev': 2.5089132324154666}
-4.)  Delaware: {'average': 5.4462, 'stddev': 1.8785559062231452}
-5.)  ILL: {'average': 4.4874, 'stddev': 1.7690530737253756}
-6.)  Maryland: {'average': 3.971, 'stddev': 1.6784552256821774}
-7.)  BGSU: {'average': 1.2609, 'stddev': 0.9842983025799384}
-8.)  MSU: {'average': 0.032, 'stddev': 0.3814163183648473}
-9.)  Nova: {'average': 0.0053, 'stddev': 0.36315844747302034}
-10.) UVA: {'average': 0.0001, 'stddev': 0}
+         Position                    Team                    Average                    Stddev          
+            1                        PSU                     14.9174                   2.567574         
+            2                         IU                      8.0847                   2.520022         
+            3                       UConn                     7.7915                   2.484561         
+            4                      Delaware                   5.4174                   1.893891         
+            5                        ILL                      4.524                    1.800622         
+            6                      Maryland                   3.9648                   1.675726         
+            7                        BGSU                     1.2581                   0.990558         
+            8                        MSU                      0.0354                   0.353802         
+            9                        Nova                     0.0062                   0.255609         
+            10                       UVA                      0.0003                   0.707107         
+            11                       Iowa                     0.0002                     0.0            
 
-3000m Steeplechase:
+-----------------------------3000m Steeplechase-----------------------------
 
-1.)  Miriam S $ Maryland: {'average': 8.0538, 'stddev': 1.5405008517645904, 'inScoring': 1.0}
-2.)  Kim G $ Maryland: {'average': 7.9374, 'stddev': 1.490068209957864, 'inScoring': 1.0}
-3.)  Rachel N $ Maryland: {'average': 7.673, 'stddev': 1.4638597229683086, 'inScoring': 1.0}
-4.)  Erin L $ Maryland: {'average': 7.3358, 'stddev': 1.3075202946540039, 'inScoring': 1.0}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                Miriam S $ Maryland              8.0891                   1.543956                   100.0%                     8.0                        10            
+            2                  Kim G $ Maryland               7.9066                   1.506487                   100.0%                     8.0                        10            
+            3                Rachel N $ Maryland              7.6556                   1.444852                   100.0%                     7.0                        6             
+            4                 Erin L $ Maryland               7.3487                   1.304024                   100.0%                     7.0                        6             
 
-1.)  Maryland: {'average': 25.0, 'stddev': 0.0}
+         Position                    Team                    Average                    Stddev          
+            1                      Maryland                    25.0                      0.0            
 
-4x400m:
+-----------------------------4x400m-----------------------------
 
-1.)  Wisc: {'average': 9.1897, 'stddev': 1.3822163740402686, 'inScoring': 0.9908}
-2.)  PSU: {'average': 7.0155, 'stddev': 2.1078129209026604, 'inScoring': 0.9501}
-3.)  Iowa: {'average': 5.4714, 'stddev': 2.0903350910751017, 'inScoring': 0.8694}
-4.)  OSU: {'average': 5.1047, 'stddev': 2.029203505892155, 'inScoring': 0.8412}
-5.)  ILL: {'average': 3.6848, 'stddev': 1.949409729302756, 'inScoring': 0.7131}
-6.)  Minn: {'average': 2.6471, 'stddev': 1.8584369886914025, 'inScoring': 0.6007}
-7.)  IwSt: {'average': 1.9919, 'stddev': 1.7821156861627503, 'inScoring': 0.5109}
-8.)  MSU: {'average': 1.8414, 'stddev': 1.7167421850615794, 'inScoring': 0.4985}
-9.)  WVU: {'average': 1.6647, 'stddev': 1.7147866236191636, 'inScoring': 0.4732}
-10.) Maryland: {'average': 1.5837, 'stddev': 1.7230367057906866, 'inScoring': 0.4564}
-11.) Delaware: {'average': 1.4026, 'stddev': 1.6428595601615104, 'inScoring': 0.4331}
-12.) IU: {'average': 1.0491, 'stddev': 1.5149849467940355, 'inScoring': 0.3554}
-13.) Mich: {'average': 1.0119, 'stddev': 1.548191084000823, 'inScoring': 0.3447}
-14.) Mizzou: {'average': 0.8854, 'stddev': 1.4621197619001753, 'inScoring': 0.3249}
-15.) Purdue: {'average': 0.8002, 'stddev': 1.423898875587693, 'inScoring': 0.3006}
-16.) GTWN: {'average': 0.316, 'stddev': 1.117811767377562, 'inScoring': 0.1552}
-17.) UConn: {'average': 0.2502, 'stddev': 1.0848785804922474, 'inScoring': 0.1271}
-18.) Pitt: {'average': 0.0897, 'stddev': 0.8430400121510113, 'inScoring': 0.0547}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                        Wisc                     9.1693                   1.397264                   98.97%                      10                        10            
+            2                        PSU                      7.0309                   2.138502                   95.61%                      8                         8             
+            3                        Iowa                     5.4563                   2.103535                   86.7%                      7.0                        7             
+            4                        OSU                      5.1228                   2.062069                   84.73%                      7                         7             
+            5                        ILL                      3.6043                   1.975499                   70.2%                      6.0                        6             
+            6                        Minn                     2.6918                   1.834321                   60.38%                     5.0                        5             
+            7                        IwSt                     2.0257                   1.807435                   52.25%                      4                         4             
+            8                        MSU                      1.8228                   1.724449                   49.93%                      4                         4             
+            9                        WVU                      1.6573                   1.736508                   46.63%                      4                         3             
+            10                     Maryland                   1.5957                   1.708177                   45.65%                      3                         4             
+            11                     Delaware                   1.4151                   1.670095                   43.39%                      3                         2             
+            12                        IU                      1.0847                   1.556357                   35.93%                      3                         2             
+            13                       Mich                     1.0071                   1.529441                   34.47%                      3                         2             
+            14                      Mizzou                    0.8582                   1.444862                   31.6%                      3.0                        1             
+            15                      Purdue                    0.8151                   1.412939                   30.6%                      2.0                        1             
+            16                       GTWN                     0.3037                   1.078879                   14.73%                      2                         1             
+            17                      UConn                     0.2478                   1.07003                    12.67%                      2                         1             
+            18                       Pitt                     0.0914                   0.885813                   5.56%                      1.0                        1             
 
-1.)  Wisc: {'average': 9.1897, 'stddev': 1.3822163740402686}
-2.)  PSU: {'average': 7.0155, 'stddev': 2.1078129209026604}
-3.)  Iowa: {'average': 5.4714, 'stddev': 2.0903350910751017}
-4.)  OSU: {'average': 5.1047, 'stddev': 2.029203505892155}
-5.)  ILL: {'average': 3.6848, 'stddev': 1.949409729302756}
-6.)  Minn: {'average': 2.6471, 'stddev': 1.8584369886914025}
-7.)  IwSt: {'average': 1.9919, 'stddev': 1.7821156861627503}
-8.)  MSU: {'average': 1.8414, 'stddev': 1.7167421850615794}
-9.)  WVU: {'average': 1.6647, 'stddev': 1.7147866236191636}
-10.) Maryland: {'average': 1.5837, 'stddev': 1.7230367057906866}
-11.) Delaware: {'average': 1.4026, 'stddev': 1.6428595601615104}
-12.) IU: {'average': 1.0491, 'stddev': 1.5149849467940355}
-13.) Mich: {'average': 1.0119, 'stddev': 1.548191084000823}
-14.) Mizzou: {'average': 0.8854, 'stddev': 1.4621197619001753}
-15.) Purdue: {'average': 0.8002, 'stddev': 1.423898875587693}
-16.) GTWN: {'average': 0.316, 'stddev': 1.117811767377562}
-17.) UConn: {'average': 0.2502, 'stddev': 1.0848785804922474}
-18.) Pitt: {'average': 0.0897, 'stddev': 0.8430400121510113}
+         Position                    Team                    Average                    Stddev          
+            1                        Wisc                     9.1693                   1.397264         
+            2                        PSU                      7.0309                   2.138502         
+            3                        Iowa                     5.4563                   2.103535         
+            4                        OSU                      5.1228                   2.062069         
+            5                        ILL                      3.6043                   1.975499         
+            6                        Minn                     2.6918                   1.834321         
+            7                        IwSt                     2.0257                   1.807435         
+            8                        MSU                      1.8228                   1.724449         
+            9                        WVU                      1.6573                   1.736508         
+            10                     Maryland                   1.5957                   1.708177         
+            11                     Delaware                   1.4151                   1.670095         
+            12                        IU                      1.0847                   1.556357         
+            13                       Mich                     1.0071                   1.529441         
+            14                      Mizzou                    0.8582                   1.444862         
+            15                      Purdue                    0.8151                   1.412939         
+            16                       GTWN                     0.3037                   1.078879         
+            17                      UConn                     0.2478                   1.07003          
+            18                       Pitt                     0.0914                   0.885813         
 
-4x800m:
+-----------------------------4x800m-----------------------------
 
-1.)  OSU: {'average': 8.6371, 'stddev': 1.6560512538590464, 'inScoring': 0.9929}
-2.)  Wisc: {'average': 7.9664, 'stddev': 1.6765450454836337, 'inScoring': 0.9921}
-3.)  Minn: {'average': 7.215, 'stddev': 1.7555990884450408, 'inScoring': 0.9877}
-4.)  MSU: {'average': 4.6967, 'stddev': 1.9936958940994263, 'inScoring': 0.9322}
-5.)  Pitt: {'average': 3.4829, 'stddev': 1.8502062412563198, 'inScoring': 0.846}
-6.)  Miami: {'average': 3.4314, 'stddev': 1.8465181809377675, 'inScoring': 0.8453}
-7.)  ILL: {'average': 2.9542, 'stddev': 1.7617896594680327, 'inScoring': 0.7942}
-8.)  Maryland: {'average': 2.4619, 'stddev': 1.6371274799584434, 'inScoring': 0.7445}
-9.)  Mizzou: {'average': 2.407, 'stddev': 1.615085030873328, 'inScoring': 0.7471}
-10.) Purdue: {'average': 1.9258, 'stddev': 1.4627699309218714, 'inScoring': 0.6716}
-11.) NW: {'average': 0.7586, 'stddev': 1.0388705316734548, 'inScoring': 0.3965}
-12.) CMU: {'average': 0.063, 'stddev': 0.5275715723287839, 'inScoring': 0.0499}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                        OSU                      8.6482                   1.651521                   99.37%                      10                        10            
+            2                        Wisc                     7.9501                   1.678631                   99.22%                     8.0                        8             
+            3                        Minn                     7.2418                   1.754523                   98.89%                      7                         8             
+            4                        MSU                      4.6773                   1.996603                   92.8%                      6.0                        6             
+            5                        Pitt                     3.4757                   1.85349                    84.35%                      4                         5             
+            6                       Miami                     3.402                    1.845089                   84.44%                     4.0                        5             
+            7                        ILL                      2.9139                   1.767298                   78.49%                      4                         4             
+            8                      Maryland                   2.512                    1.644135                   76.08%                     3.0                        3             
+            9                       Mizzou                    2.4032                   1.624035                   73.96%                     3.0                        3             
+            10                      Purdue                    1.949                    1.439017                   67.47%                      3                         2             
+            11                        NW                      0.7603                   1.024505                   39.66%                     2.0                        1             
+            12                       CMU                      0.0665                   0.537321                   5.27%                       1                         1             
 
-1.)  OSU: {'average': 8.6371, 'stddev': 1.6560512538590464}
-2.)  Wisc: {'average': 7.9664, 'stddev': 1.6765450454836337}
-3.)  Minn: {'average': 7.215, 'stddev': 1.7555990884450408}
-4.)  MSU: {'average': 4.6967, 'stddev': 1.9936958940994263}
-5.)  Pitt: {'average': 3.4829, 'stddev': 1.8502062412563198}
-6.)  Miami: {'average': 3.4314, 'stddev': 1.8465181809377675}
-7.)  ILL: {'average': 2.9542, 'stddev': 1.7617896594680327}
-8.)  Maryland: {'average': 2.4619, 'stddev': 1.6371274799584434}
-9.)  Mizzou: {'average': 2.407, 'stddev': 1.615085030873328}
-10.) Purdue: {'average': 1.9258, 'stddev': 1.4627699309218714}
-11.) NW: {'average': 0.7586, 'stddev': 1.0388705316734548}
-12.) CMU: {'average': 0.063, 'stddev': 0.5275715723287839}
+         Position                    Team                    Average                    Stddev          
+            1                        OSU                      8.6482                   1.651521         
+            2                        Wisc                     7.9501                   1.678631         
+            3                        Minn                     7.2418                   1.754523         
+            4                        MSU                      4.6773                   1.996603         
+            5                        Pitt                     3.4757                   1.85349          
+            6                       Miami                     3.402                    1.845089         
+            7                        ILL                      2.9139                   1.767298         
+            8                      Maryland                   2.512                    1.644135         
+            9                       Mizzou                    2.4032                   1.624035         
+            10                      Purdue                    1.949                    1.439017         
+            11                        NW                      0.7603                   1.024505         
+            12                       CMU                      0.0665                   0.537321         
 
-LJ:
+-----------------------------LJ-----------------------------
 
-1.)  Devin McD $ PSU: {'average': 7.4922, 'stddev': 2.125709977459923, 'inScoring': 0.9985}
-2.)  Morgan W $ OSU: {'average': 6.341, 'stddev': 2.47813068195562, 'inScoring': 0.9875}
-3.)  Becky H $ ILL: {'average': 5.661, 'stddev': 2.582629753551136, 'inScoring': 0.9583}
-4.)  Erica F $ PSU: {'average': 4.3237, 'stddev': 2.687316201824415, 'inScoring': 0.8586}
-5.)  Jada H $ IU: {'average': 3.1939, 'stddev': 2.620387977815876, 'inScoring': 0.674}
-6.)  Mary P $ PSU: {'average': 3.1862, 'stddev': 2.636775180243744, 'inScoring': 0.6793}
-7.)  Kati P $ PSU: {'average': 2.7508, 'stddev': 2.5640078719064103, 'inScoring': 0.6082}
-8.)  Haley Y $ Mich: {'average': 1.9647, 'stddev': 2.4261759358950887, 'inScoring': 0.4714}
-9.)  Yasi M $ IwSt: {'average': 1.8674, 'stddev': 2.4760414618005333, 'inScoring': 0.4404}
-10.) Natalie T $ Wisc: {'average': 1.5702, 'stddev': 2.386169101312125, 'inScoring': 0.3839}
-11.) Kellie L $ Iowa: {'average': 1.4081, 'stddev': 2.360947399043541, 'inScoring': 0.3531}
-12.) Abby R $ ILL: {'average': 1.2404, 'stddev': 2.3931899513747883, 'inScoring': 0.3115}
-13.) Erica V $ PSU: {'average': 1.2255, 'stddev': 2.3431266051944006, 'inScoring': 0.3138}
-14.) Emma D $ OSU: {'average': 1.1588, 'stddev': 2.3114536850349046, 'inScoring': 0.3069}
-15.) Grace E $ NW: {'average': 1.0292, 'stddev': 2.300804058986665, 'inScoring': 0.2837}
-16.) Claire H $ OSU: {'average': 0.3842, 'stddev': 2.4254558536712625, 'inScoring': 0.1163}
-17.) Alyssa S $ Iowa: {'average': 0.1602, 'stddev': 2.8065547502629, 'inScoring': 0.0456}
-18.) Natalie O $ Iowa: {'average': 0.136, 'stddev': 3.158935053772496, 'inScoring': 0.0306}
-19.) Cassandra L $ PSU: {'average': 0.1277, 'stddev': 3.062657794827871, 'inScoring': 0.0294}
-20.) Allie H $ Iowa: {'average': 0.0934, 'stddev': 3.2217391242819513, 'inScoring': 0.0203}
-21.) Anna B $ OSU: {'average': 0.0906, 'stddev': 3.1266917886014003, 'inScoring': 0.0222}
-22.) Dom S $ BGSU: {'average': 0.0822, 'stddev': 3.482013892168564, 'inScoring': 0.0178}
-23.) Lauren C $ PSU: {'average': 0.0678, 'stddev': 3.7997589316864957, 'inScoring': 0.0131}
-24.) Jordan K $ Mich: {'average': 0.0617, 'stddev': 3.706454701141362, 'inScoring': 0.0125}
-25.) Emma B $ PSU: {'average': 0.0585, 'stddev': 3.899968991130119, 'inScoring': 0.011}
-26.) Colleen H $ OSU: {'average': 0.0544, 'stddev': 3.767656844145721, 'inScoring': 0.0085}
-27.) Jenna J $ Delaware: {'average': 0.0524, 'stddev': 2.7131853868588665, 'inScoring': 0.0067}
-28.) Kayla S $ IU: {'average': 0.0475, 'stddev': 3.85316063081295, 'inScoring': 0.0075}
-29.) Katelyn T $ Wisc: {'average': 0.0445, 'stddev': 3.9808273445335893, 'inScoring': 0.0078}
-30.) Fawn D $ BGSU: {'average': 0.04, 'stddev': 3.282420405383799, 'inScoring': 0.0054}
-31.) Stephanie S $ UConn: {'average': 0.0368, 'stddev': 3.972125095937662, 'inScoring': 0.0064}
-32.) Tammy B $ Toldeo: {'average': 0.0249, 'stddev': 1.3775162505060197, 'inScoring': 0.005}
-33.) Sarah A $ Wisc: {'average': 0.0241, 'stddev': 1.5776306410932541, 'inScoring': 0.0048}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                  Devin McD $ PSU                7.4266                   2.151593                   99.82%                     8.0                        10            
+            2                   Morgan W $ OSU                6.392                    2.476305                   98.8%                      7.0                        10            
+            3                   Becky H $ ILL                 5.5879                   2.592349                   95.45%                      6                         8             
+            4                   Erica F $ PSU                 4.378                    2.689071                   85.57%                      5                         7             
+            5                    Mary P $ PSU                 3.2043                   2.665619                   68.1%                      5.0                        1             
+            6                    Jada H $ IU                  3.1916                   2.66446                    67.63%                      5                         1             
+            7                    Kati P $ PSU                 2.7428                   2.562012                   60.99%                      4                         1             
+            8                   Haley Y $ Mich                1.992                    2.468571                   46.65%                      4                         1             
+            9                   Yasi M $ IwSt                 1.8781                   2.446479                   44.22%                     4.0                        1             
+            10                 Natalie T $ Wisc               1.6294                   2.368288                   39.77%                      4                         2             
+            11                 Kellie L $ Iowa                1.4093                   2.361317                   35.02%                     4.0                        2             
+            12                  Erica V $ PSU                 1.2465                   2.32825                    32.54%                     3.0                        1             
+            13                   Abby R $ ILL                 1.2386                   2.351437                   31.47%                      4                         1             
+            14                   Emma D $ OSU                 1.1138                   2.274112                   29.87%                      3                         2             
+            15                   Grace E $ NW                 0.9953                   2.324829                   27.02%                     3.0                        1             
+            16                  Claire H $ OSU                0.3879                   2.415929                   11.97%                      2                         1             
+            17                 Alyssa S $ Iowa                0.1646                   2.762566                   4.59%                       3                         1             
+            18                Cassandra L $ PSU               0.1271                   3.090392                   2.94%                      3.0                        1             
+            19                 Natalie O $ Iowa               0.1176                   3.032671                   2.95%                       3                         1             
+            20                   Anna B $ OSU                 0.1077                   3.344298                   2.33%                       4                         10            
+            21                   Dom S $ BGSU                 0.0847                   3.58216                    1.66%                      4.0                        10            
+            22                  Allie H $ Iowa                0.0737                   3.107753                   1.78%                      3.0                        2             
+            23                  Lauren C $ PSU                0.0641                   3.859575                   1.26%                      3.0                        10            
+            24                 Jordan K $ Mich                0.0613                   3.568238                    1.3%                      3.0                        1             
+            25                 Colleen H $ OSU                0.0555                   3.832437                   0.95%                       8                         10            
+            26                 Katelyn T $ Wisc               0.0521                   3.875579                   0.86%                      8.0                        10            
+            27                   Kayla S $ IU                 0.0515                   3.720562                   0.79%                       8                         10            
+            28                Jenna J $ Delaware              0.0509                   2.780123                   0.67%                       8                         10            
+            29               Stephanie S $ UConn              0.049                    3.47663                     0.7%                      8.0                        10            
+            30                   Emma B $ PSU                 0.0477                   3.627145                    0.9%                      4.5                        10            
+            31                  Fawn D $ BGSU                 0.0332                   3.59277                    0.52%                      8.0                        8             
+            32                 Tammy B $ Toldeo               0.027                    1.414747                   0.52%                      5.0                        5             
+            33                  Sarah A $ Wisc                0.0182                   1.324532                   0.39%                       5                         4             
 
-1.)  PSU: {'average': 17.8945, 'stddev': 4.127623223763009}
-2.)  OSU: {'average': 8.0283, 'stddev': 3.5840534852015424}
-3.)  ILL: {'average': 6.9014, 'stddev': 3.379307041256716}
-4.)  IU: {'average': 3.2414, 'stddev': 2.6807571649745614}
-5.)  Mich: {'average': 2.0264, 'stddev': 2.4979491581189803}
-6.)  IwSt: {'average': 1.8674, 'stddev': 2.4760414618005333}
-7.)  Iowa: {'average': 1.7977, 'stddev': 2.874829672005303}
-8.)  Wisc: {'average': 1.6388, 'stddev': 2.48124656006574}
-9.)  NW: {'average': 1.0292, 'stddev': 2.300804058986665}
-10.) BGSU: {'average': 0.1222, 'stddev': 3.626932528092467}
-11.) Delaware: {'average': 0.0524, 'stddev': 2.7131853868588665}
-12.) UConn: {'average': 0.0368, 'stddev': 3.972125095937662}
-13.) Toldeo: {'average': 0.0249, 'stddev': 1.3775162505060197}
+         Position                    Team                    Average                    Stddev          
+            1                        PSU                     17.8859                   4.129575         
+            2                        OSU                      8.0565                   3.569443         
+            3                        ILL                      6.8265                   3.339709         
+            4                         IU                      3.2431                   2.719203         
+            5                        Mich                     2.0533                   2.569693         
+            6                        IwSt                     1.8781                   2.446479         
+            7                        Iowa                     1.7652                   2.724277         
+            8                        Wisc                     1.6997                   2.476429         
+            9                         NW                      0.9953                   2.324829         
+            10                       BGSU                     0.1179                   3.618097         
+            11                     Delaware                   0.0509                   2.780123         
+            12                      UConn                     0.049                    3.47663          
+            13                      Toldeo                    0.027                    1.414747         
 
-TJ:
+-----------------------------TJ-----------------------------
 
-1.)  Tess L $ JMU: {'average': 5.6519, 'stddev': 2.789376616269809, 'inScoring': 0.9383}
-2.)  Natalie T $ Wisc: {'average': 5.5006, 'stddev': 2.7620839535060804, 'inScoring': 0.925}
-3.)  Jesse H $ OSU: {'average': 5.1112, 'stddev': 2.7988694573829562, 'inScoring': 0.8909}
-4.)  Cassandra L $ PSU: {'average': 4.7918, 'stddev': 2.827539175481307, 'inScoring': 0.8545}
-5.)  Erica F $ PSU: {'average': 3.4642, 'stddev': 2.7582784023885702, 'inScoring': 0.6814}
-6.)  Erica V $ PSU: {'average': 3.3458, 'stddev': 2.7279120525477785, 'inScoring': 0.6634}
-7.)  Katelyn M $ Wisc: {'average': 2.8402, 'stddev': 2.6602037798375435, 'inScoring': 0.5781}
-8.)  Yasi M $ IwSt: {'average': 2.5862, 'stddev': 2.6075353416569493, 'inScoring': 0.5341}
-9.)  Sonia Z $ ILL: {'average': 2.4277, 'stddev': 2.6063080222978265, 'inScoring': 0.5083}
-10.) Abby R $ ILL: {'average': 2.302, 'stddev': 2.550413149621952, 'inScoring': 0.4869}
-11.) Kati P $ PSU: {'average': 1.8106, 'stddev': 2.4979579791451503, 'inScoring': 0.3999}
-12.) Grace E $ NW: {'average': 1.5541, 'stddev': 2.4490905865739774, 'inScoring': 0.3588}
-13.) Melissa S $ Penn: {'average': 1.3299, 'stddev': 2.4441889339716467, 'inScoring': 0.3127}
-14.) Allie H $ Iowa: {'average': 0.9055, 'stddev': 2.4139834531938753, 'inScoring': 0.2339}
-15.) Katie C $ JMU: {'average': 0.8764, 'stddev': 2.416723511441093, 'inScoring': 0.2205}
-16.) Amanda K $ UConn: {'average': 0.5721, 'stddev': 2.4343946286637723, 'inScoring': 0.1547}
-17.) Natalie O $ Iowa: {'average': 0.3471, 'stddev': 2.583734685499929, 'inScoring': 0.0978}
-18.) Abby R $ PSU: {'average': 0.2667, 'stddev': 2.7306282533879105, 'inScoring': 0.0783}
-19.) Nia C $ Wisc: {'average': 0.2543, 'stddev': 2.720223287273389, 'inScoring': 0.0721}
-20.) Jenna J $ Delaware: {'average': 0.0367, 'stddev': 1.3558891452289379, 'inScoring': 0.0049}
-21.) Emily S $ JMU: {'average': 0.025, 'stddev': 1.5965029122496297, 'inScoring': 0.0055}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                    Tess L $ JMU                 5.7538                   2.738063                   94.71%                      6                         10            
+            2                  Natalie T $ Wisc               5.4875                   2.774715                   93.04%                     6.0                        10            
+            3                   Jesse H $ OSU                 5.1746                   2.782722                   89.93%                      6                         10            
+            4                 Cassandra L $ PSU               4.7165                   2.827763                   85.47%                      6                         10            
+            5                   Erica F $ PSU                 3.5156                   2.763506                   69.14%                     5.0                        8             
+            6                   Erica V $ PSU                 3.3476                   2.701417                   66.22%                     5.0                        1             
+            7                  Katelyn M $ Wisc               2.8257                   2.696858                   57.5%                      5.0                        1             
+            8                   Yasi M $ IwSt                 2.624                    2.630253                   54.1%                      5.0                        1             
+            9                   Sonia Z $ ILL                 2.4086                   2.610433                   50.65%                      5                         1             
+            10                   Abby R $ ILL                 2.3586                   2.622245                   49.03%                      5                         1             
+            11                   Kati P $ PSU                 1.7257                   2.535396                   38.47%                      4                         1             
+            12                   Grace E $ NW                 1.5393                   2.471107                   34.86%                     4.0                        2             
+            13                 Melissa S $ Penn               1.3261                   2.43367                    31.81%                      4                         2             
+            14                  Allie H $ Iowa                0.8785                   2.392812                   22.57%                      3                         3             
+            15                  Katie C $ JMU                 0.8765                   2.402837                   22.26%                     3.0                        3             
+            16                 Amanda K $ UConn               0.5187                   2.303667                   14.75%                      3                         1             
+            17                 Natalie O $ Iowa               0.3475                   2.526124                   9.93%                       3                         1             
+            18                   Abby R $ PSU                 0.2808                   2.703572                   7.87%                       3                         1             
+            19                   Nia C $ Wisc                 0.2405                   2.685797                   6.84%                      3.0                        1             
+            20                Jenna J $ Delaware              0.0367                   1.423992                   0.47%                       8                         6             
+            21                  Emily S $ JMU                 0.0172                   1.589439                   0.38%                      4.0                        4             
 
-1.)  PSU: {'average': 13.4028, 'stddev': 5.119312755224163}
-2.)  Wisc: {'average': 8.5951, 'stddev': 4.172780678931885}
-3.)  JMU: {'average': 6.5533, 'stddev': 3.3402591049088337}
-4.)  OSU: {'average': 5.1112, 'stddev': 2.7988694573829562}
-5.)  ILL: {'average': 4.7297, 'stddev': 3.568851488630992}
-6.)  IwSt: {'average': 2.5862, 'stddev': 2.6075353416569493}
-7.)  NW: {'average': 1.5541, 'stddev': 2.4490905865739774}
-8.)  Penn: {'average': 1.3299, 'stddev': 2.4441889339716467}
-9.)  Iowa: {'average': 1.2526, 'stddev': 2.681795823925957}
-10.) UConn: {'average': 0.5721, 'stddev': 2.4343946286637723}
-11.) Delaware: {'average': 0.0367, 'stddev': 1.3558891452289379}
+         Position                    Team                    Average                    Stddev          
+            1                        PSU                     13.3039                   5.123717         
+            2                        Wisc                     8.5537                   4.170317         
+            3                        JMU                      6.6475                   3.325851         
+            4                        OSU                      5.1746                   2.782722         
+            5                        ILL                      4.7672                   3.662309         
+            6                        IwSt                     2.624                    2.630253         
+            7                         NW                      1.5393                   2.471107         
+            8                        Penn                     1.3261                   2.43367          
+            9                        Iowa                     1.226                    2.669155         
+            10                      UConn                     0.5187                   2.303667         
+            11                     Delaware                   0.0367                   1.423992         
 
-HJ:
+-----------------------------HJ-----------------------------
 
-1.)  Vanessa R $ PSU: {'average': 8.9838, 'stddev': 1.2297515150951788, 'inScoring': 1.0}
-2.)  Erica F $ PSU: {'average': 7.5248, 'stddev': 1.4461653084657857, 'inScoring': 1.0}
-3.)  Ceila K $ IU: {'average': 7.2987, 'stddev': 1.5467765067249295, 'inScoring': 1.0}
-4.)  Katie C $ JMU: {'average': 4.5268, 'stddev': 1.976186305054087, 'inScoring': 0.971}
-5.)  Jada H $ IU: {'average': 3.9885, 'stddev': 1.9918332280548854, 'inScoring': 0.9353}
-6.)  Claire H $ OSU: {'average': 3.0971, 'stddev': 2.015959597571271, 'inScoring': 0.8035}
-7.)  Abby R $ PSU: {'average': 2.2952, 'stddev': 1.9292383466663965, 'inScoring': 0.648}
-8.)  Sarah C $ Mich: {'average': 2.1923, 'stddev': 1.8974014236209304, 'inScoring': 0.6364}
-9.)  Becky H $ ILL: {'average': 1.592, 'stddev': 1.8407798271469171, 'inScoring': 0.4756}
-10.) Skylar N $ CMU: {'average': 0.9524, 'stddev': 1.7583886490195453, 'inScoring': 0.3196}
-11.) Katelyn R $ JMU: {'average': 0.8557, 'stddev': 1.7710525662133403, 'inScoring': 0.2874}
-12.) Fawn D $ BGSU: {'average': 0.849, 'stddev': 1.8463718526213992, 'inScoring': 0.2834}
-13.) Sharuti P $ Miami: {'average': 0.5749, 'stddev': 1.9438934712940186, 'inScoring': 0.2036}
-14.) Sophia M $ Mich: {'average': 0.2503, 'stddev': 1.9772823800200496, 'inScoring': 0.095}
-15.) Celia K $ IU: {'average': 0.1528, 'stddev': 2.571259947923753, 'inScoring': 0.0508}
-16.) Abby R $ ILL: {'average': 0.139, 'stddev': 2.5017156003680614, 'inScoring': 0.0453}
-17.) Daisy O $ OSU: {'average': 0.1385, 'stddev': 2.204980551016331, 'inScoring': 0.0495}
-18.) Karli F $ Wisc: {'average': 0.136, 'stddev': 2.2428696351675943, 'inScoring': 0.0488}
-19.) Lulu B $ Minn: {'average': 0.1346, 'stddev': 2.3914296038223215, 'inScoring': 0.0472}
-20.) Arden McM $ Miami: {'average': 0.1336, 'stddev': 2.3913308861860694, 'inScoring': 0.0445}
-21.) Margaret L $ WashU: {'average': 0.1331, 'stddev': 2.461810792315002, 'inScoring': 0.0428}
-22.) Kassie K $ ILL: {'average': 0.0509, 'stddev': 2.951313137171296, 'inScoring': 0.0123}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                  Vanessa R $ PSU                8.973                    1.240897                   100.0%                     10.0                       10            
+            2                   Erica F $ PSU                 7.5307                   1.450816                   100.0%                     7.0                        8             
+            3                    Ceila K $ IU                 7.2782                   1.544035                   100.0%                     7.0                        7             
+            4                   Katie C $ JMU                 4.4946                   2.009584                   97.12%                     5.0                        5             
+            5                    Jada H $ IU                  4.0134                   2.006401                   93.07%                      4                         5             
+            6                   Claire H $ OSU                3.1254                   1.990923                   80.84%                     4.0                        4             
+            7                    Abby R $ PSU                 2.2474                   1.90727                    65.0%                      3.0                        1             
+            8                   Sarah C $ Mich                2.1794                   1.898237                   62.77%                      3                         1             
+            9                   Becky H $ ILL                 1.5523                   1.874112                   46.93%                      3                         1             
+            10                  Skylar N $ CMU                0.966                    1.814645                   32.04%                     3.0                        1             
+            11                 Katelyn R $ JMU                0.8939                   1.819593                   29.96%                     3.0                        1             
+            12                  Fawn D $ BGSU                 0.8714                   1.788947                   29.01%                      3                         1             
+            13                Sharuti P $ Miami               0.5657                   1.860969                   19.76%                     2.0                        1             
+            14                 Sophia M $ Mich                0.2563                   2.104353                   9.32%                      2.0                        1             
+            15                Arden McM $ Miami               0.165                    2.551529                   5.19%                       2                         1             
+            16                  Karli F $ Wisc                0.1518                   2.684593                   4.84%                      2.0                        1             
+            17                Margaret L $ WashU              0.1428                   2.469555                   4.77%                       2                         1             
+            18                  Daisy O $ OSU                 0.1427                   2.305388                   5.05%                       2                         1             
+            19                  Lulu B $ Minn                 0.1392                   2.392907                   4.59%                       2                         1             
+            20                   Celia K $ IU                 0.1329                   2.343737                   4.38%                      2.0                        1             
+            21                   Abby R $ ILL                 0.1254                   2.447498                    4.2%                      2.0                        1             
+            22                  Kassie K $ ILL                0.0525                   3.062994                   1.16%                      3.0                        2             
 
-1.)  PSU: {'average': 18.8038, 'stddev': 2.767358196392132}
-2.)  IU: {'average': 11.44, 'stddev': 2.7081235927001805}
-3.)  JMU: {'average': 5.3825, 'stddev': 2.522503715631342}
-4.)  OSU: {'average': 3.2356, 'stddev': 2.1463873707580583}
-5.)  Mich: {'average': 2.4426, 'stddev': 2.1031038717537194}
-6.)  ILL: {'average': 1.7819, 'stddev': 2.087411438822268}
-7.)  CMU: {'average': 0.9524, 'stddev': 1.7583886490195453}
-8.)  BGSU: {'average': 0.849, 'stddev': 1.8463718526213992}
-9.)  Miami: {'average': 0.7085, 'stddev': 2.1594589809839935}
-10.) Wisc: {'average': 0.136, 'stddev': 2.2428696351675943}
-11.) Minn: {'average': 0.1346, 'stddev': 2.3914296038223215}
-12.) WashU: {'average': 0.1331, 'stddev': 2.461810792315002}
+         Position                    Team                    Average                    Stddev          
+            1                        PSU                     18.7511                   2.723837         
+            2                         IU                     11.4245                   2.68254          
+            3                        JMU                      5.3885                   2.558209         
+            4                        OSU                      3.2681                   2.129391         
+            5                        Mich                     2.4357                   2.119388         
+            6                        ILL                      1.7302                   2.101956         
+            7                        CMU                      0.966                    1.814645         
+            8                        BGSU                     0.8714                   1.788947         
+            9                       Miami                     0.7307                   2.134176         
+            10                       Wisc                     0.1518                   2.684593         
+            11                      WashU                     0.1428                   2.469555         
+            12                       Minn                     0.1392                   2.392907         
 
-Shot:
+-----------------------------Shot-----------------------------
 
-1.)  Carah C $ ILL: {'average': 9.4976, 'stddev': 0.8810629189715787, 'inScoring': 1.0}
-2.)  Marley OB $ PSU: {'average': 8.3944, 'stddev': 0.8862997194624807, 'inScoring': 1.0}
-3.)  Obioma A $ ILL: {'average': 6.0601, 'stddev': 1.122147009705564, 'inScoring': 1.0}
-4.)  Inga A $ ILL: {'average': 5.5635, 'stddev': 1.2784878580261574, 'inScoring': 1.0}
-5.)  Sally B $ PSU: {'average': 4.3719, 'stddev': 1.5753016101424424, 'inScoring': 0.9999}
-6.)  Ehitare E $ ILL: {'average': 4.0779, 'stddev': 1.5644353577081331, 'inScoring': 0.9999}
-7.)  Rachel K $ PSU: {'average': 3.9565, 'stddev': 1.5664140944563576, 'inScoring': 1.0}
-8.)  Samantha M $ UConn: {'average': 2.8611, 'stddev': 1.4221145031527764, 'inScoring': 0.9978}
-9.)  Nayeli L $ ILL: {'average': 0.8883, 'stddev': 0.663403007639366, 'inScoring': 0.7699}
-10.) Ali D $ ILL: {'average': 0.146, 'stddev': 1.386366043197732, 'inScoring': 0.099}
-11.) Danielle M $ UConn: {'average': 0.1344, 'stddev': 1.0690087780577955, 'inScoring': 0.1079}
-12.) Erica F $ PSU: {'average': 0.0276, 'stddev': 1.6381079584074072, 'inScoring': 0.0112}
-13.) Colleen C $ Mich: {'average': 0.0122, 'stddev': 0.7886124735372786, 'inScoring': 0.0069}
-14.) Arden McM $ Miami: {'average': 0.005, 'stddev': 0.4385290096535146, 'inScoring': 0.004}
-15.) Leah G $ Miami: {'average': 0.0035, 'stddev': 0.0, 'inScoring': 0.0035}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                   Carah C $ ILL                 9.5126                   0.871962                   100.0%                     10.0                       10            
+            2                  Marley OB $ PSU                8.3832                   0.875005                   100.0%                     8.0                        8             
+            3                   Obioma A $ ILL                6.0493                   1.123208                   100.0%                     6.0                        7             
+            4                    Inga A $ ILL                 5.5757                   1.264132                   100.0%                     6.0                        6             
+            5                   Sally B $ PSU                 4.3684                   1.567291                   99.98%                     4.0                        3             
+            6                  Ehitare E $ ILL                 4.05                    1.55491                    99.98%                     4.0                        3             
+            7                   Rachel K $ PSU                3.9876                   1.590794                   99.98%                     4.0                        3             
+            8                 Samantha M $ UConn              2.8591                   1.412788                   99.76%                     2.0                        2             
+            9                   Nayeli L $ ILL                0.894                    0.674427                   77.47%                      1                         1             
+            10                   Ali D $ ILL                  0.1392                    1.3475                    9.59%                       1                         1             
+            11                Danielle M $ UConn              0.1364                   1.125489                   10.67%                      1                         1             
+            12                  Erica F $ PSU                 0.0247                   1.444442                   1.26%                      1.0                        1             
+            13                 Colleen C $ Mich               0.0097                   0.886253                   0.52%                      2.0                        1             
+            14                Arden McM $ Miami               0.007                    0.503534                   0.48%                      1.0                        1             
+            15                  Leah G $ Miami                0.0031                     0.0                      0.31%                       1                         1             
 
-1.)  ILL: {'average': 21.6899, 'stddev': 1.468248468535396}
-2.)  PSU: {'average': 16.7333, 'stddev': 2.126457921598552}
-3.)  UConn: {'average': 2.9955, 'stddev': 1.496950634348487}
-4.)  Mich: {'average': 0.0122, 'stddev': 0.7886124735372786}
-5.)  Miami: {'average': 0.0085, 'stddev': 0.34222378222022665}
+         Position                    Team                    Average                    Stddev          
+            1                        ILL                     21.6887                   1.462124         
+            2                        PSU                     16.7457                   2.115533         
+            3                       UConn                     2.9955                   1.498454         
+            4                       Miami                     0.0101                   0.451116         
+            5                        Mich                     0.0097                   0.886253         
 
-Meet Score:
-1.)  PSU: {'stddev': 11.252, 'points': 123.45}
-2.)  ILL: {'stddev': 7.9139, 'points': 70.88}
-3.)  Wisc: {'stddev': 8.5084, 'points': 61.71}
-4.)  OSU: {'stddev': 8.3737, 'points': 53.89}
-5.)  IU: {'stddev': 7.5771, 'points': 49.88}
-6.)  Maryland: {'stddev': 4.1619, 'points': 35.62}
-7.)  MSU: {'stddev': 7.6782, 'points': 35.54}
-8.)  Mich: {'stddev': 8.7028, 'points': 33.76}
-9.)  Iowa: {'stddev': 6.4612, 'points': 22.24}
-10.) Minn: {'stddev': 5.8684, 'points': 19.6}
-11.) IwSt: {'stddev': 6.1883, 'points': 17.59}
-12.) JMU: {'stddev': 4.8828, 'points': 15.24}
-13.) Delaware: {'stddev': 5.1786, 'points': 13.88}
-14.) UConn: {'stddev': 6.1533, 'points': 12.79}
-15.) GTWN: {'stddev': 4.0572, 'points': 8.59}
-16.) Pitt: {'stddev': 3.5476, 'points': 6.54}
-17.) NW: {'stddev': 4.3982, 'points': 5.59}
-18.) NE: {'stddev': 2.7078, 'points': 4.43}
-19.) Miami: {'stddev': 2.8618, 'points': 4.15}
-20.) WVU: {'stddev': 3.166, 'points': 4.02}
-21.) Mizzou: {'stddev': 2.1786, 'points': 3.29}
-22.) Purdue: {'stddev': 2.1713, 'points': 2.74}
-23.) UVA: {'stddev': 2.2239, 'points': 2.38}
-24.) BGSU: {'stddev': 4.3662, 'points': 2.32}
-25.) ND: {'stddev': 2.1472, 'points': 1.97}
-26.) Drexel: {'stddev': 2.1115, 'points': 1.5}
-27.) Penn: {'stddev': 2.4442, 'points': 1.33}
-28.) CMU: {'stddev': 1.8358, 'points': 1.02}
-29.) WashU: {'stddev': 2.4618, 'points': 0.13}
-30.) Toledo: {'stddev': 0.9349, 'points': 0.07}
-31.) Toldeo: {'stddev': 1.3775, 'points': 0.02}
-32.) Nova: {'stddev': 0.3632, 'points': 0.01}
+-----------------------------Meet Score-----------------------------
 
-Meet Score:
-1.)  PSU: {'points': 135}
-2.)  ILL: {'points': 79}
-3.)  Wisc: {'points': 65}
-4.)  OSU: {'points': 63}
-5.)  IU: {'points': 60}
-6.)  MSU: {'points': 38}
-7.)  Maryland: {'points': 36}
-8.)  Mich: {'points': 25}
-9.)  Iowa: {'points': 19}
-10.) Minn: {'points': 19}
-11.) JMU: {'points': 19}
-12.) IwSt: {'points': 18}
-13.) Delaware: {'points': 14}
-14.) UConn: {'points': 9}
-15.) NE: {'points': 7}
-16.) Pitt: {'points': 6}
-17.) GTWN: {'points': 6}
-18.) Miami: {'points': 4}
-19.) UVA: {'points': 3}
-20.) WVU: {'points': 1}
-21.) ND: {'points': 1}
-22.) BGSU: {'points': 1}
-23.) Mizzou: {'points': 1}
+         Position                    Team                 Average points                Stddev          
+            1                        PSU                      123.27                  11.231212         
+            2                        ILL                      70.71                    7.955192         
+            3                        Wisc                     61.74                    8.673949         
+            4                        OSU                      54.13                    8.348878         
+            5                         IU                      49.97                    7.62011          
+            6                      Maryland                   35.65                    4.149783         
+            7                        MSU                      35.41                    7.672881         
+            8                        Mich                     33.73                    8.744751         
+            9                        Iowa                      22.2                    6.381182         
+            10                       Minn                     19.69                    5.819963         
+            11                       IwSt                     17.62                    6.196424         
+            12                       JMU                      15.34                    4.983914         
+            13                     Delaware                   13.79                    5.194133         
+            14                      UConn                     12.76                    5.753519         
+            15                       GTWN                      8.64                    4.009734         
+            16                       Pitt                      6.51                    3.59206          
+            17                        NW                       5.6                     4.41553          
+            18                        NE                       4.38                    2.665851         
+            19                      Miami                      4.14                    2.857021         
+            20                       WVU                       4.03                    3.156914         
+            21                      Mizzou                     3.26                    2.173733         
+            22                      Purdue                     2.78                    2.159559         
+            23                       UVA                       2.38                    2.236703         
+            24                       BGSU                      2.34                    4.335053         
+            25                        ND                       2.04                    2.173344         
+            26                      Drexel                     1.49                    2.156364         
+            27                       Penn                      1.33                    2.43367          
+            28                       CMU                       1.03                    1.892525         
+            29                      WashU                      0.14                    2.469555         
+            30                      Toledo                     0.06                    0.952855         
+            31                      Toldeo                     0.03                    1.414747         
+            32                       Nova                      0.01                    0.255609         
+
+-----------------------------Meet Score:-----------------------------
+
+         Position                    Team                     Points          
+            1                        PSU                 {'points': 136}      
+            2                        ILL                  {'points': 79}      
+            3                        Wisc                 {'points': 65}      
+            4                        OSU                  {'points': 63}      
+            5                         IU                  {'points': 59}      
+            6                        MSU                  {'points': 38}      
+            7                      Maryland               {'points': 36}      
+            8                        Mich                 {'points': 25}      
+            9                        Minn                 {'points': 19}      
+            10                       Iowa                 {'points': 19}      
+            11                       JMU                  {'points': 19}      
+            12                       IwSt                 {'points': 18}      
+            13                     Delaware               {'points': 14}      
+            14                      UConn                 {'points': 9}       
+            15                        NE                  {'points': 7}       
+            16                       Pitt                 {'points': 6}       
+            17                       GTWN                 {'points': 6}       
+            18                      Miami                 {'points': 4}       
+            19                       UVA                  {'points': 3}       
+            20                       WVU                  {'points': 1}       
+            21                        ND                  {'points': 1}       
+            22                      Mizzou                {'points': 1}       
+            23                       BGSU                 {'points': 1}       

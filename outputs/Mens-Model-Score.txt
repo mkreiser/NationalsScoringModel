@@ -1,766 +1,800 @@
 
-100m:
+-----------------------------100m-----------------------------
 
-1.)  Melvin I $ Iowa: {'average': 5.7867, 'stddev': 2.661487059241081, 'inScoring': 0.736}
-2.)  Mike G $ Iowa: {'average': 4.1927, 'stddev': 2.6445736359661147, 'inScoring': 0.6181}
-3.)  DeVante C $ Mich: {'average': 4.0599, 'stddev': 2.5528933053462293, 'inScoring': 0.6135}
-4.)  Stephen F $ OSU: {'average': 3.8481, 'stddev': 2.596154652861478, 'inScoring': 0.5953}
-5.)  Cameron S $ PSU: {'average': 3.3331, 'stddev': 2.548922521942294, 'inScoring': 0.5516}
-6.)  Garret S $ IU: {'average': 3.1554, 'stddev': 2.508218729405788, 'inScoring': 0.5302}
-7.)  Jordan W $ Mich: {'average': 2.6468, 'stddev': 2.4373325458215858, 'inScoring': 0.4921}
-8.)  Keon'tay W $ Iowa: {'average': 2.4868, 'stddev': 2.419683219392925, 'inScoring': 0.4733}
-9.)  Trevor E $ IU: {'average': 2.2704, 'stddev': 2.386269144327139, 'inScoring': 0.4445}
-10.) Jared D $ Toldeo: {'average': 1.9703, 'stddev': 2.3325145869366346, 'inScoring': 0.4063}
-11.) Peter VB $ Wisc: {'average': 1.8431, 'stddev': 2.1627442734777675, 'inScoring': 0.4003}
-12.) Brian K $ IU: {'average': 1.2206, 'stddev': 2.0478431927088865, 'inScoring': 0.3047}
-13.) Rodney M $ IU: {'average': 1.1392, 'stddev': 2.072294063403031, 'inScoring': 0.2878}
-14.) Devin B $ Mich: {'average': 1.0598, 'stddev': 2.0177468464454367, 'inScoring': 0.2751}
-15.) Thomas L $ PSU: {'average': 0.903, 'stddev': 1.90094940834107, 'inScoring': 0.2534}
-16.) O'Reginald C $ Maryland: {'average': 0.8637, 'stddev': 1.8636637876628386, 'inScoring': 0.2449}
-17.) Mason R $ ILL: {'average': 0.8144, 'stddev': 1.834552194859276, 'inScoring': 0.234}
-18.) Andrew H $ Mich: {'average': 0.7271, 'stddev': 1.8026316456120304, 'inScoring': 0.217}
-19.) Will J $ Wisc: {'average': 0.6686, 'stddev': 1.7581323184735924, 'inScoring': 0.2027}
-20.) Bryce R $ Minn: {'average': 0.6685, 'stddev': 1.7816814555212457, 'inScoring': 0.1988}
-21.) Kevin S $ ILL: {'average': 0.6157, 'stddev': 1.699062504348482, 'inScoring': 0.1915}
-22.) Dayo A $ Iowa: {'average': 0.5546, 'stddev': 1.663475338665401, 'inScoring': 0.1823}
-23.) Michael G $ Iowa: {'average': 0.251, 'stddev': 1.4597625768492102, 'inScoring': 0.0982}
-24.) Christopher M $ Iowa: {'average': 0.2273, 'stddev': 1.3035463082769463, 'inScoring': 0.0934}
-25.) Steven W $ PSU: {'average': 0.1564, 'stddev': 1.280916621600894, 'inScoring': 0.0682}
-26.) Jacv N $ GTWN: {'average': 0.1076, 'stddev': 1.1574753119540495, 'inScoring': 0.0529}
-27.) Max R $ Wisc: {'average': 0.1055, 'stddev': 1.1207298296000214, 'inScoring': 0.0524}
-28.) Alex B $ IwSt: {'average': 0.0807, 'stddev': 1.1121533152650815, 'inScoring': 0.0406}
-29.) Nick J $ BGSU: {'average': 0.07, 'stddev': 0.9800159327926387, 'inScoring': 0.0368}
-30.) Ed L $ IU: {'average': 0.043, 'stddev': 0.9276872884453862, 'inScoring': 0.0249}
-31.) Benjamin B $ UConn: {'average': 0.0367, 'stddev': 1.0294887561815182, 'inScoring': 0.0207}
-32.) Jonathan S $ Maryland: {'average': 0.0264, 'stddev': 0.9181034295136732, 'inScoring': 0.0151}
-33.) Dan X $ UVA: {'average': 0.0187, 'stddev': 0.9088949915975567, 'inScoring': 0.0118}
-34.) Randy B $ Minn: {'average': 0.0118, 'stddev': 0.8587808963382841, 'inScoring': 0.0074}
-35.) Leonardo A $ UConn: {'average': 0.0113, 'stddev': 0.8207568769779756, 'inScoring': 0.0071}
-36.) Shanbin L $ Minn: {'average': 0.0111, 'stddev': 0.7448452997421312, 'inScoring': 0.0074}
-37.) Evan G $ Maryland: {'average': 0.0047, 'stddev': 0.7613390156652905, 'inScoring': 0.0032}
-38.) Chrisopher M $ Iowa: {'average': 0.0041, 'stddev': 0.9993384054849731, 'inScoring': 0.0028}
-39.) Theodore E $ Mich: {'average': 0.0023, 'stddev': 0.6063390625908325, 'inScoring': 0.0017}
-40.) Mark L $ OSU: {'average': 0.0014, 'stddev': 0.6992058987801011, 'inScoring': 0.001}
-41.) Sam P $ IwSt: {'average': 0.0007, 'stddev': 1.5, 'inScoring': 0.0004}
-42.) Suleman B $ ILL: {'average': 0.0003, 'stddev': 0.0, 'inScoring': 0.0003}
-43.) Rasheed F $ OSU: {'average': 0.0003, 'stddev': 0.7071067811865476, 'inScoring': 0.0002}
-44.) Connor C $ Iowa: {'average': 0.0002, 'stddev': 0, 'inScoring': 0.0001}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                  Melvin I $ Iowa                5.8163                   2.668795                   73.76%                     10.0                       10            
+            2                   Mike G $ Iowa                 4.2085                   2.634227                   62.44%                     7.0                        10            
+            3                  DeVante C $ Mich               3.9804                   2.60091                    60.57%                      7                         8             
+            4                  Stephen F $ OSU                3.8634                   2.594984                   59.66%                     7.0                        8             
+            5                  Cameron S $ PSU                3.3788                   2.515904                   55.54%                     6.0                        8             
+            6                   Garret S $ IU                 3.1568                   2.514275                   53.41%                      6                         8             
+            7                  Jordan W $ Mich                2.6267                   2.438991                   49.01%                      6                         7             
+            8                 Keon'tay W $ Iowa               2.4539                    2.4204                    46.56%                     5.0                        7             
+            9                   Trevor E $ IU                 2.3678                   2.354708                   46.11%                      5                         7             
+            10                 Jared D $ Toldeo               1.9572                   2.323076                   40.77%                      5                         6             
+            11                 Peter VB $ Wisc                1.8447                   2.227398                   40.22%                     5.0                        6             
+            12                   Brian K $ IU                 1.2157                   2.064797                   30.12%                     4.0                        4             
+            13                  Rodney M $ IU                 1.1276                   2.010284                   28.78%                     4.0                        4             
+            14                  Devin B $ Mich                1.0692                   2.025452                   28.02%                     4.0                        2             
+            15             O'Reginald C $ Maryland            0.8941                   1.878965                   25.27%                      3                         3             
+            16                  Thomas L $ PSU                0.8785                   1.84974                    24.52%                     3.0                        3             
+            17                  Mason R $ ILL                 0.8166                   1.856477                   23.33%                      3                         2             
+            18                 Andrew H $ Mich                0.6899                   1.776061                   20.41%                      3                         3             
+            19                  Bryce R $ Minn                0.6823                   1.772643                   20.91%                      3                         2             
+            20                  Will J $ Wisc                 0.6808                   1.773042                   20.41%                      3                         3             
+            21                  Kevin S $ ILL                 0.5937                   1.710327                   18.73%                      3                         2             
+            22                  Dayo A $ Iowa                 0.5228                   1.679551                   17.11%                      3                         1             
+            23                 Michael G $ Iowa               0.2519                   1.470216                    9.8%                      2.0                        1             
+            24               Christopher M $ Iowa             0.2171                   1.344838                   8.96%                      2.0                        1             
+            25                  Steven W $ PSU                0.1522                   1.151811                   7.11%                       2                         1             
+            26                  Jacv N $ GTWN                 0.1186                   1.19751                    5.37%                       2                         1             
+            27                   Max R $ Wisc                 0.092                    1.097542                   4.54%                      2.0                        1             
+            28                  Alex B $ IwSt                 0.0889                   1.201536                   4.28%                      2.0                        1             
+            29                  Nick J $ BGSU                 0.0715                   1.084986                   3.72%                      2.0                        1             
+            30                    Ed L $ IU                   0.0436                   1.04051                    2.46%                      1.0                        1             
+            31                Benjamin B $ UConn              0.0423                   1.019859                   2.34%                      1.0                        1             
+            32                   Dan X $ UVA                  0.0219                   1.01801                     1.2%                      2.0                        1             
+            33              Jonathan S $ Maryland             0.0187                   0.991555                   1.09%                       1                         1             
+            34                Leonardo A $ UConn              0.0139                   0.93775                    0.84%                      1.0                        1             
+            35                 Shanbin L $ Minn               0.0115                   1.050371                   0.61%                       2                         1             
+            36                  Randy B $ Minn                0.0113                   0.850508                   0.73%                       1                         1             
+            37               Chrisopher M $ Iowa              0.0062                   0.745719                   0.41%                       1                         1             
+            38                Evan G $ Maryland               0.0059                   0.715667                    0.4%                      1.0                        1             
+            39                Theodore E $ Mich               0.0026                   0.538958                   0.21%                       1                         1             
+            40                   Sam P $ IwSt                 0.0018                   0.797724                   0.12%                      1.0                        1             
+            41                   Mark L $ OSU                 0.0015                   0.866025                   0.09%                       1                         1             
+            42                 Suleman B $ ILL                0.0005                   2.12132                    0.02%                      2.5                        4             
+            43                 Connor C $ Iowa                0.0004                     0.0                      0.04%                      1.0                        1             
 
-1.)  Iowa: {'average': 13.3571, 'stddev': 5.401230333011831}
-2.)  Mich: {'average': 8.4762, 'stddev': 4.578969931487357}
-3.)  IU: {'average': 7.8028, 'stddev': 4.553042642305565}
-4.)  PSU: {'average': 4.3925, 'stddev': 3.259913051485129}
-5.)  OSU: {'average': 3.8498, 'stddev': 2.6016221908434476}
-6.)  Wisc: {'average': 2.6172, 'stddev': 2.694357118245076}
-7.)  Toldeo: {'average': 1.9703, 'stddev': 2.3325145869366346}
-8.)  ILL: {'average': 1.4304, 'stddev': 2.163048924301673}
-9.)  Maryland: {'average': 0.8948, 'stddev': 1.8972426301688143}
-10.) Minn: {'average': 0.6914, 'stddev': 1.8387289710281725}
-11.) GTWN: {'average': 0.1076, 'stddev': 1.1574753119540495}
-12.) IwSt: {'average': 0.0814, 'stddev': 1.1143783504167835}
-13.) BGSU: {'average': 0.07, 'stddev': 0.9800159327926387}
-14.) UConn: {'average': 0.048, 'stddev': 1.0040235261719317}
-15.) UVA: {'average': 0.0187, 'stddev': 0.9088949915975567}
+         Position                    Team                    Average                    Stddev          
+            1                        Iowa                    13.3433                   5.418986         
+            2                        Mich                     8.349                    4.607368         
+            3                         IU                      7.881                    4.546242         
+            4                        PSU                      4.4095                   3.211789         
+            5                        OSU                      3.8649                   2.599456         
+            6                        Wisc                     2.6175                   2.703201         
+            7                       Toldeo                    1.9572                   2.323076         
+            8                        ILL                      1.4108                   2.178517         
+            9                      Maryland                   0.9187                   1.912272         
+            10                       Minn                     0.7051                   1.789366         
+            11                       GTWN                     0.1186                   1.19751          
+            12                       IwSt                     0.0907                   1.195419         
+            13                       BGSU                     0.0715                   1.084986         
+            14                      UConn                     0.0562                   1.033199         
+            15                       UVA                      0.0219                   1.01801          
 
-200m:
+-----------------------------200m-----------------------------
 
-1.)  Cameron S $ PSU: {'average': 5.4989, 'stddev': 2.586585602724223, 'inScoring': 0.6886}
-2.)  DeVante C $ Mich: {'average': 5.0577, 'stddev': 2.608221421788434, 'inScoring': 0.666}
-3.)  Peter VB $ Wisc: {'average': 3.2246, 'stddev': 2.5820359371395827, 'inScoring': 0.5163}
-4.)  Suleman B $ ILL: {'average': 2.9781, 'stddev': 2.5485744250225446, 'inScoring': 0.4979}
-5.)  Garrett S $ IU: {'average': 2.9575, 'stddev': 2.5138956890648574, 'inScoring': 0.5005}
-6.)  Mateusz L $ ILL: {'average': 2.6357, 'stddev': 2.4541682839372863, 'inScoring': 0.4718}
-7.)  Mason R $ ILL: {'average': 2.5742, 'stddev': 2.4457901866244662, 'inScoring': 0.4652}
-8.)  Keon'tay W $ Iowa: {'average': 2.2149, 'stddev': 2.45001132713724, 'inScoring': 0.4135}
-9.)  Melvin I $ Iowa: {'average': 2.1411, 'stddev': 2.4234541628591777, 'inScoring': 0.4059}
-10.) Christopher M $ Iowa: {'average': 1.8953, 'stddev': 2.3765892183611412, 'inScoring': 0.383}
-11.) Alex B $ ILL: {'average': 1.6995, 'stddev': 2.3102010690508825, 'inScoring': 0.3553}
-12.) Dayo A $ Iowa: {'average': 1.6469, 'stddev': 2.274889270784857, 'inScoring': 0.3507}
-13.) Max R $ Wisc: {'average': 1.344, 'stddev': 2.1879202684876553, 'inScoring': 0.3095}
-14.) Evan G $ Maryland: {'average': 1.3358, 'stddev': 2.1919058078458087, 'inScoring': 0.3066}
-15.) Stephen F $ OSU: {'average': 1.306, 'stddev': 2.160889259690297, 'inScoring': 0.301}
-16.) Chris O $ OSU: {'average': 1.0563, 'stddev': 2.1209574233496045, 'inScoring': 0.2546}
-17.) Thomas L $ PSU: {'average': 1.0313, 'stddev': 2.0527426981775414, 'inScoring': 0.2592}
-18.) Tyler S $ Wisc: {'average': 0.7738, 'stddev': 1.9214108777691141, 'inScoring': 0.2081}
-19.) Zach T $ UConn: {'average': 0.659, 'stddev': 1.8022573337355534, 'inScoring': 0.1947}
-20.) Nathan R $ WVU: {'average': 0.5996, 'stddev': 1.8171475395164476, 'inScoring': 0.1782}
-21.) Nathan R $ Delaware: {'average': 0.5384, 'stddev': 1.7534814502985911, 'inScoring': 0.1644}
-22.) O'Reginald C $ Maryland: {'average': 0.4834, 'stddev': 1.7432113551859467, 'inScoring': 0.1514}
-23.) Karl T $ Wisc: {'average': 0.3942, 'stddev': 1.6095952431426317, 'inScoring': 0.1295}
-24.) Rodney M $ IU: {'average': 0.3093, 'stddev': 1.550137566595066, 'inScoring': 0.1118}
-25.) Jacv N $ GTWN: {'average': 0.2882, 'stddev': 1.526588675843623, 'inScoring': 0.1072}
-26.) JC A $ CMU: {'average': 0.239, 'stddev': 1.4885716294499676, 'inScoring': 0.0888}
-27.) Will J $ Wisc: {'average': 0.2078, 'stddev': 1.4173535710691636, 'inScoring': 0.0814}
-28.) Dan X $ UVA: {'average': 0.1621, 'stddev': 1.3634283928204205, 'inScoring': 0.0683}
-29.) Michael J $ ILL: {'average': 0.1298, 'stddev': 1.3527264415644615, 'inScoring': 0.0565}
-30.) Bryce R $ Minn: {'average': 0.0977, 'stddev': 1.179104374592071, 'inScoring': 0.0485}
-31.) Connor C $ Iowa: {'average': 0.0908, 'stddev': 1.27639872213521, 'inScoring': 0.0416}
-32.) Brian K $ IU: {'average': 0.0884, 'stddev': 1.241355652269601, 'inScoring': 0.0416}
-33.) Rasheed F $ OSU: {'average': 0.0866, 'stddev': 1.1927520316712281, 'inScoring': 0.0411}
-34.) Devin McC $ MSU: {'average': 0.0599, 'stddev': 1.1732932657750028, 'inScoring': 0.0295}
-35.) Miles M $ Maryland: {'average': 0.0539, 'stddev': 1.0289037112652966, 'inScoring': 0.0292}
-36.) Kyle R $ UConn: {'average': 0.0309, 'stddev': 0.9914949518521647, 'inScoring': 0.0173}
-37.) Noah N $ Pitt: {'average': 0.0273, 'stddev': 1.050946794127413, 'inScoring': 0.0153}
-38.) Steven W $ PSU: {'average': 0.0271, 'stddev': 0.9971697868422907, 'inScoring': 0.0159}
-39.) Kyle P $ PSU: {'average': 0.0236, 'stddev': 0.8981032852628342, 'inScoring': 0.0139}
-40.) Ryan B $ Cinn: {'average': 0.0085, 'stddev': 0.8310140886798585, 'inScoring': 0.0056}
-41.) Thomas H $ ILL: {'average': 0.0052, 'stddev': 0.9418581497197699, 'inScoring': 0.0032}
-42.) Daniel K $ Mich: {'average': 0.0039, 'stddev': 0.9237212077056678, 'inScoring': 0.0024}
-43.) Jonathan S $ Maryland: {'average': 0.0028, 'stddev': 1.0645812948447542, 'inScoring': 0.0016}
-44.) Kevin S $ ILL: {'average': 0.0021, 'stddev': 0.6504436355879909, 'inScoring': 0.0014}
-45.) Brandon C $ Wisc: {'average': 0.0019, 'stddev': 0.90033663737852, 'inScoring': 0.0012}
-46.) Jack L $ MSU: {'average': 0.0018, 'stddev': 0.5222329678670935, 'inScoring': 0.0012}
-47.) Rob I $ Delaware: {'average': 0.0015, 'stddev': 0.621581560508061, 'inScoring': 0.0012}
-48.) Trevor E $ IU: {'average': 0.0012, 'stddev': 0.4879500364742666, 'inScoring': 0.0007}
-49.) Mark L $ OSU: {'average': 0.001, 'stddev': 0.7867957924694432, 'inScoring': 0.0007}
-50.) Steven K $ ILL: {'average': 0.0007, 'stddev': 0.5477225575051661, 'inScoring': 0.0005}
-51.) Joe A $ Cinn: {'average': 0.0005, 'stddev': 1.1547005383792515, 'inScoring': 0.0003}
-52.) Alvin E $ Delaware: {'average': 0.0002, 'stddev': 0, 'inScoring': 0.0001}
-53.) William N $ MSU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                  Cameron S $ PSU                5.4337                   2.622397                   68.81%                      8                         10            
+            2                  DeVante C $ Mich               4.9863                   2.610702                   65.33%                      8                         10            
+            3                  Peter VB $ Wisc                3.2718                   2.612886                   52.05%                      7                         8             
+            4                  Suleman B $ ILL                2.9965                   2.520469                   50.32%                     6.0                        8             
+            5                   Garrett S $ IU                2.9262                   2.494097                   49.22%                     6.0                        8             
+            6                  Mateusz L $ ILL                2.6622                   2.479501                   47.36%                     6.0                        7             
+            7                   Mason R $ ILL                 2.5823                   2.426995                   46.65%                      6                         7             
+            8                 Keon'tay W $ Iowa               2.2419                   2.474115                   41.94%                     6.0                        7             
+            9                  Melvin I $ Iowa                2.1023                   2.469147                   39.86%                     5.0                        7             
+            10               Christopher M $ Iowa             2.0002                   2.378037                   39.67%                      5                         7             
+            11                   Alex B $ ILL                 1.7396                   2.286751                   36.38%                     5.0                        6             
+            12                  Dayo A $ Iowa                 1.6393                   2.282731                   34.81%                      5                         6             
+            13                   Max R $ Wisc                 1.3628                   2.195605                   31.31%                      4                         4             
+            14                Evan G $ Maryland               1.3207                   2.173619                   30.66%                     4.0                        4             
+            15                 Stephen F $ OSU                1.2839                   2.182601                   29.65%                      4                         5             
+            16                  Thomas L $ PSU                1.0761                   2.099009                   26.37%                      4                         4             
+            17                  Chris O $ OSU                 1.0341                   2.077098                   25.4%                      4.0                        3             
+            18                  Tyler S $ Wisc                0.7667                   1.936584                   20.66%                     4.0                        3             
+            19                  Zach T $ UConn                0.6435                   1.798297                   19.02%                     3.0                        2             
+            20                  Nathan R $ WVU                0.5877                   1.760226                   17.55%                      3                         4             
+            21               Nathan R $ Delaware              0.548                    1.755084                   17.05%                      3                         2             
+            22             O'Reginald C $ Maryland            0.4945                   1.703898                   15.37%                      3                         2             
+            23                  Karl T $ Wisc                 0.3833                   1.63145                    12.98%                     3.0                        1             
+            24                  Rodney M $ IU                 0.2999                   1.466882                   10.67%                      3                         2             
+            25                  Jacv N $ GTWN                 0.2971                   1.578978                   10.73%                      2                         1             
+            26                    JC A $ CMU                  0.2245                   1.442022                   8.57%                       2                         2             
+            27                  Will J $ Wisc                 0.2158                   1.415896                    8.4%                      2.0                        1             
+            28                   Dan X $ UVA                  0.153                    1.304907                   6.82%                      2.0                        1             
+            29                 Michael J $ ILL                0.1359                   1.299072                    6.0%                      2.0                        1             
+            30                  Bryce R $ Minn                0.0947                   1.176583                    4.6%                      2.0                        1             
+            31                 Connor C $ Iowa                0.0846                   1.206109                   4.06%                      2.0                        1             
+            32                 Rasheed F $ OSU                0.0833                   1.204165                   3.96%                      2.0                        1             
+            33                   Brian K $ IU                 0.0757                    1.1238                    3.72%                      2.0                        1             
+            34                 Devin McC $ MSU                0.0585                   1.044575                    3.0%                      2.0                        1             
+            35                Miles M $ Maryland              0.0584                   1.108245                   3.17%                       1                         1             
+            36                  Kyle R $ UConn                0.0373                   1.014688                   1.99%                       2                         1             
+            37                  Noah N $ Pitt                 0.0264                   0.932513                   1.51%                       1                         1             
+            38                  Steven W $ PSU                0.0224                   0.898801                   1.36%                      1.0                        1             
+            39                   Kyle P $ PSU                 0.0208                   0.83888                    1.21%                       2                         1             
+            40                  Ryan B $ Cinn                 0.0101                   0.813984                   0.63%                       1                         1             
+            41                  Thomas H $ ILL                0.0037                   0.702742                   0.26%                      1.0                        1             
+            42                 Daniel K $ Mich                0.0029                   0.476731                   0.22%                      1.0                        1             
+            43                  Kevin S $ ILL                 0.0026                   0.883715                   0.15%                       2                         1             
+            44              Jonathan S $ Maryland             0.0026                   1.47196                    0.13%                       1                         1             
+            45                 Brandon C $ Wisc               0.0015                     1.0                      0.09%                       1                         1             
+            46                  Trevor E $ IU                 0.0014                   0.516398                    0.1%                      1.0                        1             
+            47                   Mark L $ OSU                 0.001                    0.534522                   0.07%                       1                         1             
+            48                  Steven K $ ILL                0.0006                   0.57735                    0.04%                      1.5                        2             
+            49                   Jack L $ MSU                 0.0006                     1.0                      0.03%                       2                         1             
+            50                 Rob I $ Delaware               0.0005                     0.5                      0.04%                      1.0                        1             
+            51                 Charles H $ IwSt               0.0003                   0.707107                   0.02%                      1.5                        2             
+            52                   Luke B $ OSU                 0.0002                     0.0                      0.02%                      1.0                        1             
+            53                 William N $ MSU                0.0001                      0                       0.01%                       1                         1             
 
-1.)  ILL: {'average': 9.942, 'stddev': 5.181544909090367}
-2.)  Iowa: {'average': 7.9532, 'stddev': 4.756317400562881}
-3.)  PSU: {'average': 6.5809, 'stddev': 3.4908619325378067}
-4.)  Wisc: {'average': 5.939, 'stddev': 4.093820414392383}
-5.)  Mich: {'average': 5.0616, 'stddev': 2.6219597322961548}
-6.)  IU: {'average': 3.3564, 'stddev': 2.8689984566545186}
-7.)  OSU: {'average': 2.4499, 'stddev': 2.805867797858334}
-8.)  Maryland: {'average': 1.8759, 'stddev': 2.551313490595234}
-9.)  UConn: {'average': 0.6899, 'stddev': 1.8283170182399922}
-10.) WVU: {'average': 0.5996, 'stddev': 1.8171475395164476}
-11.) Delaware: {'average': 0.5401, 'stddev': 1.756779187804051}
-12.) GTWN: {'average': 0.2882, 'stddev': 1.526588675843623}
-13.) CMU: {'average': 0.239, 'stddev': 1.4885716294499676}
-14.) UVA: {'average': 0.1621, 'stddev': 1.3634283928204205}
-15.) Minn: {'average': 0.0977, 'stddev': 1.179104374592071}
-16.) MSU: {'average': 0.0618, 'stddev': 1.1945464950062283}
-17.) Pitt: {'average': 0.0273, 'stddev': 1.050946794127413}
-18.) Cinn: {'average': 0.009, 'stddev': 0.8378118503987723}
+         Position                    Team                    Average                    Stddev          
+            1                        ILL                     10.0436                   5.138674         
+            2                        Iowa                     8.0324                   4.80825          
+            3                        PSU                      6.553                    3.499437         
+            4                        Wisc                     5.9926                   4.079424         
+            5                        Mich                     4.9892                   2.61991          
+            6                         IU                      3.3032                   2.846593         
+            7                        OSU                      2.4025                   2.735297         
+            8                      Maryland                   1.8762                   2.490807         
+            9                       UConn                     0.6808                   1.813472         
+            10                       WVU                      0.5877                   1.760226         
+            11                     Delaware                   0.5485                   1.757313         
+            12                       GTWN                     0.2971                   1.578978         
+            13                       CMU                      0.2245                   1.442022         
+            14                       UVA                      0.153                    1.304907         
+            15                       Minn                     0.0947                   1.176583         
+            16                       MSU                      0.0592                   1.044305         
+            17                       Pitt                     0.0264                   0.932513         
+            18                       Cinn                     0.0101                   0.813984         
+            19                       IwSt                     0.0003                   0.707107         
 
-400m:
+-----------------------------400m-----------------------------
 
-1.)  Jerod A $ MSU: {'average': 6.2778, 'stddev': 2.6757531264740653, 'inScoring': 0.7946}
-2.)  Hunter S $ PSU: {'average': 5.0494, 'stddev': 2.63931236308787, 'inScoring': 0.7145}
-3.)  Tyler S $ ILL: {'average': 4.6922, 'stddev': 2.6022106966407845, 'inScoring': 0.6904}
-4.)  Brandon D $ UConn: {'average': 3.4859, 'stddev': 2.460897795289881, 'inScoring': 0.5941}
-5.)  Mateusz L $ ILL: {'average': 3.3263, 'stddev': 2.443428448283691, 'inScoring': 0.5837}
-6.)  Alex B $ ILL: {'average': 3.1495, 'stddev': 2.4279187159680284, 'inScoring': 0.5595}
-7.)  Brad S $ Mich: {'average': 2.78, 'stddev': 2.3534647185327917, 'inScoring': 0.5216}
-8.)  Trevor E $ IU: {'average': 2.6202, 'stddev': 2.328278057865533, 'inScoring': 0.5123}
-9.)  Evan G $ Maryland: {'average': 2.3232, 'stddev': 2.261944848423018, 'inScoring': 0.4761}
-10.) Mark KA $ Maryland: {'average': 1.9075, 'stddev': 2.198676167374477, 'inScoring': 0.4361}
-11.) Brendan K $ GTWN: {'average': 1.7016, 'stddev': 2.1030004435669194, 'inScoring': 0.4058}
-12.) Nathan R $ WVU: {'average': 1.4982, 'stddev': 2.0795682858211144, 'inScoring': 0.372}
-13.) Will H $ OSU: {'average': 1.0958, 'stddev': 1.9070166876247647, 'inScoring': 0.2958}
-14.) David O $ UConn: {'average': 1.095, 'stddev': 1.905719258903856, 'inScoring': 0.2996}
-15.) Roman L $ Mich: {'average': 0.9744, 'stddev': 1.8358534379711602, 'inScoring': 0.2823}
-16.) Jordan A $ CMU: {'average': 0.7639, 'stddev': 1.7638495314076577, 'inScoring': 0.2368}
-17.) Noah N $ Pitt: {'average': 0.6642, 'stddev': 1.6523968926689538, 'inScoring': 0.2151}
-18.) El Hussan S $ Mich: {'average': 0.5939, 'stddev': 1.6061941600690497, 'inScoring': 0.2}
-19.) Tyler S $ Wisc: {'average': 0.5409, 'stddev': 1.5519825040225217, 'inScoring': 0.1885}
-20.) Sam P $ IwSt: {'average': 0.534, 'stddev': 1.5664292929317374, 'inScoring': 0.1841}
-21.) Charles B $ Mich: {'average': 0.3009, 'stddev': 1.3546753649763872, 'inScoring': 0.1265}
-22.) Phil B $ MSU: {'average': 0.2111, 'stddev': 1.3076277332914303, 'inScoring': 0.0887}
-23.) Bennett L $ IwSt: {'average': 0.1465, 'stddev': 1.2116785668272607, 'inScoring': 0.0695}
-24.) Kyle B $ PSU: {'average': 0.082, 'stddev': 1.0475965766384812, 'inScoring': 0.0431}
-25.) Drew G $ OSU: {'average': 0.0573, 'stddev': 0.9764233448519517, 'inScoring': 0.0326}
-26.) Christopher M $ Iowa: {'average': 0.0387, 'stddev': 0.9713760490002976, 'inScoring': 0.0225}
-27.) Neil B $ OSU: {'average': 0.0322, 'stddev': 1.0092867225157933, 'inScoring': 0.0188}
-28.) Brandon AP $ WVU: {'average': 0.0217, 'stddev': 0.9848876837138886, 'inScoring': 0.0127}
-29.) Jared N $ Wisc: {'average': 0.0147, 'stddev': 0.8651974634385863, 'inScoring': 0.0092}
-30.) John K $ Iowa: {'average': 0.0104, 'stddev': 0.9191347796538867, 'inScoring': 0.0061}
-31.) Ben C $ Delaware: {'average': 0.0033, 'stddev': 0.7464200272921789, 'inScoring': 0.0021}
-32.) Matt D $ PSU: {'average': 0.002, 'stddev': 0.8770580193070292, 'inScoring': 0.0013}
-33.) Jacob H $ IwSt: {'average': 0.0016, 'stddev': 0.5991446895152781, 'inScoring': 0.0013}
-34.) Andrew A $ IwSt: {'average': 0.0013, 'stddev': 0.7264831572567789, 'inScoring': 0.0009}
-35.) David R $ OSU: {'average': 0.0009, 'stddev': 0.7559289460184544, 'inScoring': 0.0007}
-36.) Niko F $ Maryland: {'average': 0.0006, 'stddev': 0.4472135954999579, 'inScoring': 0.0005}
-37.) Steven K $ ILL: {'average': 0.0004, 'stddev': 0.5773502691896257, 'inScoring': 0.0003}
-38.) Thomas E $ IU: {'average': 0.0004, 'stddev': 1.4142135623730951, 'inScoring': 0.0002}
-39.) Grant S $ IU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                   Jerod A $ MSU                 6.2551                   2.70024                    79.57%                      10                        10            
+            2                   Hunter S $ PSU                4.9579                    2.607                     69.98%                     8.0                        10            
+            3                   Tyler S $ ILL                 4.6958                   2.542279                   68.4%                      7.0                        8             
+            4                 Brandon D $ UConn               3.3996                   2.523595                   58.43%                      6                         8             
+            5                  Mateusz L $ ILL                3.2958                   2.454983                   57.61%                      6                         7             
+            6                    Alex B $ ILL                 3.192                    2.45427                    56.21%                      6                         7             
+            7                   Brad S $ Mich                 2.7934                   2.35568                    53.07%                      5                         7             
+            8                   Trevor E $ IU                 2.6336                   2.332094                   50.81%                      5                         7             
+            9                 Evan G $ Maryland               2.3056                   2.259637                   47.45%                      5                         6             
+            10                Mark KA $ Maryland              1.9114                   2.205805                   42.54%                     5.0                        6             
+            11                 Brendan K $ GTWN               1.7379                   2.144261                   41.07%                      4                         5             
+            12                  Nathan R $ WVU                1.5222                   2.030924                   37.41%                      4                         5             
+            13                   Will H $ OSU                 1.1384                   1.944682                   31.04%                     3.5                        3             
+            14                 David O $ UConn                1.1091                   1.927603                   30.18%                     4.0                        2             
+            15                  Roman L $ Mich                0.9964                   1.851416                   28.19%                      3                         4             
+            16                  Jordan A $ CMU                0.7616                   1.694201                   24.0%                      3.0                        2             
+            17                  Noah N $ Pitt                 0.6699                   1.674995                   21.74%                     3.0                        2             
+            18                El Hussan S $ Mich              0.5603                   1.559385                   19.52%                     3.0                        1             
+            19                  Tyler S $ Wisc                0.559                    1.596419                   19.36%                     3.0                        2             
+            20                   Sam P $ IwSt                 0.5496                   1.596268                   18.64%                     3.0                        1             
+            21                 Charles B $ Mich               0.3117                   1.393886                   12.6%                      2.0                        1             
+            22                   Phil B $ MSU                 0.2153                   1.252205                    9.3%                      2.0                        1             
+            23                 Bennett L $ IwSt               0.1399                   1.205228                   6.82%                      2.0                        1             
+            24                   Kyle B $ PSU                 0.0848                   1.083602                   4.33%                       2                         1             
+            25                   Drew G $ OSU                 0.0629                   1.08507                    3.33%                       2                         1             
+            26               Christopher M $ Iowa             0.0395                   0.917327                   2.38%                      1.0                        1             
+            27                   Neil B $ OSU                 0.0382                   1.007643                   2.15%                       1                         1             
+            28                 Brandon AP $ WVU               0.0217                   0.951445                    1.3%                      1.0                        1             
+            29                  Jared N $ Wisc                0.0164                   0.994047                   0.95%                       1                         1             
+            30                  John K $ Iowa                 0.0105                   0.879883                   0.63%                       1                         1             
+            31                 Ben C $ Delaware               0.0051                   0.910844                   0.32%                      1.0                        1             
+            32                  Jacob H $ IwSt                0.0036                   0.650641                   0.25%                       1                         1             
+            33                   Matt D $ PSU                 0.0019                   0.518875                   0.13%                       1                         1             
+            34                 Andrew A $ IwSt                0.0015                   0.707107                    0.1%                      1.0                        1             
+            35                  Thomas E $ IU                 0.0012                   1.069045                   0.08%                      1.0                        1             
+            36                  David R $ OSU                 0.0005                     0.0                      0.05%                       1                         1             
+            37                Niko F $ Maryland               0.0003                     0.0                      0.03%                       1                         1             
+            38                  Steven K $ ILL                0.0003                   0.707107                   0.02%                      1.5                        1             
+            39                   Grant S $ IU                 0.0001                      0                       0.01%                       1                         1             
 
-1.)  ILL: {'average': 11.1684, 'stddev': 5.097811416247551}
-2.)  MSU: {'average': 6.4889, 'stddev': 2.8916218405787073}
-3.)  PSU: {'average': 5.1334, 'stddev': 2.741066447410341}
-4.)  Mich: {'average': 4.6452, 'stddev': 3.4309205555087714}
-5.)  UConn: {'average': 4.5809, 'stddev': 3.158242420158521}
-6.)  Maryland: {'average': 4.2313, 'stddev': 3.1944334968767767}
-7.)  IU: {'average': 2.6207, 'stddev': 2.3292017230611597}
-8.)  GTWN: {'average': 1.7016, 'stddev': 2.1030004435669194}
-9.)  WVU: {'average': 1.5199, 'stddev': 2.10607867405844}
-10.) OSU: {'average': 1.1862, 'stddev': 2.0091670057750375}
-11.) CMU: {'average': 0.7639, 'stddev': 1.7638495314076577}
-12.) IwSt: {'average': 0.6834, 'stddev': 1.7312187065232607}
-13.) Pitt: {'average': 0.6642, 'stddev': 1.6523968926689538}
-14.) Wisc: {'average': 0.5556, 'stddev': 1.5635551186875045}
-15.) Iowa: {'average': 0.0491, 'stddev': 1.0019903506557875}
-16.) Delaware: {'average': 0.0033, 'stddev': 0.7464200272921789}
+         Position                    Team                    Average                    Stddev          
+            1                        ILL                     11.1837                   5.118796         
+            2                        MSU                      6.4704                   2.93651          
+            3                        PSU                      5.0446                   2.729159         
+            4                        Mich                     4.6604                   3.366112         
+            5                       UConn                     4.5087                   3.227522         
+            6                      Maryland                   4.2173                   3.16063          
+            7                         IU                      2.6349                   2.334906         
+            8                        GTWN                     1.7379                   2.144261         
+            9                        WVU                      1.5439                   2.061167         
+            10                       OSU                       1.24                    2.037928         
+            11                       CMU                      0.7616                   1.694201         
+            12                       IwSt                     0.6946                    1.7306          
+            13                       Pitt                     0.6699                   1.674995         
+            14                       Wisc                     0.5754                   1.610272         
+            15                       Iowa                      0.05                    0.955357         
+            16                     Delaware                   0.0051                   0.910844         
 
-800m:
+-----------------------------800m-----------------------------
 
-1.)  Matt L $ IU: {'average': 4.9224, 'stddev': 2.6726839559784508, 'inScoring': 0.6799}
-2.)  Andrew S $ Wisc: {'average': 4.6724, 'stddev': 2.618555051804242, 'inScoring': 0.6631}
-3.)  John D $ IU: {'average': 4.1063, 'stddev': 2.662269188416977, 'inScoring': 0.6206}
-4.)  Andrew N $ Minn: {'average': 3.9855, 'stddev': 2.6094908679160835, 'inScoring': 0.6031}
-5.)  Evan R $ Wisc: {'average': 3.8578, 'stddev': 2.5584361936920965, 'inScoring': 0.5996}
-6.)  Bryan M $ PSU: {'average': 3.6373, 'stddev': 2.5017030566388057, 'inScoring': 0.588}
-7.)  Jared R $ IU: {'average': 3.0905, 'stddev': 2.5419915322086486, 'inScoring': 0.5322}
-8.)  Evan K $ Wisc: {'average': 2.1757, 'stddev': 2.263419018801042, 'inScoring': 0.4426}
-9.)  John H $ Mich: {'average': 1.9739, 'stddev': 2.2708265914811534, 'inScoring': 0.4239}
-10.) Joey S $ Cinn: {'average': 1.6287, 'stddev': 2.16052596765351, 'inScoring': 0.3722}
-11.) Tyler S $ ILL: {'average': 1.4507, 'stddev': 2.0755512494735315, 'inScoring': 0.3467}
-12.) Nathan O $ Wisc: {'average': 1.3071, 'stddev': 2.0375671186120607, 'inScoring': 0.3264}
-13.) Patrick S $ GTWN: {'average': 1.2637, 'stddev': 2.0500139061994203, 'inScoring': 0.3213}
-14.) Keith L $ ILL: {'average': 1.1894, 'stddev': 2.0337690324792996, 'inScoring': 0.3064}
-15.) Jason G $ ILL: {'average': 1.182, 'stddev': 2.0243640294086576, 'inScoring': 0.3044}
-16.) Nolan F $ Wisc: {'average': 1.1129, 'stddev': 1.9468465419322267, 'inScoring': 0.298}
-17.) Roman L $ Mich: {'average': 0.9203, 'stddev': 1.8868449773468499, 'inScoring': 0.2622}
-18.) Max A $ UConn: {'average': 0.793, 'stddev': 1.8105160410043641, 'inScoring': 0.2318}
-19.) Valentin E $ IU: {'average': 0.749, 'stddev': 1.7505145943574543, 'inScoring': 0.222}
-20.) Phil B $ MSU: {'average': 0.3384, 'stddev': 1.5339394399441184, 'inScoring': 0.1248}
-21.) Aj O $ IwSt: {'average': 0.3296, 'stddev': 1.558313933780408, 'inScoring': 0.1197}
-22.) Drew D $ OSU: {'average': 0.2249, 'stddev': 1.3956518633310424, 'inScoring': 0.0909}
-23.) Jacob G $ Maryland: {'average': 0.2097, 'stddev': 1.3189123144339598, 'inScoring': 0.0888}
-24.) Daniel W $ PSU: {'average': 0.1651, 'stddev': 1.2382846498311753, 'inScoring': 0.0753}
-25.) Adam G $ Mich: {'average': 0.1494, 'stddev': 1.3237323957168219, 'inScoring': 0.0686}
-26.) Jake R $ Wisc: {'average': 0.1409, 'stddev': 1.2369342061509179, 'inScoring': 0.0639}
-27.) Kevin B $ Wisc: {'average': 0.0861, 'stddev': 1.1710876614065435, 'inScoring': 0.0429}
-28.) Matt W $ PSU: {'average': 0.0767, 'stddev': 1.13830881180389, 'inScoring': 0.0402}
-29.) Arthur C $ GTWN: {'average': 0.0707, 'stddev': 1.0831752850120528, 'inScoring': 0.0361}
-30.) Tyler P $ PSU: {'average': 0.0524, 'stddev': 1.0947725106828439, 'inScoring': 0.0284}
-31.) Alex H $ ILL: {'average': 0.0523, 'stddev': 1.0880970420348832, 'inScoring': 0.0271}
-32.) Paul B $ OSU: {'average': 0.0495, 'stddev': 1.0978103601468523, 'inScoring': 0.0255}
-33.) Riley V $ MSU: {'average': 0.0128, 'stddev': 0.8941293393545885, 'inScoring': 0.0073}
-34.) Bryan J $ Wisc: {'average': 0.0057, 'stddev': 0.5768471316045682, 'inScoring': 0.0042}
-35.) Tyler A $ Minn: {'average': 0.0037, 'stddev': 0.8225975119502044, 'inScoring': 0.0025}
-36.) Ryun A $ Maryland: {'average': 0.0036, 'stddev': 0.9561828874675149, 'inScoring': 0.0021}
-37.) Michael M $ IwSt: {'average': 0.0028, 'stddev': 0.5504818825631803, 'inScoring': 0.0022}
-38.) Carter Z $ Pitt: {'average': 0.0028, 'stddev': 0.8555852638929973, 'inScoring': 0.0018}
-39.) Adolfo B $ Maryland: {'average': 0.0023, 'stddev': 0.6399404734221844, 'inScoring': 0.0015}
-40.) Austin C $ MSU: {'average': 0.001, 'stddev': 0.33333333333333337, 'inScoring': 0.0009}
-41.) Matt P $ PSU: {'average': 0.0006, 'stddev': 0.4472135954999579, 'inScoring': 0.0005}
-42.) Noah McF $ Pitt: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
-43.) Christian B $ PSU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
-44.) Ethan W $ IU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
-45.) Dominic B $ IU: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                    Matt L $ IU                  4.8506                   2.666236                   67.22%                     8.0                        10            
+            2                  Andrew S $ Wisc                4.7125                   2.604976                   66.76%                     7.0                        10            
+            3                    John D $ IU                  4.1515                   2.663157                   62.66%                     7.0                        10            
+            4                  Andrew N $ Minn                4.0214                   2.598041                   60.95%                      7                         10            
+            5                   Evan R $ Wisc                 3.8991                   2.591818                   60.37%                      7                         8             
+            6                   Bryan M $ PSU                 3.6586                   2.521847                   59.32%                     7.0                        8             
+            7                    Jared R $ IU                 3.1029                   2.499648                   54.17%                      6                         8             
+            8                   Evan K $ Wisc                 2.2167                   2.310231                   45.11%                      5                         6             
+            9                   John H $ Mich                 1.9704                   2.29918                    42.48%                     5.0                        5             
+            10                  Joey S $ Cinn                 1.6322                   2.157075                   37.73%                      4                         5             
+            11                  Tyler S $ ILL                 1.3581                   2.088358                   32.83%                      4                         4             
+            12                 Nathan O $ Wisc                1.3194                   2.066294                   33.18%                     4.0                        3             
+            13                 Patrick S $ GTWN               1.2954                   1.999034                   32.49%                      4                         4             
+            14                  Keith L $ ILL                 1.2154                   1.993478                   30.83%                      4                         3             
+            15                  Jason G $ ILL                 1.1423                   1.969753                   29.88%                     4.0                        5             
+            16                  Nolan F $ Wisc                1.1031                   1.992451                   29.34%                     4.0                        3             
+            17                  Roman L $ Mich                0.9272                   1.900079                   26.14%                     3.0                        1             
+            18                  Max A $ UConn                 0.7503                   1.78798                    21.99%                      3                         3             
+            19                 Valentin E $ IU                0.749                    1.754877                   22.39%                      3                         3             
+            20                   Phil B $ MSU                 0.3376                   1.523778                   12.44%                     2.0                        1             
+            21                   Aj O $ IwSt                  0.3277                   1.451005                   12.47%                      2                         1             
+            22                   Drew D $ OSU                 0.2159                   1.358149                    9.1%                      2.0                        1             
+            23                Jacob G $ Maryland              0.2045                   1.297991                    8.7%                      2.0                        1             
+            24                  Daniel W $ PSU                0.1608                   1.232804                   7.27%                       2                         1             
+            25                  Jake R $ Wisc                 0.1396                   1.272816                   6.16%                      2.0                        1             
+            26                  Adam G $ Mich                 0.135                    1.182214                   6.19%                       2                         1             
+            27                  Kevin B $ Wisc                0.0796                   1.094218                   4.16%                      2.0                        1             
+            28                   Matt W $ PSU                 0.0771                   1.054473                   3.98%                      2.0                        1             
+            29                 Arthur C $ GTWN                0.0658                   1.039316                   3.55%                       2                         1             
+            30                   Alex H $ ILL                 0.0508                   1.062401                   2.86%                      1.0                        1             
+            31                   Paul B $ OSU                 0.0497                   1.104816                   2.63%                       2                         1             
+            32                  Tyler P $ PSU                 0.0477                   1.021389                   2.61%                       1                         1             
+            33                  Riley V $ MSU                 0.0093                   0.857161                   0.58%                      1.0                        1             
+            34                  Bryan J $ Wisc                0.007                    0.776624                   0.47%                       1                         1             
+            35                  Tyler A $ Minn                0.0043                   0.79711                    0.26%                      1.0                        1             
+            36               Adolfo B $ Maryland              0.0037                   0.97032                    0.19%                       2                         2             
+            37                Ryun A $ Maryland               0.0025                   0.801784                   0.14%                      2.0                        1             
+            38                 Carter Z $ Pitt                0.002                    0.617213                   0.15%                       1                         1             
+            39                 Michael M $ IwSt               0.0016                   0.492366                   0.12%                      1.0                        1             
+            40                  Austin C $ MSU                0.0011                   0.517549                   0.08%                      1.0                        1             
+            41                  Dominic B $ IU                0.0002                     0.0                      0.02%                      1.0                        1             
+            42                   Matt P $ PSU                 0.0002                     0.0                      0.02%                      1.0                        1             
+            43                   Ethan W $ IU                 0.0002                      0                       0.01%                       2                         2             
 
-1.)  Wisc: {'average': 13.0398, 'stddev': 5.361981892110428}
-2.)  IU: {'average': 12.7972, 'stddev': 5.459643154567964}
-3.)  Minn: {'average': 3.9892, 'stddev': 2.617589570813432}
-4.)  PSU: {'average': 3.9322, 'stddev': 2.8751993848376376}
-5.)  ILL: {'average': 3.8736, 'stddev': 3.2750108611172597}
-6.)  Mich: {'average': 3.0436, 'stddev': 2.90134312591273}
-7.)  Cinn: {'average': 1.6287, 'stddev': 2.16052596765351}
-8.)  GTWN: {'average': 1.3344, 'stddev': 2.101820733849101}
-9.)  UConn: {'average': 0.793, 'stddev': 1.8105160410043641}
-10.) MSU: {'average': 0.3522, 'stddev': 1.5505659783978718}
-11.) IwSt: {'average': 0.3324, 'stddev': 1.5649451847652536}
-12.) OSU: {'average': 0.2744, 'stddev': 1.457536205389279}
-13.) Maryland: {'average': 0.2156, 'stddev': 1.3157448047398077}
-14.) Pitt: {'average': 0.0029, 'stddev': 0.8411910241920598}
+         Position                    Team                    Average                    Stddev          
+            1                        Wisc                    13.1558                   5.370065         
+            2                         IU                     12.7728                   5.458366         
+            3                        Minn                     4.0257                   2.608917         
+            4                        PSU                      3.9444                   2.857577         
+            5                        ILL                      3.7662                   3.205081         
+            6                        Mich                     3.0326                   2.860394         
+            7                        Cinn                     1.6322                   2.157075         
+            8                        GTWN                     1.3612                   2.060374         
+            9                       UConn                     0.7503                   1.78798          
+            10                       MSU                      0.348                    1.528566         
+            11                       IwSt                     0.3293                   1.454247         
+            12                       OSU                      0.2656                   1.436343         
+            13                     Maryland                   0.2107                   1.28908          
+            14                       Pitt                     0.002                    0.617213         
 
-1500m:
+-----------------------------1500m-----------------------------
 
-1.)  Alec A $ Minn: {'average': 6.0956, 'stddev': 2.539918070775786, 'inScoring': 0.7546}
-2.)  John D $ IU: {'average': 4.7102, 'stddev': 2.4365409467947594, 'inScoring': 0.656}
-3.)  Chris R $ IwSt: {'average': 4.1484, 'stddev': 2.451305531606727, 'inScoring': 0.6063}
-4.)  Evan R $ Wisc: {'average': 3.8013, 'stddev': 2.422754817906837, 'inScoring': 0.5849}
-5.)  Evan K $ Wisc: {'average': 3.1608, 'stddev': 2.4423820465551933, 'inScoring': 0.5234}
-6.)  Bryan M $ PSU: {'average': 2.9753, 'stddev': 2.395080141173994, 'inScoring': 0.5015}
-7.)  Paul B $ OSU: {'average': 2.8341, 'stddev': 2.376464749038419, 'inScoring': 0.494}
-8.)  Andrew H $ Minn: {'average': 2.3484, 'stddev': 2.294746356565984, 'inScoring': 0.4387}
-9.)  Willy W $ ILL: {'average': 2.0878, 'stddev': 2.297366413838288, 'inScoring': 0.4034}
-10.) William G $ IwSt: {'average': 1.4934, 'stddev': 2.1452780749855287, 'inScoring': 0.3361}
-11.) Andrew N $ Minn: {'average': 1.2491, 'stddev': 2.1531230394140226, 'inScoring': 0.2924}
-12.) Ryan S $ ILL: {'average': 1.1866, 'stddev': 2.096152892382778, 'inScoring': 0.2786}
-13.) Buddy H $ Mich: {'average': 0.8727, 'stddev': 1.9186131208003177, 'inScoring': 0.2282}
-14.) John H $ Mich: {'average': 0.8188, 'stddev': 1.9216844609605805, 'inScoring': 0.2208}
-15.) Andrew S $ Wisc: {'average': 0.8182, 'stddev': 1.922076639419599, 'inScoring': 0.2156}
-16.) Jared R $ IU: {'average': 0.7612, 'stddev': 1.8596384110976332, 'inScoring': 0.209}
-17.) David T $ Mich: {'average': 0.7321, 'stddev': 1.8138990649696083, 'inScoring': 0.2069}
-18.) Grandpa F $ Mich: {'average': 0.6453, 'stddev': 1.7549007574431856, 'inScoring': 0.1879}
-19.) Eric D $ GTWN: {'average': 0.637, 'stddev': 1.7859092662425922, 'inScoring': 0.187}
-20.) Jared T $ Miami: {'average': 0.5631, 'stddev': 1.7183089766773731, 'inScoring': 0.1691}
-21.) Dylan P $ Iowa: {'average': 0.5427, 'stddev': 1.7169238176754993, 'inScoring': 0.1651}
-22.) Jason T $ IwSt: {'average': 0.5065, 'stddev': 1.7455945855694537, 'inScoring': 0.1581}
-23.) Blake H $ Mizzou: {'average': 0.4683, 'stddev': 1.6838105115187743, 'inScoring': 0.1466}
-24.) Ryun A $ Maryland: {'average': 0.3688, 'stddev': 1.5840942380099237, 'inScoring': 0.123}
-25.) Lucas P $ Mich: {'average': 0.3543, 'stddev': 1.5996831264598406, 'inScoring': 0.1176}
-26.) Adam G $ Mich: {'average': 0.3028, 'stddev': 1.5243779577695824, 'inScoring': 0.1055}
-27.) Christopher K $ Delaware: {'average': 0.2457, 'stddev': 1.450281669061092, 'inScoring': 0.0928}
-28.) Valentin E $ IU: {'average': 0.1655, 'stddev': 1.4084857800740775, 'inScoring': 0.068}
-29.) Kevin B $ Wisc: {'average': 0.1541, 'stddev': 1.2857149282631015, 'inScoring': 0.0658}
-30.) Eli W $ ILL: {'average': 0.1459, 'stddev': 1.3669129705817908, 'inScoring': 0.0623}
-31.) Rob K $ Maryland: {'average': 0.1357, 'stddev': 1.2277101882365637, 'inScoring': 0.0617}
-32.) Andre H $ Wisc: {'average': 0.1224, 'stddev': 1.287925478412004, 'inScoring': 0.052}
-33.) Riley V $ MSU: {'average': 0.0938, 'stddev': 1.1321523053935452, 'inScoring': 0.0447}
-34.) Alex L $ ILL: {'average': 0.0911, 'stddev': 1.137287651097865, 'inScoring': 0.0439}
-35.) Brady W $ OSU: {'average': 0.0615, 'stddev': 1.0726531570464133, 'inScoring': 0.0324}
-36.) Aj O $ IwSt: {'average': 0.0566, 'stddev': 1.0963446141340631, 'inScoring': 0.0304}
-37.) Jacob G $ Maryland: {'average': 0.0485, 'stddev': 1.0130837235834922, 'inScoring': 0.0259}
-38.) Jacob Y $ MSU: {'average': 0.0482, 'stddev': 1.0135411730331332, 'inScoring': 0.0255}
-39.) Nolan F $ Wisc: {'average': 0.0442, 'stddev': 1.0685441266910076, 'inScoring': 0.0245}
-40.) Adolfo B $ Maryland: {'average': 0.0385, 'stddev': 0.953480706823634, 'inScoring': 0.0212}
-41.) Patrick S $ Purdue: {'average': 0.016, 'stddev': 1.013348755309848, 'inScoring': 0.0095}
-42.) Mackenzie B $ ILL: {'average': 0.0126, 'stddev': 1.1364346693418752, 'inScoring': 0.0068}
-43.) Jon O $ Minn: {'average': 0.0122, 'stddev': 1.0156803988065115, 'inScoring': 0.0068}
-44.) Colton S $ Iowa: {'average': 0.0064, 'stddev': 0.9281909617845142, 'inScoring': 0.004}
-45.) Alex B $ Purdue: {'average': 0.0049, 'stddev': 1.171893055416463, 'inScoring': 0.0025}
-46.) Kyle K $ Cinn: {'average': 0.0043, 'stddev': 0.5744991393237625, 'inScoring': 0.0029}
-47.) Ethan W $ IU: {'average': 0.0035, 'stddev': 0.8540709744729822, 'inScoring': 0.0022}
-48.) Levi U $ PSU: {'average': 0.0021, 'stddev': 0.8548504142651103, 'inScoring': 0.0014}
-49.) MacCoy B $ IwSt: {'average': 0.001, 'stddev': 0.7867957924694432, 'inScoring': 0.0007}
-50.) Jake P $ Wisc: {'average': 0.0009, 'stddev': 0.4879500364742666, 'inScoring': 0.0007}
-51.) Patrick K $ Mich: {'average': 0.0006, 'stddev': 0.5773502691896257, 'inScoring': 0.0004}
-52.) Jake R $ Wisc: {'average': 0.0005, 'stddev': 1.1547005383792515, 'inScoring': 0.0003}
-53.) Geoffery M $ UVA: {'average': 0.0004, 'stddev': 0.5773502691896257, 'inScoring': 0.0003}
-54.) Casey G $ Miami: {'average': 0.0001, 'stddev': 0, 'inScoring': 0.0001}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                   Alec A $ Minn                 6.1285                   2.53629                    75.82%                     10.0                       10            
+            2                    John D $ IU                  4.672                    2.464643                   65.36%                     8.0                        10            
+            3                   Chris R $ IwSt                4.1645                   2.44834                    61.14%                     7.0                        8             
+            4                   Evan R $ Wisc                 3.7693                   2.409307                   58.21%                      7                         8             
+            5                   Evan K $ Wisc                 3.1707                   2.455333                   52.45%                      6                         8             
+            6                   Bryan M $ PSU                 3.1413                   2.374823                   52.34%                     6.0                        8             
+            7                    Paul B $ OSU                 2.8437                   2.377238                   49.51%                      6                         7             
+            8                  Andrew H $ Minn                2.2608                   2.330867                   43.16%                     6.0                        7             
+            9                   Willy W $ ILL                 2.1222                   2.314705                   41.05%                      5                         7             
+            10                 William G $ IwSt               1.487                    2.16708                    33.31%                      5                         5             
+            11                 Andrew N $ Minn                1.2484                   2.11789                    29.62%                     4.0                        5             
+            12                   Ryan S $ ILL                 1.1735                   2.061541                   27.7%                      4.0                        4             
+            13                  Buddy H $ Mich                0.8917                   1.94936                    23.16%                     4.0                        3             
+            14                  John H $ Mich                 0.8226                   1.881334                   22.14%                     4.0                        4             
+            15                 Andrew S $ Wisc                0.7902                   1.902674                   21.46%                     4.0                        2             
+            16                  David T $ Mich                0.739                    1.81262                    20.65%                      4                         4             
+            17                   Jared R $ IU                 0.7272                   1.828691                   20.01%                      4                         3             
+            18                  Eric D $ GTWN                 0.6252                   1.785964                   18.43%                      3                         2             
+            19                 Grandpa F $ Mich               0.6103                   1.759367                   18.13%                      3                         4             
+            20                 Jared T $ Miami                0.5967                   1.76368                    17.68%                     3.0                        3             
+            21                  Dylan P $ Iowa                0.5639                   1.747812                   16.94%                     3.0                        2             
+            22                  Jason T $ IwSt                0.4714                   1.709563                   14.59%                      3                         3             
+            23                 Blake H $ Mizzou               0.4678                   1.665599                   14.63%                      3                         3             
+            24                Ryun A $ Maryland               0.388                    1.592432                   13.01%                      3                         2             
+            25                  Lucas P $ Mich                0.3259                   1.593084                   11.44%                     3.0                        1             
+            26                  Adam G $ Mich                 0.3058                   1.541926                   10.51%                      3                         2             
+            27             Christopher K $ Delaware           0.2392                   1.453452                   9.05%                       2                         1             
+            28                 Valentin E $ IU                0.1756                   1.329186                   7.29%                       2                         1             
+            29                   Eli W $ ILL                  0.1428                   1.366188                   6.11%                       2                         1             
+            30                 Rob K $ Maryland               0.1412                   1.295155                   6.02%                      2.0                        1             
+            31                  Kevin B $ Wisc                0.1395                   1.236438                   5.99%                       2                         1             
+            32                  Andre H $ Wisc                0.1117                   1.234536                   5.02%                      2.0                        1             
+            33                  Riley V $ MSU                 0.0968                   1.233068                   4.61%                       2                         1             
+            34                   Alex L $ ILL                 0.0795                   1.25671                    3.81%                       2                         1             
+            35                  Brady W $ OSU                 0.0628                   1.063799                   3.12%                      2.0                        1             
+            36                   Aj O $ IwSt                  0.057                    1.089601                   2.84%                      2.0                        1             
+            37                  Jacob Y $ MSU                 0.0506                   1.062678                   2.77%                       1                         1             
+            38                  Nolan F $ Wisc                0.0475                   1.117258                   2.46%                      2.0                        1             
+            39                Jacob G $ Maryland              0.0471                   1.11925                    2.38%                      2.0                        1             
+            40               Adolfo B $ Maryland              0.0365                   1.011614                   2.03%                       1                         1             
+            41                Patrick S $ Purdue              0.0193                   1.015442                   1.11%                       1                         1             
+            42                Mackenzie B $ ILL               0.0116                   0.765196                   0.79%                       1                         1             
+            43                   Jon O $ Minn                 0.0114                   0.937465                   0.68%                      1.0                        1             
+            44                  Kyle K $ Cinn                 0.0063                   0.710548                   0.41%                       1                         1             
+            45                 Colton S $ Iowa                0.005                    0.882227                   0.29%                       1                         1             
+            46                 Alex B $ Purdue                0.0031                   1.145931                    0.2%                      1.0                        1             
+            47                   Ethan W $ IU                 0.0025                   0.607685                   0.18%                      1.0                        1             
+            48                   Levi U $ PSU                 0.0018                   0.468807                   0.14%                      1.0                        1             
+            49                 MacCoy B $ IwSt                0.0013                   0.726483                   0.09%                       1                         1             
+            50                  Jake P $ Wisc                 0.0007                   0.408248                   0.06%                      1.0                        1             
+            51                 Geoffery M $ UVA               0.0005                   0.707107                   0.02%                      2.5                        2             
+            52                  Jace G $ Minn                 0.0004                   1.414214                   0.02%                      2.0                        1             
+            53                 Patrick K $ Mich               0.0003                     0.0                      0.03%                       1                         1             
+            54                 Casey G $ Miami                0.0002                      0                       0.01%                       2                         2             
+            55                  Jake R $ Wisc                 0.0002                     0.0                      0.02%                      1.0                        1             
 
-1.)  Minn: {'average': 9.7049, 'stddev': 4.5311127180363275}
-2.)  Wisc: {'average': 8.0921, 'stddev': 4.48908247401667}
-3.)  IwSt: {'average': 6.2051, 'stddev': 3.831441951359287}
-4.)  IU: {'average': 5.6404, 'stddev': 3.2040006002660473}
-5.)  Mich: {'average': 3.7196, 'stddev': 3.2837409403667617}
-6.)  ILL: {'average': 3.5238, 'stddev': 3.141699252212907}
-7.)  PSU: {'average': 2.9774, 'stddev': 2.401946398790731}
-8.)  OSU: {'average': 2.8956, 'stddev': 2.4938468295490397}
-9.)  GTWN: {'average': 0.637, 'stddev': 1.7859092662425922}
-10.) Maryland: {'average': 0.5915, 'stddev': 1.7058624585929154}
-11.) Miami: {'average': 0.5632, 'stddev': 1.7187344766503727}
-12.) Iowa: {'average': 0.5491, 'stddev': 1.7289448838430157}
-13.) Mizzou: {'average': 0.4683, 'stddev': 1.6838105115187743}
-14.) Delaware: {'average': 0.2457, 'stddev': 1.450281669061092}
-15.) MSU: {'average': 0.142, 'stddev': 1.2158847449597499}
-16.) Purdue: {'average': 0.0209, 'stddev': 1.1583955895463096}
-17.) Cinn: {'average': 0.0043, 'stddev': 0.5744991393237625}
-18.) UVA: {'average': 0.0004, 'stddev': 0.5773502691896257}
+         Position                    Team                    Average                    Stddev          
+            1                        Minn                     9.6489                   4.539554         
+            2                        Wisc                     8.0209                   4.452534         
+            3                        IwSt                     6.1809                   3.787829         
+            4                         IU                      5.5773                   3.230779         
+            5                        Mich                     3.6875                   3.261724         
+            6                        ILL                      3.529                    3.171287         
+            7                        PSU                      3.1431                   2.382096         
+            8                        OSU                      2.9065                   2.485866         
+            9                        GTWN                     0.6252                   1.785964         
+            10                     Maryland                   0.6128                   1.750118         
+            11                      Miami                     0.5969                   1.764081         
+            12                       Iowa                     0.5689                   1.751345         
+            13                      Mizzou                    0.4678                   1.665599         
+            14                     Delaware                   0.2392                   1.453452         
+            15                       MSU                      0.1474                   1.253756         
+            16                      Purdue                    0.0224                   1.033951         
+            17                       Cinn                     0.0063                   0.710548         
+            18                       UVA                      0.0005                   0.707107         
 
-5000m:
+-----------------------------5000m-----------------------------
 
-1.)  Chris R $ IwSt: {'average': 5.6954, 'stddev': 2.5578655911843398, 'inScoring': 0.7169}
-2.)  Will G $ IwSt: {'average': 5.2109, 'stddev': 2.4782985444065604, 'inScoring': 0.6752}
-3.)  Andrew S $ PSU: {'average': 3.7711, 'stddev': 2.56765431726809, 'inScoring': 0.5682}
-4.)  Josh F $ IU: {'average': 3.5859, 'stddev': 2.5568557386273576, 'inScoring': 0.5553}
-5.)  Robby A $ Miami: {'average': 3.3057, 'stddev': 2.4375054020475733, 'inScoring': 0.5331}
-6.)  Matthew S $ Purdue: {'average': 2.3314, 'stddev': 2.39910949621072, 'inScoring': 0.4335}
-7.)  Jared T $ Miami: {'average': 2.1896, 'stddev': 2.3147093598354633, 'inScoring': 0.4312}
-8.)  Willy W $ ILL: {'average': 2.0079, 'stddev': 2.315155146228798, 'inScoring': 0.3984}
-9.)  Mitchell W $ Maryland: {'average': 1.8989, 'stddev': 2.276928836819564, 'inScoring': 0.3825}
-10.) David T $ Mich: {'average': 1.8249, 'stddev': 2.299671861524164, 'inScoring': 0.3765}
-11.) Mark P $ PSU: {'average': 1.7266, 'stddev': 2.248889356939581, 'inScoring': 0.3564}
-12.) Lucas P $ Mich: {'average': 1.6161, 'stddev': 2.2423827216951895, 'inScoring': 0.3443}
-13.) Jason T $ IwSt: {'average': 1.4133, 'stddev': 2.2095106112672864, 'inScoring': 0.3144}
-14.) Alex L $ ILL: {'average': 0.8895, 'stddev': 1.9845344898267994, 'inScoring': 0.2276}
-15.) Ethan W $ IU: {'average': 0.8384, 'stddev': 1.9500485769621125, 'inScoring': 0.2204}
-16.) Brandon H $ Delaware: {'average': 0.8156, 'stddev': 1.8977548173083838, 'inScoring': 0.2142}
-17.) Raymond F $ PSU: {'average': 0.7602, 'stddev': 1.8870872171639712, 'inScoring': 0.2046}
-18.) Eric D $ GTWN: {'average': 0.7002, 'stddev': 1.8464064556303177, 'inScoring': 0.1902}
-19.) David C $ ILL: {'average': 0.6753, 'stddev': 1.8533678237905196, 'inScoring': 0.1871}
-20.) Noah C $ OSU: {'average': 0.6591, 'stddev': 1.9025168004798678, 'inScoring': 0.1839}
-21.) Ross P $ Mich: {'average': 0.6038, 'stddev': 1.7940651417860092, 'inScoring': 0.1764}
-22.) Ryan S $ ILL: {'average': 0.5133, 'stddev': 1.7135385906777603, 'inScoring': 0.1559}
-23.) Connor S $ Purdue: {'average': 0.4209, 'stddev': 1.6467070777002268, 'inScoring': 0.1387}
-24.) Jace G $ Minn: {'average': 0.3863, 'stddev': 1.6017068049509897, 'inScoring': 0.1318}
-25.) Sam S $ Mich: {'average': 0.3595, 'stddev': 1.5326416642462004, 'inScoring': 0.124}
-26.) Jared G $ Minn: {'average': 0.3516, 'stddev': 1.554789337658723, 'inScoring': 0.1202}
-27.) Ryan W $ OSU: {'average': 0.2833, 'stddev': 1.5628075362203375, 'inScoring': 0.0992}
-28.) Matthew L $ Mich: {'average': 0.2082, 'stddev': 1.4274936162717005, 'inScoring': 0.0823}
-29.) Josh F $ ILL: {'average': 0.208, 'stddev': 1.4019931871751343, 'inScoring': 0.083}
-30.) Jack F $ Mich: {'average': 0.1467, 'stddev': 1.361772524990178, 'inScoring': 0.062}
-31.) Matthew K $ Wisc: {'average': 0.1104, 'stddev': 1.2165087533939203, 'inScoring': 0.0503}
-32.) Jacob Y $ MSU: {'average': 0.1031, 'stddev': 1.167573867956543, 'inScoring': 0.0489}
-33.) Andrew W $ Miami: {'average': 0.0701, 'stddev': 1.1066059970112008, 'inScoring': 0.0348}
-34.) Valentin E $ IU: {'average': 0.0586, 'stddev': 1.053233822042531, 'inScoring': 0.0307}
-35.) Jared R $ ILL: {'average': 0.0486, 'stddev': 1.141918902479878, 'inScoring': 0.0261}
-36.) Luke B $ Mich: {'average': 0.0421, 'stddev': 1.039064925166716, 'inScoring': 0.0234}
-37.) John L $ PSU: {'average': 0.0362, 'stddev': 0.9893401689253531, 'inScoring': 0.02}
-38.) Shamus Z $ Minn: {'average': 0.0326, 'stddev': 0.9610102963149734, 'inScoring': 0.0188}
-39.) Logan B $ UVA: {'average': 0.0309, 'stddev': 0.9796971091081355, 'inScoring': 0.0173}
-40.) Ned C $ GTWN: {'average': 0.0287, 'stddev': 0.9789574920603025, 'inScoring': 0.0155}
-41.) Max H $ Cinn: {'average': 0.0169, 'stddev': 0.9367108328966947, 'inScoring': 0.0104}
-42.) Patrick W $ Mich: {'average': 0.008, 'stddev': 0.6615968845984975, 'inScoring': 0.0055}
-43.) Ryun A $ Maryland: {'average': 0.0069, 'stddev': 0.8146387933534492, 'inScoring': 0.0045}
-44.) Michael G $ ILL: {'average': 0.0037, 'stddev': 0.8913284485317717, 'inScoring': 0.0023}
-45.) John L $ NW: {'average': 0.0026, 'stddev': 0.6242642728467978, 'inScoring': 0.0017}
-46.) Alec F $ Pitt: {'average': 0.002, 'stddev': 0.646206172658864, 'inScoring': 0.0014}
-47.) Matt LeD $ Mich: {'average': 0.0004, 'stddev': 0.0, 'inScoring': 0.0004}
-48.) Jacob G $ Maryland: {'average': 0.0004, 'stddev': 0.0, 'inScoring': 0.0004}
-49.) Keith C $ IwSt: {'average': 0.0002, 'stddev': 0.0, 'inScoring': 0.0002}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                   Chris R $ IwSt                5.695                    2.50787                    71.09%                      8                         10            
+            2                   Will G $ IwSt                 5.2483                   2.48776                    68.2%                      8.0                        10            
+            3                   Andrew S $ PSU                3.7313                   2.511341                   56.47%                      7                         8             
+            4                    Josh F $ IU                  3.6068                   2.56493                    55.75%                      7                         8             
+            5                  Robby A $ Miami                3.3476                   2.485106                   54.06%                     7.0                        8             
+            6                 Matthew S $ Purdue              2.3582                   2.429538                   43.63%                      6                         7             
+            7                  Jared T $ Miami                2.0899                   2.356876                   41.16%                     5.0                        7             
+            8                   Willy W $ ILL                 1.9922                   2.28753                    39.83%                      5                         6             
+            9               Mitchell W $ Maryland             1.8691                   2.275197                   38.08%                     5.0                        6             
+            10                  David T $ Mich                1.8364                   2.247318                   38.14%                     5.0                        6             
+            11                   Mark P $ PSU                 1.7095                   2.234687                   35.56%                     5.0                        6             
+            12                  Lucas P $ Mich                1.5609                   2.256202                   33.22%                     5.0                        6             
+            13                  Jason T $ IwSt                1.4694                   2.195341                   32.6%                      5.0                        5             
+            14                   Alex L $ ILL                 0.8792                   2.009495                   22.37%                      4                         5             
+            15                   Ethan W $ IU                 0.846                    1.961013                   21.52%                     4.0                        5             
+            16               Brandon H $ Delaware             0.7766                   1.923359                   20.34%                     4.0                        3             
+            17                 Raymond F $ PSU                0.7686                   1.888301                   20.52%                     4.0                        2             
+            18                  Eric D $ GTWN                 0.7166                   1.919762                   19.39%                      4                         4             
+            19                   Noah C $ OSU                 0.6901                   1.824622                   19.15%                      4                         3             
+            20                  David C $ ILL                 0.6696                   1.866782                   18.67%                      4                         4             
+            21                  Ross P $ Mich                 0.5589                   1.753582                   16.7%                      3.0                        2             
+            22                   Ryan S $ ILL                 0.5217                   1.756229                   15.68%                     3.0                        3             
+            23                Connor S $ Purdue               0.4084                   1.691988                   13.53%                      3                         1             
+            24                   Sam S $ Mich                 0.4027                   1.606437                   13.33%                      3                         2             
+            25                  Jared G $ Minn                0.3758                   1.661439                   12.58%                     3.0                        1             
+            26                  Jace G $ Minn                 0.374                    1.604936                   12.61%                      3                         3             
+            27                   Ryan W $ OSU                 0.2854                   1.537726                   10.25%                      3                         1             
+            28                   Josh F $ ILL                 0.2163                   1.442762                   8.24%                      2.0                        1             
+            29                 Matthew L $ Mich               0.203                    1.387792                   8.09%                       2                         1             
+            30                  Jack F $ Mich                 0.1404                   1.315874                    6.1%                      2.0                        1             
+            31                 Matthew K $ Wisc               0.1174                   1.185514                    5.3%                      2.0                        2             
+            32                  Jacob Y $ MSU                 0.1031                   1.22036                    4.79%                       2                         1             
+            33                 Andrew W $ Miami               0.0753                   1.161816                   3.72%                      2.0                        1             
+            34                 Valentin E $ IU                0.0607                   1.147528                   3.04%                      2.0                        1             
+            35                  Jared R $ ILL                 0.0555                   1.096427                   2.78%                      2.0                        1             
+            36                  Luke B $ Mich                 0.0484                   1.077477                   2.47%                       2                         1             
+            37                   John L $ PSU                 0.0423                   1.022587                   2.26%                      2.0                        1             
+            38                  Logan B $ UVA                 0.0354                   0.900642                    2.0%                      2.0                        1             
+            39                 Shamus Z $ Minn                0.0336                   0.928391                    2.0%                      1.0                        1             
+            40                   Ned C $ GTWN                 0.0308                   0.917925                   1.71%                       2                         1             
+            41                   Max H $ Cinn                 0.0226                   1.030709                   1.31%                       1                         1             
+            42                 Patrick W $ Mich               0.0085                   0.680957                   0.58%                      1.0                        1             
+            43                Ryun A $ Maryland               0.0074                   0.972328                   0.47%                       1                         1             
+            44                   John L $ NW                  0.0035                   1.258955                   0.18%                      1.5                        1             
+            45                 Michael G $ ILL                0.0032                   0.56466                    0.24%                      1.0                        1             
+            46                  Alec F $ Pitt                 0.0028                   0.704792                   0.18%                      1.0                        1             
+            47                Jacob G $ Maryland              0.0008                   0.547723                   0.05%                       2                         2             
+            48                  Keith C $ IwSt                0.0004                   0.57735                    0.03%                       1                         1             
+            49                 Matt LeD $ Mich                0.0003                   0.707107                   0.02%                      1.5                        1             
+            50                  Quinn T $ ILL                 0.0001                      0                       0.01%                       1                         1             
 
-1.)  IwSt: {'average': 12.3198, 'stddev': 5.0803928341917395}
-2.)  PSU: {'average': 6.2936, 'stddev': 3.9963985768857415}
-3.)  Miami: {'average': 5.5654, 'stddev': 3.6447884405282034}
-4.)  Mich: {'average': 4.8005, 'stddev': 3.7294083322865728}
-5.)  IU: {'average': 4.4829, 'stddev': 3.2493536156199956}
-6.)  ILL: {'average': 4.3404, 'stddev': 3.5354826789362}
-7.)  Purdue: {'average': 2.7523, 'stddev': 2.7244616712368153}
-8.)  Maryland: {'average': 1.9062, 'stddev': 2.2946042979955976}
-9.)  OSU: {'average': 0.9424, 'stddev': 2.0572362586055486}
-10.) Delaware: {'average': 0.8156, 'stddev': 1.8977548173083838}
-11.) Minn: {'average': 0.7705, 'stddev': 1.8636030968657467}
-12.) GTWN: {'average': 0.7289, 'stddev': 1.8863719054047678}
-13.) Wisc: {'average': 0.1104, 'stddev': 1.2165087533939203}
-14.) MSU: {'average': 0.1031, 'stddev': 1.167573867956543}
-15.) UVA: {'average': 0.0309, 'stddev': 0.9796971091081355}
-16.) Cinn: {'average': 0.0169, 'stddev': 0.9367108328966947}
-17.) NW: {'average': 0.0026, 'stddev': 0.6242642728467978}
-18.) Pitt: {'average': 0.002, 'stddev': 0.646206172658864}
+         Position                    Team                    Average                    Stddev          
+            1                        IwSt                    12.4129                   5.178444         
+            2                        PSU                      6.2514                   3.933746         
+            3                       Miami                     5.5128                   3.641417         
+            4                        Mich                     4.7504                   3.635833         
+            5                         IU                      4.5135                   3.19246          
+            6                        ILL                      4.332                     3.5264          
+            7                       Purdue                    2.7666                   2.733808         
+            8                      Maryland                   1.8773                   2.292756         
+            9                        OSU                      0.9755                   2.000866         
+            10                       Minn                     0.7834                   1.855028         
+            11                     Delaware                   0.7766                   1.923359         
+            12                       GTWN                     0.7474                   1.95343          
+            13                       Wisc                     0.1174                   1.185514         
+            14                       MSU                      0.1031                   1.22036          
+            15                       UVA                      0.0354                   0.900642         
+            16                       Cinn                     0.0226                   1.030709         
+            17                        NW                      0.0035                   1.258955         
+            18                       Pitt                     0.0028                   0.704792         
 
-100m HH:
+-----------------------------100m HH-----------------------------
 
-1.)  Jerry C $ UConn: {'average': 8.6758, 'stddev': 1.8042078120255844, 'inScoring': 0.9944}
-2.)  Rasheed F $ OSU: {'average': 7.2712, 'stddev': 1.981753292945169, 'inScoring': 0.9958}
-3.)  Thomas L $ PSU: {'average': 6.4748, 'stddev': 1.9745322580832176, 'inScoring': 0.9931}
-4.)  Hunter C $ Wisc: {'average': 6.2, 'stddev': 1.8989731720514755, 'inScoring': 0.9922}
-5.)  Michael J $ ILL: {'average': 5.1243, 'stddev': 1.7717080792998514, 'inScoring': 0.9868}
-6.)  Joseph B $ ILL: {'average': 4.6474, 'stddev': 1.70588132532013, 'inScoring': 0.9808}
-7.)  Yashmeet G $ Mich: {'average': 3.1232, 'stddev': 1.400565146289044, 'inScoring': 0.9388}
-8.)  Noah N $ Pitt: {'average': 2.7403, 'stddev': 1.303665826245942, 'inScoring': 0.9073}
-9.)  Tim S $ Purdue: {'average': 0.8075, 'stddev': 0.7281966282030773, 'inScoring': 0.5081}
-10.) Trevor E $ IU: {'average': 0.5815, 'stddev': 0.6329954271697211, 'inScoring': 0.406}
-11.) Ogochukwu A $ Wisc: {'average': 0.225, 'stddev': 0.4814191963850583, 'inScoring': 0.1824}
-12.) Patrick McH $ OSU: {'average': 0.09, 'stddev': 0.40407973301393835, 'inScoring': 0.0778}
-13.) Nathan S $ Mich: {'average': 0.0212, 'stddev': 0.2986910129942368, 'inScoring': 0.0193}
-14.) Thomas E $ IU: {'average': 0.0097, 'stddev': 0.10206207261596575, 'inScoring': 0.0096}
-15.) Matthew M $ Maryland: {'average': 0.0081, 'stddev': 0.24956101809855233, 'inScoring': 0.0076}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                  Jerry C $ UConn                8.7563                   1.77077                    99.59%                      10                        10            
+            2                  Rasheed F $ OSU                7.236                    1.983092                   99.44%                     8.0                        8             
+            3                   Thomas L $ PSU                6.4919                   1.931954                   99.16%                     7.0                        7             
+            4                  Hunter C $ Wisc                6.1448                   1.905886                   99.18%                     6.0                        7             
+            5                  Michael J $ ILL                5.0891                   1.778648                   98.57%                      5                         6             
+            6                   Joseph B $ ILL                4.6495                   1.708668                   98.4%                      5.0                        5             
+            7                 Yashmeet G $ Mich               3.1608                   1.398489                   94.43%                      3                         3             
+            8                   Noah N $ Pitt                 2.7461                   1.276035                   90.55%                      3                         3             
+            9                   Tim S $ Purdue                0.7978                   0.72824                    51.37%                      1                         1             
+            10                  Trevor E $ IU                 0.5838                   0.643805                   40.57%                      1                         1             
+            11                Ogochukwu A $ Wisc              0.2152                   0.459354                   17.48%                     1.0                        1             
+            12                Patrick McH $ OSU               0.0946                   0.41297                    8.09%                       1                         1             
+            13                 Nathan S $ Mich                0.0191                   0.270654                   1.77%                       1                         1             
+            14                  Thomas E $ IU                 0.0092                   0.256249                   0.86%                      1.0                        1             
+            15               Matthew M $ Maryland             0.0058                   0.427889                   0.54%                      1.0                        1             
 
-1.)  ILL: {'average': 9.7717, 'stddev': 2.3411807326052965}
-2.)  UConn: {'average': 8.6758, 'stddev': 1.8042078120255844}
-3.)  OSU: {'average': 7.3612, 'stddev': 2.0207882634064576}
-4.)  PSU: {'average': 6.4748, 'stddev': 1.9745322580832176}
-5.)  Wisc: {'average': 6.425, 'stddev': 1.98270897206998}
-6.)  Mich: {'average': 3.1444, 'stddev': 1.415555488419181}
-7.)  Pitt: {'average': 2.7403, 'stddev': 1.303665826245942}
-8.)  Purdue: {'average': 0.8075, 'stddev': 0.7281966282030773}
-9.)  IU: {'average': 0.5912, 'stddev': 0.6334141279682693}
-10.) Maryland: {'average': 0.0081, 'stddev': 0.24956101809855233}
+         Position                    Team                    Average                    Stddev          
+            1                        ILL                      9.7386                   2.331569         
+            2                       UConn                     8.7563                   1.77077          
+            3                        OSU                      7.3306                   2.019095         
+            4                        PSU                      6.4919                   1.931954         
+            5                        Wisc                      6.36                    1.989389         
+            6                        Mich                     3.1799                   1.411513         
+            7                        Pitt                     2.7461                   1.276035         
+            8                       Purdue                    0.7978                   0.72824          
+            9                         IU                      0.593                    0.647131         
+            10                     Maryland                   0.0058                   0.427889         
 
-3000m Steeplechase:
+-----------------------------3000m Steeplechase-----------------------------
 
-1.)  Matt P $ Maryland: {'average': 9.7813, 'stddev': 0.7377836691566488, 'inScoring': 1.0}
-2.)  Ethan B $ Maryland: {'average': 7.37, 'stddev': 0.970666894161917, 'inScoring': 1.0}
-3.)  Adolfo B $ Maryland: {'average': 7.2648, 'stddev': 0.9260489817885807, 'inScoring': 1.0}
-4.)  Matthew G $ Maryland: {'average': 6.5839, 'stddev': 0.735129125720882, 'inScoring': 1.0}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                 Matt P $ Maryland               9.7726                   0.757197                   100.0%                     10.0                       10            
+            2                 Ethan B $ Maryland              7.3709                   0.965622                   100.0%                     7.0                        8             
+            3                Adolfo B $ Maryland              7.2548                   0.941257                   100.0%                     7.0                        8             
+            4                Matthew G $ Maryland             6.6017                   0.748407                   100.0%                     6.0                        6             
 
-1.)  Maryland: {'average': 25.0, 'stddev': 0.0}
+         Position                    Team                    Average                    Stddev          
+            1                      Maryland                    25.0                      0.0            
 
-4x100m:
+-----------------------------4x100m-----------------------------
 
-1.)  Maryland: {'average': 10.0, 'stddev': 0.0, 'inScoring': 1.0}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                      Maryland                    10.0                      0.0                      100.0%                     10.0                       10            
 
-1.)  Maryland: {'average': 10.0, 'stddev': 0.0}
+         Position                    Team                    Average                    Stddev          
+            1                      Maryland                    10.0                      0.0            
 
-4x400m:
+-----------------------------4x400m-----------------------------
 
-1.)  ILL: {'average': 8.5157, 'stddev': 2.069598217415886, 'inScoring': 0.9773}
-2.)  IU: {'average': 5.4288, 'stddev': 2.394455703572193, 'inScoring': 0.8338}
-3.)  Mich: {'average': 4.9388, 'stddev': 2.351681913957745, 'inScoring': 0.788}
-4.)  Wisc: {'average': 4.8891, 'stddev': 2.326491332453838, 'inScoring': 0.7915}
-5.)  PSU: {'average': 4.6299, 'stddev': 2.296855790947494, 'inScoring': 0.7781}
-6.)  GVSU: {'average': 3.8642, 'stddev': 2.1529308998818553, 'inScoring': 0.7129}
-7.)  GTWN: {'average': 2.6462, 'stddev': 1.90846860445157, 'inScoring': 0.6016}
-8.)  MSU: {'average': 2.2763, 'stddev': 1.9185410523124113, 'inScoring': 0.5386}
-9.)  CMU: {'average': 1.9615, 'stddev': 1.8089004174908418, 'inScoring': 0.5111}
-10.) UVA: {'average': 1.7526, 'stddev': 1.7535236565398316, 'inScoring': 0.4848}
-11.) UConn: {'average': 1.0156, 'stddev': 1.5586862335756326, 'inScoring': 0.343}
-12.) Mizzou: {'average': 0.9207, 'stddev': 1.5478095025925558, 'inScoring': 0.3149}
-13.) WVU: {'average': 0.896, 'stddev': 1.554125955235053, 'inScoring': 0.3086}
-14.) Delaware: {'average': 0.7134, 'stddev': 1.4459920264604154, 'inScoring': 0.267}
-15.) IwSt: {'average': 0.4431, 'stddev': 1.2757074363000038, 'inScoring': 0.1866}
-16.) Iowa: {'average': 0.3521, 'stddev': 1.2185488007653287, 'inScoring': 0.1615}
-17.) OSU: {'average': 0.2596, 'stddev': 1.1476494437048084, 'inScoring': 0.1277}
-18.) Minn: {'average': 0.1752, 'stddev': 1.0380617596331747, 'inScoring': 0.0949}
-19.) Maryland: {'average': 0.1686, 'stddev': 0.9910690026000551, 'inScoring': 0.0916}
-20.) Cinn: {'average': 0.116, 'stddev': 1.001182687206955, 'inScoring': 0.0626}
-21.) Purdue: {'average': 0.0366, 'stddev': 0.7765324895708449, 'inScoring': 0.0239}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                        ILL                      8.5307                   2.068246                   97.59%                      10                        10            
+            2                         IU                      5.443                    2.40084                    83.98%                     7.0                        8             
+            3                        Mich                     4.8886                   2.347331                   78.31%                      7                         8             
+            4                        Wisc                     4.7979                   2.341937                   78.29%                      7                         8             
+            5                        PSU                      4.6729                   2.285624                   78.26%                     6.0                        8             
+            6                        GVSU                     3.8552                   2.178595                   70.97%                      6                         7             
+            7                        GTWN                     2.6562                   1.913823                   60.13%                      5                         5             
+            8                        MSU                      2.3405                   1.940367                   55.33%                      4                         5             
+            9                        CMU                      1.9799                   1.827809                   51.1%                      4.0                        4             
+            10                       UVA                       1.78                    1.740762                   49.24%                     4.0                        4             
+            11                      UConn                     0.964                    1.524533                   33.31%                      3                         2             
+            12                      Mizzou                    0.9415                   1.538583                   31.57%                      3                         3             
+            13                       WVU                      0.8872                   1.567862                   30.75%                      3                         1             
+            14                     Delaware                   0.7059                   1.371634                   26.92%                     2.0                        2             
+            15                       IwSt                     0.4527                   1.301117                   19.0%                      2.0                        1             
+            16                       Iowa                     0.3425                   1.230208                   15.41%                      2                         1             
+            17                       OSU                      0.2413                   1.089748                   12.06%                     2.0                        1             
+            18                     Maryland                   0.1934                   1.068629                   10.02%                     2.0                        1             
+            19                       Minn                     0.1789                   1.092292                   9.24%                      2.0                        1             
+            20                       Cinn                     0.1084                   0.966113                   6.05%                       2                         1             
+            21                      Purdue                    0.0393                   0.840297                   2.47%                       1                         1             
 
-1.)  ILL: {'average': 8.5157, 'stddev': 2.069598217415886}
-2.)  IU: {'average': 5.4288, 'stddev': 2.394455703572193}
-3.)  Mich: {'average': 4.9388, 'stddev': 2.351681913957745}
-4.)  Wisc: {'average': 4.8891, 'stddev': 2.326491332453838}
-5.)  PSU: {'average': 4.6299, 'stddev': 2.296855790947494}
-6.)  GVSU: {'average': 3.8642, 'stddev': 2.1529308998818553}
-7.)  GTWN: {'average': 2.6462, 'stddev': 1.90846860445157}
-8.)  MSU: {'average': 2.2763, 'stddev': 1.9185410523124113}
-9.)  CMU: {'average': 1.9615, 'stddev': 1.8089004174908418}
-10.) UVA: {'average': 1.7526, 'stddev': 1.7535236565398316}
-11.) UConn: {'average': 1.0156, 'stddev': 1.5586862335756326}
-12.) Mizzou: {'average': 0.9207, 'stddev': 1.5478095025925558}
-13.) WVU: {'average': 0.896, 'stddev': 1.554125955235053}
-14.) Delaware: {'average': 0.7134, 'stddev': 1.4459920264604154}
-15.) IwSt: {'average': 0.4431, 'stddev': 1.2757074363000038}
-16.) Iowa: {'average': 0.3521, 'stddev': 1.2185488007653287}
-17.) OSU: {'average': 0.2596, 'stddev': 1.1476494437048084}
-18.) Minn: {'average': 0.1752, 'stddev': 1.0380617596331747}
-19.) Maryland: {'average': 0.1686, 'stddev': 0.9910690026000551}
-20.) Cinn: {'average': 0.116, 'stddev': 1.001182687206955}
-21.) Purdue: {'average': 0.0366, 'stddev': 0.7765324895708449}
+         Position                    Team                    Average                    Stddev          
+            1                        ILL                      8.5307                   2.068246         
+            2                         IU                      5.443                    2.40084          
+            3                        Mich                     4.8886                   2.347331         
+            4                        Wisc                     4.7979                   2.341937         
+            5                        PSU                      4.6729                   2.285624         
+            6                        GVSU                     3.8552                   2.178595         
+            7                        GTWN                     2.6562                   1.913823         
+            8                        MSU                      2.3405                   1.940367         
+            9                        CMU                      1.9799                   1.827809         
+            10                       UVA                       1.78                    1.740762         
+            11                      UConn                     0.964                    1.524533         
+            12                      Mizzou                    0.9415                   1.538583         
+            13                       WVU                      0.8872                   1.567862         
+            14                     Delaware                   0.7059                   1.371634         
+            15                       IwSt                     0.4527                   1.301117         
+            16                       Iowa                     0.3425                   1.230208         
+            17                       OSU                      0.2413                   1.089748         
+            18                     Maryland                   0.1934                   1.068629         
+            19                       Minn                     0.1789                   1.092292         
+            20                       Cinn                     0.1084                   0.966113         
+            21                      Purdue                    0.0393                   0.840297         
 
-4x800m:
+-----------------------------4x800m-----------------------------
 
-1.)  Wisc: {'average': 6.1894, 'stddev': 2.9029914034182185, 'inScoring': 0.9258}
-2.)  ILL: {'average': 5.6147, 'stddev': 2.859784122096002, 'inScoring': 0.9057}
-3.)  Purdue: {'average': 5.3091, 'stddev': 2.7784553973266655, 'inScoring': 0.893}
-4.)  IwSt: {'average': 4.9933, 'stddev': 2.687639490115849, 'inScoring': 0.873}
-5.)  Minn: {'average': 4.6859, 'stddev': 2.657960736001705, 'inScoring': 0.8611}
-6.)  IU: {'average': 4.4687, 'stddev': 2.5655740101734925, 'inScoring': 0.8467}
-7.)  Mich: {'average': 4.1817, 'stddev': 2.506349926000388, 'inScoring': 0.8265}
-8.)  MSU: {'average': 3.9175, 'stddev': 2.3439747324685833, 'inScoring': 0.8117}
-9.)  OSU: {'average': 2.8927, 'stddev': 2.0490441576699174, 'inScoring': 0.7237}
-10.) CMU: {'average': 2.1847, 'stddev': 1.7935948357999172, 'inScoring': 0.6418}
-11.) ND: {'average': 1.1932, 'stddev': 1.3881284141085988, 'inScoring': 0.4709}
-12.) Delaware: {'average': 0.341, 'stddev': 0.9221832327193635, 'inScoring': 0.1978}
-13.) Maryland: {'average': 0.0281, 'stddev': 0.5151523793035934, 'inScoring': 0.0223}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                        Wisc                     6.1331                   2.899959                   92.23%                      7                         10            
+            2                        ILL                      5.6686                   2.843832                   90.77%                      7                         10            
+            3                       Purdue                    5.3416                   2.772339                   89.17%                      6                         10            
+            4                        IwSt                     4.9852                   2.695183                   87.57%                      6                         8             
+            5                        Minn                     4.6579                   2.667766                   85.83%                      6                         8             
+            6                         IU                      4.4704                   2.570937                   85.31%                      5                         7             
+            7                        Mich                     4.2209                   2.503759                   82.99%                      5                         6             
+            8                        MSU                      3.9337                   2.361623                   81.46%                     5.0                        5             
+            9                        OSU                      2.873                    2.034581                   72.6%                      4.0                        4             
+            10                       CMU                      2.1425                   1.787334                   63.23%                      3                         2             
+            11                        ND                      1.2072                   1.404671                   47.36%                     2.0                        1             
+            12                     Delaware                   0.3404                   0.941566                   19.39%                      1                         1             
+            13                     Maryland                   0.0255                   0.545416                   2.09%                       1                         1             
 
-1.)  Wisc: {'average': 6.1894, 'stddev': 2.9029914034182185}
-2.)  ILL: {'average': 5.6147, 'stddev': 2.859784122096002}
-3.)  Purdue: {'average': 5.3091, 'stddev': 2.7784553973266655}
-4.)  IwSt: {'average': 4.9933, 'stddev': 2.687639490115849}
-5.)  Minn: {'average': 4.6859, 'stddev': 2.657960736001705}
-6.)  IU: {'average': 4.4687, 'stddev': 2.5655740101734925}
-7.)  Mich: {'average': 4.1817, 'stddev': 2.506349926000388}
-8.)  MSU: {'average': 3.9175, 'stddev': 2.3439747324685833}
-9.)  OSU: {'average': 2.8927, 'stddev': 2.0490441576699174}
-10.) CMU: {'average': 2.1847, 'stddev': 1.7935948357999172}
-11.) ND: {'average': 1.1932, 'stddev': 1.3881284141085988}
-12.) Delaware: {'average': 0.341, 'stddev': 0.9221832327193635}
-13.) Maryland: {'average': 0.0281, 'stddev': 0.5151523793035934}
+         Position                    Team                    Average                    Stddev          
+            1                        Wisc                     6.1331                   2.899959         
+            2                        ILL                      5.6686                   2.843832         
+            3                       Purdue                    5.3416                   2.772339         
+            4                        IwSt                     4.9852                   2.695183         
+            5                        Minn                     4.6579                   2.667766         
+            6                         IU                      4.4704                   2.570937         
+            7                        Mich                     4.2209                   2.503759         
+            8                        MSU                      3.9337                   2.361623         
+            9                        OSU                      2.873                    2.034581         
+            10                       CMU                      2.1425                   1.787334         
+            11                        ND                      1.2072                   1.404671         
+            12                     Delaware                   0.3404                   0.941566         
+            13                     Maryland                   0.0255                   0.545416         
 
-LJ:
+-----------------------------LJ-----------------------------
 
-1.)  Daniel K $ Mich: {'average': 6.4806, 'stddev': 2.552232193436499, 'inScoring': 0.9764}
-2.)  Garret S $ IU: {'average': 5.6787, 'stddev': 2.708652702606495, 'inScoring': 0.9313}
-3.)  Jared D $ Toledo: {'average': 4.9358, 'stddev': 2.7672950920132346, 'inScoring': 0.8541}
-4.)  Kebba B $ Iowa: {'average': 3.5424, 'stddev': 2.752082763949265, 'inScoring': 0.6754}
-5.)  Alex B $ IwSt: {'average': 3.2245, 'stddev': 2.6802417081446053, 'inScoring': 0.6193}
-6.)  Drew V $ OSU: {'average': 2.5699, 'stddev': 2.646939222411021, 'inScoring': 0.5067}
-7.)  Andrew H $ Mich: {'average': 2.4429, 'stddev': 2.5819877600242105, 'inScoring': 0.49}
-8.)  Jeffery M $ PSU: {'average': 2.4316, 'stddev': 2.5837029106916396, 'inScoring': 0.4824}
-9.)  Christopher M $ Iowa: {'average': 1.7307, 'stddev': 2.482387625873175, 'inScoring': 0.3747}
-10.) Randy B $ Minn: {'average': 1.6275, 'stddev': 2.4726385392582966, 'inScoring': 0.3565}
-11.) Trevor E $ IU: {'average': 1.2959, 'stddev': 2.475057716610207, 'inScoring': 0.2937}
-12.) Mason R $ ILL: {'average': 1.1767, 'stddev': 2.4612623276608714, 'inScoring': 0.276}
-13.) Corderol C $ Iowa: {'average': 1.0975, 'stddev': 2.4237326448586054, 'inScoring': 0.2601}
-14.) Fletcher Q $ OSU: {'average': 0.9662, 'stddev': 2.4503288096988998, 'inScoring': 0.2335}
-15.) Brandon B $ UConn: {'average': 0.7029, 'stddev': 2.354830889181687, 'inScoring': 0.1816}
-16.) Kamonpob S $ PSU: {'average': 0.6754, 'stddev': 2.471639172761937, 'inScoring': 0.1734}
-17.) Ethan L $ IUPUI: {'average': 0.6701, 'stddev': 2.3960077082505613, 'inScoring': 0.1758}
-18.) Rasheed F $ OSU: {'average': 0.6701, 'stddev': 2.371681252049288, 'inScoring': 0.1768}
-19.) Brandon McG $ JMU: {'average': 0.6523, 'stddev': 2.4722357265252235, 'inScoring': 0.1708}
-20.) Mateusz L $ ILL: {'average': 0.4166, 'stddev': 2.5508516462614446, 'inScoring': 0.1135}
-21.) Dylan K $ OSU: {'average': 0.3166, 'stddev': 2.619972021542436, 'inScoring': 0.0884}
-22.) Sean OH $ MSU: {'average': 0.2944, 'stddev': 2.7314045676361527, 'inScoring': 0.0782}
-23.) Cole B $ PSU: {'average': 0.2839, 'stddev': 2.6680312686229173, 'inScoring': 0.0777}
-24.) Jack L $ MSU: {'average': 0.1843, 'stddev': 2.850566084159991, 'inScoring': 0.0483}
-25.) Brandon C $ Wisc: {'average': 0.1752, 'stddev': 3.023900294887873, 'inScoring': 0.0415}
-26.) Michael J $ UConn: {'average': 0.1704, 'stddev': 3.0111128679766215, 'inScoring': 0.0346}
-27.) Will J $ Wisc: {'average': 0.1683, 'stddev': 3.0175961521888115, 'inScoring': 0.0364}
-28.) Kyle B $ PSU: {'average': 0.1637, 'stddev': 2.7705073043022317, 'inScoring': 0.0401}
-29.) Bryan W $ Wisc: {'average': 0.1354, 'stddev': 2.9703694494924986, 'inScoring': 0.0292}
-30.) Bryce R $ Minn: {'average': 0.1115, 'stddev': 3.0547238966167103, 'inScoring': 0.0224}
-31.) Ryan B $ Cinn: {'average': 0.0964, 'stddev': 3.0699012522238194, 'inScoring': 0.0198}
-32.) Omar T $ UConn: {'average': 0.0953, 'stddev': 3.1126252326063537, 'inScoring': 0.0203}
-33.) Riley H $ Minn: {'average': 0.0903, 'stddev': 3.0620069439540294, 'inScoring': 0.0189}
-34.) Harry W $ UConn: {'average': 0.0831, 'stddev': 3.0832901914137856, 'inScoring': 0.0182}
-35.) Phillp C $ Purdue: {'average': 0.0698, 'stddev': 3.5837592217862024, 'inScoring': 0.0138}
-36.) Melvin I $ Iowa: {'average': 0.0674, 'stddev': 3.837417140228991, 'inScoring': 0.012}
-37.) Tim M $ Wisc: {'average': 0.06, 'stddev': 3.8268323045386774, 'inScoring': 0.0098}
-38.) Brad S $ Mich: {'average': 0.0597, 'stddev': 3.5549228486016906, 'inScoring': 0.0118}
-39.) Derek T $ GVSU: {'average': 0.0469, 'stddev': 1.2618092385248671, 'inScoring': 0.0053}
-40.) Ogochukwu A $ Wisc: {'average': 0.0444, 'stddev': 3.880789087102354, 'inScoring': 0.0082}
-41.) Yashmeet G $ Mich: {'average': 0.0437, 'stddev': 3.68933126814358, 'inScoring': 0.0079}
-42.) Issac M $ JMU: {'average': 0.0362, 'stddev': 1.7635012262691665, 'inScoring': 0.0044}
-43.) Ryan K $ Mich: {'average': 0.0356, 'stddev': 1.6540040468185613, 'inScoring': 0.0044}
-44.) Tyler R $ GVSU: {'average': 0.0342, 'stddev': 2.242874897286527, 'inScoring': 0.0041}
-45.) Tyler S $ Wisc: {'average': 0.034, 'stddev': 1.2623842256763884, 'inScoring': 0.0053}
-46.) Kevin G $ Mich: {'average': 0.0323, 'stddev': 1.5719367529247739, 'inScoring': 0.0039}
-47.) Dylan B $ Maryland: {'average': 0.0319, 'stddev': 1.4306532450188596, 'inScoring': 0.0049}
-48.) Matthew M $ Maryland: {'average': 0.0248, 'stddev': 1.9482265082104402, 'inScoring': 0.0042}
-49.) Stuart S $ OSU: {'average': 0.022, 'stddev': 1.6012815380508714, 'inScoring': 0.004}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                  Daniel K $ Mich                6.4389                   2.528004                   97.33%                      7                         10            
+            2                   Garret S $ IU                 5.7033                   2.707548                   92.99%                      6                         10            
+            3                  Jared D $ Toledo               4.8702                   2.75656                    84.73%                      6                         8             
+            4                   Kebba B $ Iowa                3.5897                   2.745746                   67.67%                      5                         8             
+            5                   Alex B $ IwSt                 3.2179                   2.720955                   61.55%                      5                         7             
+            6                    Drew V $ OSU                 2.541                    2.629841                   50.34%                     5.0                        6             
+            7                  Andrew H $ Mich                2.4625                   2.608899                   49.06%                     5.0                        7             
+            8                  Jeffery M $ PSU                2.3458                   2.573659                   47.16%                     5.0                        6             
+            9                Christopher M $ Iowa             1.7955                   2.511824                   38.3%                      5.0                        4             
+            10                  Randy B $ Minn                1.6664                   2.507972                   36.45%                      4                         2             
+            11                  Trevor E $ IU                 1.3207                   2.473392                   30.15%                      4                         3             
+            12                  Mason R $ ILL                 1.2241                   2.508541                   28.13%                      4                         1             
+            13                Corderol C $ Iowa               1.1227                   2.445412                   26.96%                     4.0                        1             
+            14                 Fletcher Q $ OSU               0.9431                   2.465343                   22.59%                      4                         1             
+            15                Brandon B $ UConn               0.7402                   2.395799                   18.95%                      3                         2             
+            16                 Kamonpob S $ PSU               0.6814                   2.406603                   17.85%                      3                         2             
+            17                 Ethan L $ IUPUI                0.673                    2.386038                   17.68%                     3.0                        1             
+            18                 Rasheed F $ OSU                0.6729                   2.433349                   17.35%                      3                         2             
+            19                Brandon McG $ JMU               0.6689                   2.327022                   17.84%                     3.0                        2             
+            20                 Mateusz L $ ILL                0.4082                   2.47276                    11.27%                      3                         1             
+            21                  Dylan K $ OSU                 0.307                    2.593771                   8.41%                       3                         1             
+            22                  Sean OH $ MSU                 0.3029                   2.698388                   8.14%                      3.0                        1             
+            23                   Cole B $ PSU                 0.2642                   2.509214                   7.72%                      3.0                        1             
+            24                   Jack L $ MSU                 0.1907                   2.979685                    4.6%                      3.0                        1             
+            25                  Will J $ Wisc                 0.1661                   3.015957                   3.61%                       4                         1             
+            26                   Kyle B $ PSU                  0.16                    2.960289                   3.86%                      3.0                        1             
+            27                 Brandon C $ Wisc               0.1583                   3.013039                   3.76%                      3.0                        1             
+            28                Michael J $ UConn               0.1205                   2.976374                   2.78%                      3.5                        1             
+            29                  Bryan W $ Wisc                0.1091                   2.929786                   2.41%                       4                         2             
+            30                  Riley H $ Minn                0.1048                   3.267802                   2.05%                       4                         10            
+            31                  Bryce R $ Minn                0.1043                   2.995618                   2.25%                       4                         2             
+            32                 Harry W $ UConn                0.0966                   3.17225                    2.09%                       4                         2             
+            33                  Ryan B $ Cinn                 0.0909                   3.44063                    1.84%                      4.0                        10            
+            34                  Omar T $ UConn                0.0886                   3.273963                   1.76%                      4.0                        10            
+            35                Phillp C $ Purdue               0.0631                   3.545394                   1.28%                      3.0                        10            
+            36                  Brad S $ Mich                 0.0591                    3.6382                    1.21%                       3                         10            
+            37                Yashmeet G $ Mich               0.0554                   3.800979                    0.9%                      8.0                        10            
+            38                 Melvin I $ Iowa                0.0513                   3.812408                   0.85%                       8                         10            
+            39                  Kevin G $ Mich                0.0478                   1.709728                   0.58%                      8.0                        8             
+            40                Ogochukwu A $ Wisc              0.0462                   3.83458                    0.82%                      6.0                        10            
+            41                   Tim M $ Wisc                 0.0449                   3.674403                   0.81%                       4                         10            
+            42                  Issac M $ JMU                 0.0423                   1.680743                    0.5%                      8.0                        10            
+            43                  Tyler R $ GVSU                0.0393                   1.928805                   0.46%                      8.0                        10            
+            44                Dylan B $ Maryland              0.0388                   1.419795                    0.6%                      7.0                        7             
+            45                  Derek T $ GVSU                0.0364                   1.242866                   0.42%                      8.0                        10            
+            46                  Tyler S $ Wisc                0.0347                   1.755216                   0.51%                       7                         7             
+            47                  Ryan K $ Mich                 0.0346                   1.323797                   0.41%                       8                         8             
+            48               Matthew M $ Maryland             0.0314                   1.833447                   0.57%                       6                         6             
+            49                  Stuart S $ OSU                0.0243                   1.670601                   0.45%                       5                         5             
 
-1.)  Mich: {'average': 9.0948, 'stddev': 3.994836424407047}
-2.)  IU: {'average': 6.9746, 'stddev': 3.5754944847168493}
-3.)  Iowa: {'average': 6.4377, 'stddev': 4.147217822708128}
-4.)  Toledo: {'average': 4.9358, 'stddev': 2.7672950920132346}
-5.)  OSU: {'average': 4.5441, 'stddev': 3.711350314254667}
-6.)  PSU: {'average': 3.5546, 'stddev': 3.293652572616691}
-7.)  IwSt: {'average': 3.2245, 'stddev': 2.6802417081446053}
-8.)  Minn: {'average': 1.8293, 'stddev': 2.703666596516885}
-9.)  ILL: {'average': 1.5933, 'stddev': 2.7529442111320988}
-10.) UConn: {'average': 1.0517, 'stddev': 2.8806831714795673}
-11.) JMU: {'average': 0.6885, 'stddev': 2.604582629014047}
-12.) IUPUI: {'average': 0.6701, 'stddev': 2.3960077082505613}
-13.) Wisc: {'average': 0.6173, 'stddev': 3.3188024731983625}
-14.) MSU: {'average': 0.4787, 'stddev': 2.826629884694495}
-15.) Cinn: {'average': 0.0964, 'stddev': 3.0699012522238194}
-16.) GVSU: {'average': 0.0811, 'stddev': 1.7657679346373252}
-17.) Purdue: {'average': 0.0698, 'stddev': 3.5837592217862024}
-18.) Maryland: {'average': 0.0567, 'stddev': 1.7066987176477613}
+         Position                    Team                    Average                    Stddev          
+            1                        Mich                     9.098                    4.066735         
+            2                         IU                      7.024                    3.570649         
+            3                        Iowa                     6.5589                   4.193778         
+            4                       Toledo                    4.8702                   2.75656          
+            5                        OSU                      4.4871                   3.733505         
+            6                        PSU                      3.4514                   3.278841         
+            7                        IwSt                     3.2179                   2.720955         
+            8                        Minn                     1.8755                   2.759445         
+            9                        ILL                      1.6323                   2.804805         
+            10                      UConn                     1.0459                   2.849056         
+            11                       JMU                      0.7112                   2.510913         
+            12                      IUPUI                     0.673                    2.386038         
+            13                       Wisc                     0.5593                   3.420554         
+            14                       MSU                      0.4936                   2.860812         
+            15                       Cinn                     0.0909                   3.44063          
+            16                       GVSU                     0.0757                   1.629751         
+            17                     Maryland                   0.0702                   1.696853         
+            18                      Purdue                    0.0631                   3.545394         
 
-TJ:
+-----------------------------TJ-----------------------------
 
-1.)  Kebba B $ Iowa: {'average': 9.2809, 'stddev': 1.138299065481584, 'inScoring': 1.0}
-2.)  Abdul M $ IwSt: {'average': 5.6129, 'stddev': 2.269059699361992, 'inScoring': 0.9847}
-3.)  Randy B $ Minn: {'average': 5.3214, 'stddev': 2.362812977285423, 'inScoring': 0.9739}
-4.)  Hunter C $ Wisc: {'average': 5.0268, 'stddev': 2.39558085701839, 'inScoring': 0.9598}
-5.)  Peter VB $ Wisc: {'average': 3.2454, 'stddev': 2.399147734114863, 'inScoring': 0.7509}
-6.)  Mateusz L $ ILL: {'average': 3.1868, 'stddev': 2.3866263715167744, 'inScoring': 0.7333}
-7.)  Brandon B $ UConn: {'average': 3.041, 'stddev': 2.3770869653154767, 'inScoring': 0.7215}
-8.)  Kyle P $ PSU: {'average': 2.8536, 'stddev': 2.3452696144132976, 'inScoring': 0.6792}
-9.)  Neil B $ OSU: {'average': 2.698, 'stddev': 2.349025678463838, 'inScoring': 0.6554}
-10.) Jack L $ MSU: {'average': 2.2733, 'stddev': 2.296515749640552, 'inScoring': 0.5619}
-11.) Sean OH $ MSU: {'average': 1.5185, 'stddev': 2.1746544878192937, 'inScoring': 0.4027}
-12.) Trevor E $ IU: {'average': 1.1079, 'stddev': 2.1544027733893754, 'inScoring': 0.3178}
-13.) Michael J $ UConn: {'average': 0.3056, 'stddev': 2.2702548813786185, 'inScoring': 0.102}
-14.) Hameed O $ ILL: {'average': 0.2391, 'stddev': 2.282803593116105, 'inScoring': 0.0846}
-15.) Will J $ Wisc: {'average': 0.1328, 'stddev': 2.9965278002968474, 'inScoring': 0.0326}
-16.) Riley H $ Minn: {'average': 0.1194, 'stddev': 2.70965207322588, 'inScoring': 0.0345}
-17.) Dylan B $ Maryland: {'average': 0.0366, 'stddev': 0.9066538017009377, 'inScoring': 0.0052}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                   Kebba B $ Iowa                9.2516                   1.15023                    100.0%                     10.0                       10            
+            2                   Abdul M $ IwSt                5.6086                   2.275079                   98.22%                     6.0                        8             
+            3                   Randy B $ Minn                5.2916                   2.334212                   97.46%                     6.0                        8             
+            4                  Hunter C $ Wisc                5.0816                   2.415836                   95.84%                     5.0                        8             
+            5                  Peter VB $ Wisc                3.2735                   2.441993                   75.05%                      4                         1             
+            6                  Mateusz L $ ILL                3.1689                   2.415897                   73.95%                      4                         1             
+            7                 Brandon B $ UConn               3.0151                   2.367602                   71.47%                      4                         1             
+            8                    Kyle P $ PSU                 2.8938                   2.360612                   68.35%                      4                         1             
+            9                    Neil B $ OSU                 2.6641                   2.347583                   65.17%                      4                         1             
+            10                   Jack L $ MSU                 2.228                    2.265667                   55.6%                      4.0                        1             
+            11                  Sean OH $ MSU                 1.5473                   2.19945                    40.67%                      4                         1             
+            12                  Trevor E $ IU                  1.16                    2.178029                   32.41%                      3                         1             
+            13                Michael J $ UConn               0.3006                   2.160137                   10.63%                      2                         1             
+            14                  Hameed O $ ILL                0.254                    2.477769                   8.02%                      2.0                        1             
+            15                  Riley H $ Minn                0.1243                   2.691389                   3.74%                      2.0                        1             
+            16                  Will J $ Wisc                 0.1118                   2.816029                   3.07%                       3                         1             
+            17                Dylan B $ Maryland              0.0252                   0.90098                    0.35%                       7                         8             
 
-1.)  Iowa: {'average': 9.2809, 'stddev': 1.138299065481584}
-2.)  Wisc: {'average': 8.405, 'stddev': 3.649351843709207}
-3.)  IwSt: {'average': 5.6129, 'stddev': 2.269059699361992}
-4.)  Minn: {'average': 5.4408, 'stddev': 2.4903263261017092}
-5.)  MSU: {'average': 3.7918, 'stddev': 3.023754527729755}
-6.)  ILL: {'average': 3.4259, 'stddev': 2.587383523851151}
-7.)  UConn: {'average': 3.3466, 'stddev': 2.6001135645461586}
-8.)  PSU: {'average': 2.8536, 'stddev': 2.3452696144132976}
-9.)  OSU: {'average': 2.698, 'stddev': 2.349025678463838}
-10.) IU: {'average': 1.1079, 'stddev': 2.1544027733893754}
-11.) Maryland: {'average': 0.0366, 'stddev': 0.9066538017009377}
+         Position                    Team                    Average                    Stddev          
+            1                        Iowa                     9.2516                   1.15023          
+            2                        Wisc                     8.4669                   3.650374         
+            3                        IwSt                     5.6086                   2.275079         
+            4                        Minn                     5.4159                   2.438869         
+            5                        MSU                      3.7753                   3.015578         
+            6                        ILL                      3.4229                   2.632785         
+            7                       UConn                     3.3157                   2.590573         
+            8                        PSU                      2.8938                   2.360612         
+            9                        OSU                      2.6641                   2.347583         
+            10                        IU                       1.16                    2.178029         
+            11                     Maryland                   0.0252                   0.90098          
 
-HJ:
+-----------------------------HJ-----------------------------
 
-1.)  Hameed O $ ILL: {'average': 8.23, 'stddev': 1.6255350615793074, 'inScoring': 1.0}
-2.)  Abdul M $ IwSt: {'average': 8.089, 'stddev': 1.6189938585774226, 'inScoring': 1.0}
-3.)  Kevin G $ Mich: {'average': 5.5653, 'stddev': 2.1134746451735476, 'inScoring': 0.9967}
-4.)  Dustin H $ IwSt: {'average': 4.7302, 'stddev': 2.2181105219319, 'inScoring': 0.9823}
-5.)  Trevor E $ IU: {'average': 4.6578, 'stddev': 2.2528905396822276, 'inScoring': 0.9839}
-6.)  Sean OH $ MSU: {'average': 4.5294, 'stddev': 2.2562788410784558, 'inScoring': 0.9818}
-7.)  Thomas L $ GWU: {'average': 3.5063, 'stddev': 2.190503900538593, 'inScoring': 0.9071}
-8.)  Michael J $ UConn: {'average': 3.4329, 'stddev': 2.2269854963581985, 'inScoring': 0.8968}
-9.)  Phillip C $ Purdue: {'average': 1.2416, 'stddev': 1.954300199718878, 'inScoring': 0.4432}
-10.) Harry W $ UConn: {'average': 0.6817, 'stddev': 1.835731057981907, 'inScoring': 0.2884}
-11.) Kiry K $ Minn: {'average': 0.4554, 'stddev': 1.8782342421214502, 'inScoring': 0.1989}
-12.) John K $ Iowa: {'average': 0.4091, 'stddev': 1.789536690356028, 'inScoring': 0.182}
-13.) Mike K $ ILL: {'average': 0.1525, 'stddev': 2.6651474600255045, 'inScoring': 0.0589}
-14.) Michael J $ ILL: {'average': 0.0768, 'stddev': 3.384597078264849, 'inScoring': 0.0192}
-15.) Rodney M $ IU: {'average': 0.0668, 'stddev': 3.412802195007707, 'inScoring': 0.0172}
-16.) Jonathan S $ MSU: {'average': 0.0664, 'stddev': 3.394388838727128, 'inScoring': 0.0179}
-17.) Evan K $ Wisc: {'average': 0.065, 'stddev': 3.3070688693107, 'inScoring': 0.0171}
-18.) Johnathan S $ MSU: {'average': 0.0438, 'stddev': 3.4423928304963693, 'inScoring': 0.0086}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                   Abdul M $ IwSt                8.2276                   1.623102                   100.0%                     8.0                        10            
+            2                   Hameed O $ ILL                8.1289                   1.608398                   100.0%                     8.0                        10            
+            3                   Kevin G $ Mich                5.5564                   2.096074                   99.76%                     6.0                        5             
+            4                  Dustin H $ IwSt                 4.73                    2.216011                   98.28%                     5.0                        4             
+            5                   Sean OH $ MSU                 4.624                    2.239769                   98.07%                      5                         3             
+            6                   Trevor E $ IU                 4.5663                   2.243388                   98.25%                      4                         5             
+            7                   Thomas L $ GWU                3.4808                   2.205425                   90.01%                      4                         2             
+            8                 Michael J $ UConn               3.3995                   2.223126                   89.21%                      3                         2             
+            9                 Phillip C $ Purdue              1.2761                   1.929849                   46.05%                      2                         1             
+            10                 Harry W $ UConn                0.6918                   1.85836                    28.49%                      2                         1             
+            11                  John K $ Iowa                 0.4536                   1.893565                   19.61%                      2                         1             
+            12                  Kiry K $ Minn                 0.4282                   1.971943                   18.31%                      2                         1             
+            13                   Mike K $ ILL                 0.1454                   2.59764                    5.68%                      1.0                        1             
+            14                 Jonathan S $ MSU               0.0679                   3.049034                   2.02%                      2.0                        1             
+            15                 Michael J $ ILL                0.066                    3.243342                   1.86%                      2.0                        1             
+            16                  Evan K $ Wisc                 0.0651                   3.189324                    1.9%                      2.0                        1             
+            17                  Rodney M $ IU                  0.06                    3.154572                   1.69%                       2                         1             
+            18                Johnathan S $ MSU               0.0324                   3.424179                   0.81%                       2                         1             
 
-1.)  IwSt: {'average': 12.8192, 'stddev': 2.692106257860258}
-2.)  ILL: {'average': 8.4593, 'stddev': 1.9292785495029372}
-3.)  Mich: {'average': 5.5653, 'stddev': 2.1134746451735476}
-4.)  IU: {'average': 4.7246, 'stddev': 2.3401168508247587}
-5.)  MSU: {'average': 4.6396, 'stddev': 2.391299588503519}
-6.)  UConn: {'average': 4.1146, 'stddev': 2.575706035264926}
-7.)  GWU: {'average': 3.5063, 'stddev': 2.190503900538593}
-8.)  Purdue: {'average': 1.2416, 'stddev': 1.954300199718878}
-9.)  Minn: {'average': 0.4554, 'stddev': 1.8782342421214502}
-10.) Iowa: {'average': 0.4091, 'stddev': 1.789536690356028}
-11.) Wisc: {'average': 0.065, 'stddev': 3.3070688693107}
+         Position                    Team                    Average                    Stddev          
+            1                        IwSt                    12.9576                   2.69995          
+            2                        ILL                      8.3403                   1.898646         
+            3                        Mich                     5.5564                   2.096074         
+            4                        MSU                      4.7243                   2.355661         
+            5                         IU                      4.6263                   2.314042         
+            6                       UConn                     4.0913                   2.584584         
+            7                        GWU                      3.4808                   2.205425         
+            8                       Purdue                    1.2761                   1.929849         
+            9                        Iowa                     0.4536                   1.893565         
+            10                       Minn                     0.4282                   1.971943         
+            11                       Wisc                     0.0651                   3.189324         
 
-Shot:
+-----------------------------Shot-----------------------------
 
-1.)  Michael F $ Wisc: {'average': 9.7231, 'stddev': 0.7273783732898532, 'inScoring': 1.0}
-2.)  Kevin Y $ Mich: {'average': 6.2459, 'stddev': 1.6131005546276196, 'inScoring': 1.0}
-3.)  Thomas N $ ILL: {'average': 6.0193, 'stddev': 1.7252898807207013, 'inScoring': 1.0}
-4.)  Tyler D $ IU: {'average': 5.7623, 'stddev': 1.745538140614531, 'inScoring': 1.0}
-5.)  Salvaor R $ ILL: {'average': 5.2995, 'stddev': 1.8754813458163289, 'inScoring': 0.9988}
-6.)  Tristian N $ JMU: {'average': 4.8927, 'stddev': 1.9248098466696313, 'inScoring': 0.9977}
-7.)  Garrett S $ PSU: {'average': 3.8873, 'stddev': 1.8986112137493782, 'inScoring': 0.9891}
-8.)  Bob C $ Mich: {'average': 1.3628, 'stddev': 1.4073565186580392, 'inScoring': 0.647}
-9.)  Zach T $ UConn: {'average': 1.2247, 'stddev': 1.4381440397298846, 'inScoring': 0.589}
-10.) Liam N $ ILL: {'average': 0.4216, 'stddev': 1.3893776301804521, 'inScoring': 0.2347}
-11.) Noah N $ Mich: {'average': 0.1562, 'stddev': 1.7620978755031107, 'inScoring': 0.0845}
-12.) Greg McL $ ILL: {'average': 0.1503, 'stddev': 1.581276978632963, 'inScoring': 0.0863}
-13.) Bobby S $ PSU: {'average': 0.1371, 'stddev': 1.8208139546099602, 'inScoring': 0.0718}
-14.) Charles M $ ILL: {'average': 0.1353, 'stddev': 1.9766828132295404, 'inScoring': 0.0666}
-15.) Mike G $ Iowa: {'average': 0.1214, 'stddev': 1.746415885432198, 'inScoring': 0.0657}
-16.) Paul P $ UConn: {'average': 0.0844, 'stddev': 2.0189971462151313, 'inScoring': 0.0419}
-17.) Timothy B $ Mich: {'average': 0.0572, 'stddev': 2.7029596744416278, 'inScoring': 0.0206}
-18.) TJ K $ Wisc: {'average': 0.051, 'stddev': 2.613892598145131, 'inScoring': 0.0177}
-19.) Jonathan D $ UConn: {'average': 0.0388, 'stddev': 2.639087347799724, 'inScoring': 0.0103}
-20.) Jeremiah D $ Mich: {'average': 0.0379, 'stddev': 2.513546015730818, 'inScoring': 0.0103}
-21.) Charles M $ IU: {'average': 0.0361, 'stddev': 2.5687628854345896, 'inScoring': 0.0092}
-22.) David B $ ILL: {'average': 0.0356, 'stddev': 2.619428088108534, 'inScoring': 0.0096}
-23.) Robert S $ UConn: {'average': 0.0178, 'stddev': 1.0909647481163876, 'inScoring': 0.005}
-24.) Zach S $ ILL: {'average': 0.0164, 'stddev': 1.0451104689246453, 'inScoring': 0.0055}
-25.) Riley N $ IU: {'average': 0.0155, 'stddev': 0.9525793444156804, 'inScoring': 0.0054}
-26.) Connor M $ ILL: {'average': 0.0143, 'stddev': 0.9320140651872275, 'inScoring': 0.0053}
-27.) Jake R $ PSU: {'average': 0.0139, 'stddev': 0.9143516615826545, 'inScoring': 0.0056}
-28.) Brandon F $ Delaware: {'average': 0.0116, 'stddev': 0.8363712741435829, 'inScoring': 0.0046}
-29.) Paul F $ ILL: {'average': 0.0083, 'stddev': 0.6832545167753211, 'inScoring': 0.0049}
-30.) Andrew B $ ILL: {'average': 0.008, 'stddev': 0.6555401351231357, 'inScoring': 0.0042}
-31.) Karl T $ Wisc: {'average': 0.0071, 'stddev': 0.8292693697995168, 'inScoring': 0.0037}
-32.) Daniel G $ PSU: {'average': 0.0034, 'stddev': 0.4898979485566356, 'inScoring': 0.0025}
-33.) Calan F $ Mich: {'average': 0.003, 'stddev': 0.47047196889696474, 'inScoring': 0.0023}
-34.) Kyle M $ UConn: {'average': 0.0002, 'stddev': 0.0, 'inScoring': 0.0002}
+         Position                Athlete/Team                Average                    Stddev                  In Scoring                  Median                     Mode           
+            1                  Michael F $ Wisc               9.724                    0.720192                   100.0%                     10.0                       10            
+            2                   Kevin Y $ Mich                6.2513                   1.605601                   99.99%                      6                         8             
+            3                   Thomas N $ ILL                5.986                    1.733327                   99.99%                      6                         7             
+            4                    Tyler D $ IU                 5.7805                   1.743957                   99.99%                      6                         7             
+            5                  Salvaor R $ ILL                5.2893                   1.859377                   99.95%                      5                         4             
+            6                  Tristian N $ JMU               4.9189                   1.933997                   99.81%                      5                         4             
+            7                  Garrett S $ PSU                3.8729                   1.896742                   98.98%                     3.0                        3             
+            8                    Bob C $ Mich                 1.3893                   1.468628                   64.98%                     2.0                        1             
+            9                   Zach T $ UConn                1.2506                   1.465081                   59.78%                     2.0                        1             
+            10                   Liam N $ ILL                 0.3887                   1.222344                   22.92%                     1.0                        1             
+            11                  Greg McL $ ILL                0.1582                   1.684135                   8.95%                       1                         1             
+            12                  Noah N $ Mich                 0.1538                   1.629936                   8.65%                       1                         1             
+            13                  Bobby S $ PSU                 0.1359                   1.957451                   6.85%                       1                         1             
+            14                 Charles M $ ILL                0.1211                   1.74552                    6.32%                      1.0                        1             
+            15                  Mike G $ Iowa                 0.119                    1.890476                   6.23%                       1                         1             
+            16                  Paul P $ UConn                0.0852                   2.101181                   4.06%                      1.0                        1             
+            17                 Timothy B $ Mich               0.0622                   2.658951                   2.17%                       1                         1             
+            18                   TJ K $ Wisc                  0.0528                   2.711288                   1.71%                       2                         1             
+            19                Jeremiah D $ Mich               0.0422                   2.579434                   1.05%                       5                         1             
+            20                  David B $ ILL                 0.0401                   2.557903                    1.1%                      3.0                        1             
+            21                  Charles M $ IU                0.0366                   2.351859                   0.95%                       5                         1             
+            22                Jonathan D $ UConn              0.0325                   2.754748                    0.9%                      2.0                        1             
+            23                   Riley N $ IU                 0.0179                   1.166497                   0.56%                      3.0                        3             
+            24                   Jake R $ PSU                 0.014                    0.755929                    0.5%                      3.0                        3             
+            25                   Zach S $ ILL                 0.014                    1.128211                   0.53%                       3                         2             
+            26                 Robert S $ UConn               0.0123                   1.136441                   0.39%                       3                         3             
+            27               Brandon F $ Delaware             0.0119                   0.816497                   0.49%                       2                         2             
+            28                  Connor M $ ILL                0.0085                   0.830298                   0.33%                       2                         2             
+            29                  Andrew B $ ILL                0.0084                   0.612372                   0.49%                       2                         2             
+            30                   Paul F $ ILL                 0.0076                   0.727008                   0.44%                      2.0                        1             
+            31                  Karl T $ Wisc                 0.0061                   0.769865                   0.34%                      2.0                        2             
+            32                  Daniel G $ PSU                0.0043                   0.508548                   0.29%                       1                         1             
+            33                  Calan F $ Mich                0.0038                   0.449776                    0.3%                      1.0                        1             
+            34                  Kyle M $ UConn                0.0001                      0                       0.01%                       1                         1             
 
-1.)  ILL: {'average': 12.0834, 'stddev': 2.652272213553782}
-2.)  Wisc: {'average': 9.7812, 'stddev': 0.8965528097630777}
-3.)  Mich: {'average': 7.863, 'stddev': 2.311009536221703}
-4.)  IU: {'average': 5.8139, 'stddev': 1.8027178839676823}
-5.)  JMU: {'average': 4.8927, 'stddev': 1.9248098466696313}
-6.)  PSU: {'average': 4.0417, 'stddev': 2.017821380233855}
-7.)  UConn: {'average': 1.3659, 'stddev': 1.6074441256301673}
-8.)  Iowa: {'average': 0.1214, 'stddev': 1.746415885432198}
-9.)  Delaware: {'average': 0.0116, 'stddev': 0.8363712741435829}
+         Position                    Team                    Average                    Stddev          
+            1                        ILL                     11.9976                   2.641116         
+            2                        Wisc                     9.7829                   0.899471         
+            3                        Mich                     7.9026                   2.330162         
+            4                         IU                      5.835                    1.820613         
+            5                        JMU                      4.9189                   1.933997         
+            6                        PSU                      4.0271                   2.015474         
+            7                       UConn                     1.3807                   1.608164         
+            8                        Iowa                     0.119                    1.890476         
+            9                      Delaware                   0.0119                   0.816497         
 
-Meet Score:
-1.)  ILL: {'stddev': 11.5578, 'points': 83.74}
-2.)  Wisc: {'stddev': 11.432, 'points': 66.73}
-3.)  IU: {'stddev': 11.1304, 'points': 65.81}
-4.)  Mich: {'stddev': 10.5974, 'points': 64.53}
-5.)  PSU: {'stddev': 9.4831, 'points': 50.86}
-6.)  IwSt: {'stddev': 8.6953, 'points': 46.72}
-7.)  Maryland: {'stddev': 5.9384, 'points': 45.01}
-8.)  Iowa: {'stddev': 9.0566, 'points': 38.51}
-9.)  OSU: {'stddev': 7.7553, 'points': 29.35}
-10.) Minn: {'stddev': 7.798, 'points': 27.84}
-11.) UConn: {'stddev': 6.8967, 'points': 25.68}
-12.) MSU: {'stddev': 6.8601, 'points': 22.25}
-13.) Purdue: {'stddev': 5.8549, 'points': 10.24}
-14.) GTWN: {'stddev': 4.7855, 'points': 7.44}
-15.) Miami: {'stddev': 4.0297, 'points': 6.13}
-16.) JMU: {'stddev': 3.2386, 'points': 5.58}
-17.) CMU: {'stddev': 3.4375, 'points': 5.15}
-18.) Toledo: {'stddev': 2.7673, 'points': 4.94}
-19.) GVSU: {'stddev': 2.7844, 'points': 3.95}
-20.) GWU: {'stddev': 2.1905, 'points': 3.51}
-21.) Pitt: {'stddev': 2.5806, 'points': 3.44}
-22.) WVU: {'stddev': 3.1864, 'points': 3.02}
-23.) Delaware: {'stddev': 3.604, 'points': 2.67}
-24.) Toldeo: {'stddev': 2.3325, 'points': 1.97}
-25.) UVA: {'stddev': 2.6558, 'points': 1.96}
-26.) Cinn: {'stddev': 4.1236, 'points': 1.87}
-27.) Mizzou: {'stddev': 2.2871, 'points': 1.39}
-28.) ND: {'stddev': 1.3881, 'points': 1.19}
-29.) IUPUI: {'stddev': 2.396, 'points': 0.67}
-30.) BGSU: {'stddev': 0.98, 'points': 0.07}
-31.) NW: {'stddev': 0.6243, 'points': 0.0}
+-----------------------------Meet Score-----------------------------
 
-Meet Score:
-1.)  ILL: {'points': 85}
-2.)  IU: {'points': 77}
-3.)  Wisc: {'points': 76}
-4.)  Mich: {'points': 65}
-5.)  IwSt: {'points': 58}
-6.)  PSU: {'points': 57}
-7.)  Maryland: {'points': 43}
-8.)  Iowa: {'points': 40}
-9.)  Minn: {'points': 30}
-10.) OSU: {'points': 23}
-11.) UConn: {'points': 22}
-12.) MSU: {'points': 18}
-13.) Purdue: {'points': 13}
-14.) Miami: {'points': 8}
-15.) Toledo: {'points': 7}
-16.) JMU: {'points': 4}
-17.) GVSU: {'points': 4}
-18.) GTWN: {'points': 3}
-19.) GWU: {'points': 3}
-20.) Pitt: {'points': 2}
-21.) CMU: {'points': 1}
+         Position                    Team                 Average points                Stddev          
+            1                        ILL                       83.6                   11.545525         
+            2                        Wisc                     66.64                   11.422278         
+            3                         IU                      65.83                   11.117643         
+            4                        Mich                     64.32                   10.563859         
+            5                        PSU                      50.88                    9.416283         
+            6                        IwSt                     46.93                    8.776616         
+            7                      Maryland                   45.03                    5.928361         
+            8                        Iowa                     38.72                    9.167786         
+            9                        OSU                      29.25                    7.713123         
+            10                       Minn                     27.81                    7.823207         
+            11                      UConn                     25.55                    6.893782         
+            12                       MSU                       22.4                    6.876099         
+            13                      Purdue                    10.31                    5.810266         
+            14                       GTWN                      7.54                    4.84133          
+            15                      Miami                      6.11                    4.04622          
+            16                       JMU                       5.63                    3.169389         
+            17                       CMU                       5.11                    3.388981         
+            18                      Toledo                     4.87                    2.75656          
+            19                       GVSU                      3.93                    2.720729         
+            20                       GWU                       3.48                    2.205425         
+            21                       Pitt                      3.45                    2.486189         
+            22                       WVU                       3.02                    3.131293         
+            23                     Delaware                    2.63                    3.628252         
+            24                       UVA                       1.99                    2.660928         
+            25                      Toldeo                     1.96                    2.323076         
+            26                       Cinn                      1.87                    4.433293         
+            27                      Mizzou                     1.41                    2.267478         
+            28                        ND                       1.21                    1.404671         
+            29                      IUPUI                      0.67                    2.386038         
+            30                       BGSU                      0.07                    1.084986         
+            31                        NW                       0.0                     1.258955         
+
+-----------------------------Meet Score:-----------------------------
+
+         Position                    Team                     Points          
+            1                        ILL                  {'points': 83}      
+            2                         IU                  {'points': 76}      
+            3                        Wisc                 {'points': 76}      
+            4                        Mich                 {'points': 65}      
+            5                        IwSt                 {'points': 60}      
+            6                        PSU                  {'points': 57}      
+            7                      Maryland               {'points': 43}      
+            8                        Iowa                 {'points': 40}      
+            9                        Minn                 {'points': 30}      
+            10                       OSU                  {'points': 23}      
+            11                      UConn                 {'points': 22}      
+            12                       MSU                  {'points': 19}      
+            13                      Purdue                {'points': 13}      
+            14                      Miami                 {'points': 8}       
+            15                      Toledo                {'points': 7}       
+            16                       GVSU                 {'points': 4}       
+            17                       JMU                  {'points': 4}       
+            18                       GWU                  {'points': 3}       
+            19                       GTWN                 {'points': 3}       
+            20                       Pitt                 {'points': 2}       
+            21                       CMU                  {'points': 1}       
