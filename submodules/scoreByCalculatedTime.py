@@ -65,4 +65,6 @@ def scoreByCalculatedTime(resultList, filename):
   sortedMeetScores = sorted(meetScore.items(), key=itemgetter(1), reverse=True)
   textOut.printMeetScores(textOutput, sortedMeetScores)
 
+  textOutput.close()
+
   helpers.printDuration('Finished scoring by calculated time', scoreByPureTime, time.time())

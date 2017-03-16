@@ -12,16 +12,16 @@ Position            Name                Club                Calculated Time     
 8                   Daisy O             OSU                 13.66               13.7                13.7                
 9                   Borchueh W          GTWN                13.72               13.72               13.72               
 
-Position                  Team                      Points                    Count                     
-1                         ILL                       10                        1                         
-2                         IU                        8                         1                         
-3                         IwSt                      7                         1                         
-4                         Iowa                      6                         1                         
-5                         PSU                       5                         1                         
-6                         Delaware                  4                         1                         
-7                         MSU                       3                         1                         
-8                         OSU                       2                         1                         
-9                         GTWN                      1                         1                         
+Position       Team           Points         Count          
+1              ILL            10             1              
+2              IU             8              1              
+3              IwSt           7              1              
+4              Iowa           6              1              
+5              PSU            5              1              
+6              Delaware       4              1              
+7              MSU            3              1              
+8              OSU            2              1              
+9              GTWN           1              1              
 
 -----------------------------200m-----------------------------
 
@@ -36,16 +36,16 @@ Position            Name                Club                Calculated Time     
 8                   Borchueh W          GTWN                27.85               27.85               27.85               
 9                   Kellie L            Iowa                27.87               28.13               28.28               
 
-Position                  Team                      Points                    Count                     
-1                         ILL                       10                        1                         
-2                         PSU                       8                         1                         
-3                         IU                        7                         1                         
-4                         OSU                       6                         1                         
-5                         Delaware                  5                         1                         
-6                         Wisc                      4                         1                         
-7                         JMU                       3                         1                         
-8                         GTWN                      2                         1                         
-9                         Iowa                      1                         1                         
+Position       Team           Points         Count          
+1              ILL            10             1              
+2              PSU            8              1              
+3              IU             7              1              
+4              OSU            6              1              
+5              Delaware       5              1              
+6              Wisc           4              1              
+7              JMU            3              1              
+8              GTWN           2              1              
+9              Iowa           1              1              
 
 -----------------------------400m-----------------------------
 
@@ -60,14 +60,14 @@ Position            Name                Club                Calculated Time     
 8                   Alexandria C        Mich                64.31               64.31               64.31               
 9                   Jill B              PSU                 64.52               64.52               64.52               
 
-Position                  Team                      Points                    Count                     
-1                         ILL                       10                        1                         
-2                         Mich                      8                         2                         
-3                         OSU                       8                         1                         
-4                         Wisc                      7                         1                         
-5                         PSU                       5                         2                         
-6                         Iowa                      5                         1                         
-7                         UVA                       3                         1                         
+Position       Team           Points         Count          
+1              ILL            10             1              
+2              Mich           8              2              
+3              OSU            8              1              
+4              Wisc           7              1              
+5              PSU            5              2              
+6              Iowa           5              1              
+7              UVA            3              1              
 
 -----------------------------800m-----------------------------
 
@@ -82,57 +82,57 @@ Position            Name                Club                Calculated Time     
 8                   Lauren McG          MSU                 148.45              147.86              147.86              
 9                   Nicole M            MSU                 147.98              148.34              148.92              
 
-Position                  Team                      Points                    Count                     
-1                         Wisc                      23                        3                         
-2                         MSU                       10                        3                         
-3                         PSU                       6                         1                         
-4                         OSU                       4                         1                         
-5                         GTWN                      3                         1                         
+Position       Team           Points         Count          
+1              Wisc           23             3              
+2              MSU            10             3              
+3              PSU            6              1              
+4              OSU            4              1              
+5              GTWN           3              1              
 
 -----------------------------1500m-----------------------------
 
 Position            Name                Club                Calculated Time     Mean                Median              
-1                   Erin Z              MSU                 288.86              289.4               289.61              
+1                   Erin Z              MSU                 288.86              289.4               289.6               
 2                   Emily W             IU                  290.58              290.58              290.58              
 3                   Nicole M            MSU                 301.44              301.14              300.83              
 4                   Maddie P            Minn                298.56              301.34              298.36              
 5                   Katlyn A            IwSt                301.88              301.88              301.88              
 6                   Molly M             Mich                302.4               302.4               302.4               
-7                   Ariane A            PSU                 302.86              303.35              303.35              
+7                   Ariane A            PSU                 302.86              303.34              303.34              
 8                   Madeleine P         Wisc                302.9               303.51              304.06              
 9                   Kristina K          ND                  304.62              304.62              304.62              
 
-Position                  Team                      Points                    Count                     
-1                         MSU                       17                        2                         
-2                         IU                        8                         1                         
-3                         Minn                      6                         1                         
-4                         IwSt                      5                         1                         
-5                         Mich                      4                         1                         
-6                         PSU                       3                         1                         
-7                         Wisc                      2                         1                         
-8                         ND                        1                         1                         
+Position       Team           Points         Count          
+1              MSU            17             2              
+2              IU             8              1              
+3              Minn           6              1              
+4              IwSt           5              1              
+5              Mich           4              1              
+6              PSU            3              1              
+7              Wisc           2              1              
+8              ND             1              1              
 
 -----------------------------5000m-----------------------------
 
 Position            Name                Club                Calculated Time     Mean                Median              
-1                   Emily W             IU                  1093.39             1092.01             1092.01             
+1                   Emily W             IU                  1093.39             1092.0              1092.0              
 2                   Chelsea W           NE                  1102.77             1102.77             1102.77             
 3                   Anna P              Mich                1103.04             1103.04             1103.04             
-4                   Ariane A            PSU                 1106.54             1106.75             1106.75             
-5                   Jenny S             OSU                 1102.75             1111.51             1111.51             
+4                   Ariane A            PSU                 1106.53             1106.75             1106.75             
+5                   Jenny S             OSU                 1102.75             1111.52             1111.52             
 6                   Colleen C           Mich                1115.95             1113.97             1113.97             
 7                   Suzanne S           PSU                 1115.68             1115.68             1115.68             
 8                   Erin Z              MSU                 1117.34             1117.34             1117.34             
 9                   Jenny O             Pitt                1123.77             1123.77             1123.77             
 
-Position                  Team                      Points                    Count                     
-1                         Mich                      11                        2                         
-2                         IU                        10                        1                         
-3                         PSU                       9                         2                         
-4                         NE                        8                         1                         
-5                         OSU                       5                         1                         
-6                         MSU                       2                         1                         
-7                         Pitt                      1                         1                         
+Position       Team           Points         Count          
+1              Mich           11             2              
+2              IU             10             1              
+3              PSU            9              2              
+4              NE             8              1              
+5              OSU            5              1              
+6              MSU            2              1              
+7              Pitt           1              1              
 
 -----------------------------100m HH-----------------------------
 
@@ -147,14 +147,14 @@ Position            Name                Club                Calculated Time     
 8                   Jaclyn G            IU                  17.76               17.76               17.76               
 9                   Colleen B           BGSU                17.78               17.78               17.78               
 
-Position                  Team                      Points                    Count                     
-1                         PSU                       16                        2                         
-2                         IU                        9                         2                         
-3                         UConn                     8                         1                         
-4                         Delaware                  5                         1                         
-5                         ILL                       4                         1                         
-6                         Maryland                  3                         1                         
-7                         BGSU                      1                         1                         
+Position       Team           Points         Count          
+1              PSU            16             2              
+2              IU             9              2              
+3              UConn          8              1              
+4              Delaware       5              1              
+5              ILL            4              1              
+6              Maryland       3              1              
+7              BGSU           1              1              
 
 -----------------------------3000m Steeplechase-----------------------------
 
@@ -164,8 +164,8 @@ Position            Name                Club                Calculated Time     
 3                   Rachel N            Maryland            806.4               806.4               806.4               
 4                   Erin L              Maryland            811.8               811.8               811.8               
 
-Position                  Team                      Points                    Count                     
-1                         Maryland                  25                        3                         
+Position       Team           Points         Count          
+1              Maryland       25             3              
 
 -----------------------------4x400m-----------------------------
 
@@ -180,16 +180,16 @@ Position            Club                Calculated Time     Mean                
 8                   Mich                279.52              277.18              274.0               
 9                   WVU                 277.26              277.26              277.26              
 
-Position                  Team                      Points                    Count                     
-1                         Wisc                      10                        1                         
-2                         PSU                       8                         1                         
-3                         ILL                       7                         1                         
-4                         Iowa                      6                         1                         
-5                         OSU                       5                         1                         
-6                         MSU                       4                         1                         
-7                         IwSt                      3                         1                         
-8                         Mich                      2                         1                         
-9                         WVU                       1                         1                         
+Position       Team           Points         Count          
+1              Wisc           10             1              
+2              PSU            8              1              
+3              ILL            7              1              
+4              Iowa           6              1              
+5              OSU            5              1              
+6              MSU            4              1              
+7              IwSt           3              1              
+8              Mich           2              1              
+9              WVU            1              1              
 
 -----------------------------4x800m-----------------------------
 
@@ -204,16 +204,16 @@ Position            Club                Calculated Time     Mean                
 8                   Maryland            658.0               658.0               658.0               
 9                   Mizzou              658.61              658.61              658.61              
 
-Position                  Team                      Points                    Count                     
-1                         OSU                       10                        1                         
-2                         Wisc                      8                         1                         
-3                         Minn                      7                         1                         
-4                         MSU                       6                         1                         
-5                         Pitt                      5                         1                         
-6                         Miami                     4                         1                         
-7                         ILL                       3                         1                         
-8                         Maryland                  2                         1                         
-9                         Mizzou                    1                         1                         
+Position       Team           Points         Count          
+1              OSU            10             1              
+2              Wisc           8              1              
+3              Minn           7              1              
+4              MSU            6              1              
+5              Pitt           5              1              
+6              Miami          4              1              
+7              ILL            3              1              
+8              Maryland       2              1              
+9              Mizzou         1              1              
 
 -----------------------------LJ-----------------------------
 
@@ -224,17 +224,17 @@ Position            Name                Club                Calculated Time     
 4                   Erica F             PSU                 4.74                4.74                4.74                
 5                   Jada H              IU                  4.67                4.67                4.67                
 6                   Mary P              PSU                 4.67                4.67                4.67                
-7                   Yasi M              IwSt                4.57                4.6                 4.6                 
-8                   Kati P              PSU                 4.65                4.6                 4.6                 
+7                   Kati P              PSU                 4.65                4.6                 4.6                 
+8                   Yasi M              IwSt                4.57                4.6                 4.6                 
 9                   Haley Y             Mich                4.59                4.59                4.59                
 
-Position                  Team                      Points                    Count                     
-1                         PSU                       20                        3                         
-2                         OSU                       8                         1                         
-3                         ILL                       7                         1                         
-4                         IU                        5                         1                         
-5                         IwSt                      3                         1                         
-6                         Mich                      1                         1                         
+Position       Team           Points         Count          
+1              PSU            20             3              
+2              OSU            8              1              
+3              ILL            7              1              
+4              IU             5              1              
+5              IwSt           2              1              
+6              Mich           1              1              
 
 -----------------------------TJ-----------------------------
 
@@ -249,13 +249,13 @@ Position            Name                Club                Calculated Time     
 8                   Yasi M              IwSt                9.82                9.8                 9.8                 
 9                   Sonia Z             ILL                 9.79                9.79                9.79                
 
-Position                  Team                      Points                    Count                     
-1                         PSU                       19                        3                         
-2                         Wisc                      10                        2                         
-3                         JMU                       8                         1                         
-4                         OSU                       6                         1                         
-5                         IwSt                      2                         1                         
-6                         ILL                       1                         1                         
+Position       Team           Points         Count          
+1              PSU            19             3              
+2              Wisc           10             2              
+3              JMU            8              1              
+4              OSU            6              1              
+5              IwSt           2              1              
+6              ILL            1              1              
 
 -----------------------------HJ-----------------------------
 
@@ -270,13 +270,13 @@ Position            Name                Club                Calculated Time     
 8                   Sarah C             Mich                1.42                1.42                1.42                
 9                   Becky H             ILL                 1.4                 1.4                 1.4                 
 
-Position                  Team                      Points                    Count                     
-1                         PSU                       21                        3                         
-2                         IU                        13                        2                         
-3                         JMU                       5                         1                         
-4                         OSU                       4                         1                         
-5                         Mich                      2                         1                         
-6                         ILL                       1                         1                         
+Position       Team           Points         Count          
+1              PSU            21             3              
+2              IU             13             2              
+3              JMU            5              1              
+4              OSU            4              1              
+5              Mich           2              1              
+6              ILL            1              1              
 
 -----------------------------Shot-----------------------------
 
@@ -291,34 +291,34 @@ Position            Name                Club                Calculated Time     
 8                   Rachel K            PSU                 9.23                8.63                8.63                
 9                   Nayeli L            ILL                 8.14                8.14                8.2                 
 
-Position                  Team                      Points                    Count                     
-1                         ILL                       22                        3                         
-2                         PSU                       16                        3                         
-3                         UConn                     3                         1                         
+Position       Team           Points         Count          
+1              ILL            22             3              
+2              PSU            16             3              
+3              UConn          3              1              
 
 -----------------------------Meet Score:-----------------------------
 
-Position                  Team                      Points                    
-1                         PSU                       136                       
-2                         ILL                       75                        
-3                         Wisc                      64                        
-4                         IU                        60                        
-5                         OSU                       58                        
-6                         MSU                       42                        
-7                         Maryland                  30                        
-8                         Mich                      28                        
-9                         IwSt                      20                        
-10                        Iowa                      18                        
-11                        JMU                       16                        
-12                        Delaware                  14                        
-13                        Minn                      13                        
-14                        UConn                     11                        
-15                        NE                        8                         
-16                        GTWN                      6                         
-17                        Pitt                      6                         
-18                        Miami                     4                         
-19                        UVA                       3                         
-20                        Mizzou                    1                         
-21                        WVU                       1                         
-22                        BGSU                      1                         
-23                        ND                        1                         
+Position       Team           Points         
+1              PSU            136            
+2              ILL            75             
+3              Wisc           64             
+4              IU             60             
+5              OSU            58             
+6              MSU            42             
+7              Maryland       30             
+8              Mich           28             
+9              IwSt           19             
+10             Iowa           18             
+11             JMU            16             
+12             Delaware       14             
+13             Minn           13             
+14             UConn          11             
+15             NE             8              
+16             Pitt           6              
+17             GTWN           6              
+18             Miami          4              
+19             UVA            3              
+20             BGSU           1              
+21             Mizzou         1              
+22             WVU            1              
+23             ND             1              

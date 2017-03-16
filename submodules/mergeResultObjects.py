@@ -4,6 +4,7 @@ import time
 def mergeResultObjects(indoorEventObject, outdoorEventObject):
   mergeStartTime = time.time()
 
+  # For all outdoor events
   for outdoorColumn in helpers.getOutdoorColumns():
     event = outdoorColumn['event']
 

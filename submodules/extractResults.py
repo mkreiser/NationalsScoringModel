@@ -36,12 +36,14 @@ def extractResults(resultList, columns):
             'date': resultList.cell(row, columnNum + 3).value
           }
 
+          # Generate namekey for dict
           athleteName = str(result['athlete']) + ' $ ' + str(result['club'])
 
         # If event is in string form and needs to be converted to float
         if (event in helpers.getStringEvents()):
           result['result'] = helpers.convertStrTimeToFloat(result['result'])
 
+        # Insert result into object
         if (athleteName not in results[event].keys()):
           results[event][athleteName] = [ result ]
         else:
