@@ -54,7 +54,7 @@ def printModelEventScores(outputObject, sortedEventScores):
 
 # Prints the total scoring for a meet in a non-model sim
 def printMeetScores(outputObject, sortedMeetScores):
-  outputObject.write('\n-----------------------------Meet Score:-----------------------------\n\n')
+  outputObject.write('\n-----------------------------Meet Score-----------------------------\n\n')
 
   keys = ['Position', 'Team', 'Points']
   printJoinedLine(outputObject, keys, 15)

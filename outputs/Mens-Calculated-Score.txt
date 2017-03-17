@@ -27,8 +27,8 @@ Position       Team           Points         Count
 1              Iowa           20             3              
 2              Mich           10             2              
 3              OSU            6              1              
-4              PSU            5              1              
-5              IU             5              2              
+4              IU             5              2              
+5              PSU            5              1              
 
 -----------------------------200m-----------------------------
 
@@ -36,31 +36,31 @@ Position            Name                Club                Calculated Time     
 1                   Cameron S           PSU                 22.81               22.81               22.81               
 2                   DeVante C           Mich                22.89               22.89               22.89               
 3                   Peter VB            Wisc                23.2                23.2                23.2                
-4                   Suleman B           ILL                 23.28               23.34               23.34               
-5                   Garrett S           IU                  23.32               23.32               23.32               
-6                   Mateusz L           ILL                 23.35               23.56               23.61               
-7                   Mason R             ILL                 23.36               23.54               23.58               
-8                   Keon'tay W          Iowa                23.42               23.42               23.42               
-9                   Melvin I            Iowa                23.43               23.55               23.53               
-10                  Christopher M       Iowa                23.5                23.5                23.5                
-11                  Alex B              ILL                 23.56               23.72               23.59               
-12                  Dayo A              Iowa                23.57               23.56               23.56               
-13                  Max R               Wisc                23.61               23.73               23.73               
-14                  Evan G              Maryland            23.62               23.59               23.59               
-15                  Stephen F           OSU                 23.63               23.73               23.8                
-16                  Thomas L            PSU                 23.66               24.14               24.14               
-17                  Chris O             OSU                 23.71               23.94               24.04               
-18                  Tyler S             Wisc                23.79               23.79               23.79               
-19                  Zach T              UConn               23.83               23.83               23.83               
-20                  Nathan R            WVU                 23.84               23.84               23.84               
+4                   Kevin S             ILL                 23.2                -1                  -1                  
+5                   Suleman B           ILL                 23.28               23.34               23.34               
+6                   Garrett S           IU                  23.32               23.32               23.32               
+7                   Mateusz L           ILL                 23.35               23.56               23.61               
+8                   Mason R             ILL                 23.36               23.54               23.58               
+9                   Keon'tay W          Iowa                23.42               23.42               23.42               
+10                  Melvin I            Iowa                23.43               23.55               23.53               
+11                  Christopher M       Iowa                23.5                23.5                23.5                
+12                  Alex B              ILL                 23.56               23.72               23.59               
+13                  Dayo A              Iowa                23.57               23.56               23.56               
+14                  Max R               Wisc                23.61               23.73               23.73               
+15                  Evan G              Maryland            23.62               23.59               23.59               
+16                  Stephen F           OSU                 23.63               23.73               23.8                
+17                  Thomas L            PSU                 23.66               24.14               24.14               
+18                  Chris O             OSU                 23.71               23.94               24.04               
+19                  Tyler S             Wisc                23.79               23.79               23.79               
+20                  Zach T              UConn               23.83               23.83               23.83               
 
 Position       Team           Points         Count          
-1              ILL            13             3              
+1              ILL            14             3              
 2              PSU            10             1              
 3              Mich           8              1              
 4              Wisc           7              1              
-5              IU             5              1              
-6              Iowa           3              2              
+5              IU             4              1              
+6              Iowa           1              1              
 
 -----------------------------400m-----------------------------
 
@@ -379,29 +379,29 @@ Position            Name                Club                Calculated Time     
 2                   Hameed O            ILL                 1.85                1.85                1.85                
 3                   Kevin G             Mich                1.77                1.77                1.77                
 4                   Dustin H            IwSt                1.75                1.73                1.73                
-5                   Sean OH             MSU                 1.75                1.75                1.75                
-6                   Trevor E            IU                  1.75                1.75                1.75                
-7                   Michael J           UConn               1.72                1.72                1.72                
-8                   Thomas L            GWU                 1.72                1.72                1.72                
+5                   Trevor E            IU                  1.75                1.75                1.75                
+6                   Sean OH             MSU                 1.75                1.75                1.75                
+7                   Thomas L            GWU                 1.72                1.72                1.72                
+8                   Michael J           UConn               1.72                1.72                1.72                
 9                   Phillip C           Purdue              1.65                1.65                1.65                
 10                  Harry W             UConn               1.62                1.62                1.62                
 11                  Kiry K              Minn                1.6                 1.6                 1.6                 
 12                  John K              Iowa                1.6                 1.6                 1.6                 
 13                  Mike K              ILL                 1.55                1.55                1.55                
-14                  Rodney M            IU                  1.5                 1.5                 1.5                 
+14                  Jonathan S          MSU                 1.5                 1.5                 1.5                 
 15                  Michael J           ILL                 1.5                 1.5                 1.5                 
-16                  Jonathan S          MSU                 1.5                 1.5                 1.5                 
-17                  Evan K              Wisc                1.5                 1.5                 1.5                 
+16                  Evan K              Wisc                1.5                 1.5                 1.5                 
+17                  Rodney M            IU                  1.5                 1.5                 1.5                 
 18                  Johnathan S         MSU                 1.47                1.47                1.47                
 
 Position       Team           Points         Count          
 1              IwSt           16             2              
 2              ILL            8              1              
 3              Mich           7              1              
-4              MSU            5              1              
-5              IU             4              1              
-6              UConn          3              1              
-7              GWU            2              1              
+4              IU             5              1              
+5              MSU            4              1              
+6              GWU            3              1              
+7              UConn          2              1              
 8              Purdue         1              1              
 
 -----------------------------Shot-----------------------------
@@ -437,27 +437,27 @@ Position       Team           Points         Count
 6              PSU            3              1              
 7              UConn          1              1              
 
------------------------------Meet Score:-----------------------------
+-----------------------------Meet Score-----------------------------
 
 Position       Team           Points         
-1              ILL            83             
+1              ILL            84             
 2              IU             76             
 3              Wisc           76             
 4              Mich           65             
 5              IwSt           60             
 6              PSU            57             
-7              Iowa           40             
+7              Iowa           38             
 8              Maryland       37             
 9              Minn           30             
-10             UConn          23             
-11             OSU            23             
-12             MSU            19             
+10             OSU            23             
+11             UConn          22             
+12             MSU            18             
 13             Purdue         13             
 14             Miami          8              
 15             Toledo         7              
 16             GVSU           4              
 17             JMU            4              
 18             GTWN           3              
-19             Pitt           2              
-20             GWU            2              
+19             GWU            3              
+20             Pitt           2              
 21             CMU            1              

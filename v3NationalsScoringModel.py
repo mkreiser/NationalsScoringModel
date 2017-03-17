@@ -1,4 +1,4 @@
-from submodules import convertEvents, extractResults, getAthleteData, helpers, mergeResultObjects, modelMeet, openBooks, scoreByPureAverage, scoreByCalculatedTime
+from submodules import convertEvents, extractResults, getAthleteData, helpers, mergeResultObjects, modelMeet, override, openBooks, scoreByPureAverage, scoreByCalculatedTime
 import sys, time
 
 if __name__ == '__main__':
@@ -20,6 +20,9 @@ if __name__ == '__main__':
 
   womensAthletesAnalyzedTimes = getAthleteData.getAthleteData(outdoorWomensResults)
   mensAthletesAnalyzedTimes = getAthleteData.getAthleteData(outdoorMensResults)
+
+  override.overrideAthletes(womensAthletesAnalyzedTimes, True)
+  override.overrideAthletes(mensAthletesAnalyzedTimes, False)
 
   scoreByPureAverage.scoreByPureAverage(womensAthletesAnalyzedTimes, 'outputs/Womens-Average-Score.txt')
   scoreByPureAverage.scoreByPureAverage(mensAthletesAnalyzedTimes, 'outputs/Mens-Average-Score.txt')
