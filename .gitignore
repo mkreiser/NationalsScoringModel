@@ -18,6 +18,10 @@ $RECYCLE.BIN/
 *.lnk
 
 *.cpython-35
+*.pyc
+*.cpython-35.pyc
+./submodules/__pycache__/*
+
 
 # =========================
 # Operating System Files
