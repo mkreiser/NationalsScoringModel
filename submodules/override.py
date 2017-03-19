@@ -1,5 +1,5 @@
 from . import helpers
-import xlrd
+import time, xlrd
 
 def searchForAthlete(array, name, club):
   for a in array:
@@ -12,6 +12,7 @@ def searchForClub(array, club):
       return a
 
 def overrideAthletes(eventsObject, isWomens):
+  overrideStartTime = time.time()
   overrideBook = xlrd.open_workbook('Overrides.xlsx')
   overrideSheet = overrideBook.sheet_by_name('Overrides')
 
@@ -29,7 +30,9 @@ def overrideAthletes(eventsObject, isWomens):
       else:
         athleteData = searchForAthlete(eventsObject[event], overrideSheet.cell(row, column + 2).value)
 
+      insertIntoObject = False
       if (not athleteData):
+        insertIntoObject = True
         athleteData = {}
 
       athleteData['calculatedTime'] = overrideSheet.cell(row, column + 3).value
@@ -39,3 +42,11 @@ def overrideAthletes(eventsObject, isWomens):
       athleteData['prettyCalculatedTime'] = helpers.twoDecimalFloat(athleteData['calculatedTime'])
       athleteData['prettyMean'] = -1
       athleteData['prettyMedian'] = -1
+
+      if (insertIntoObject):
+        if (overrideSheet.cell(row, column + 1).value):
+          athleteData['name'] = overrideSheet.cell(row, column + 1).value
+        athleteData['club'] = overrideSheet.cell(row, column + 2).value
+        eventsObject.insert(athleteData)
+
+  helpers.printDuration('Done running overrides', overrideStartTime, time.time())
