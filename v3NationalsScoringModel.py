@@ -1,4 +1,4 @@
-from submodules import convertEvents, extractResults, getAthleteData, helpers, mergeResultObjects, modelMeet, override, openBooks, scoreByPureAverage, scoreByCalculatedTime
+from submodules import convertEvents, createOutputDirectory, extractResults, getAthleteData, helpers, mergeResultObjects, modelMeet, override, openBooks, scoreByPureAverage, scoreByCalculatedTime
 import sys, time
 
 if __name__ == '__main__':
@@ -24,13 +24,15 @@ if __name__ == '__main__':
   override.overrideAthletes(womensAthletesAnalyzedTimes, True)
   override.overrideAthletes(mensAthletesAnalyzedTimes, False)
 
-  scoreByPureAverage.scoreByPureAverage(womensAthletesAnalyzedTimes, 'outputs/Womens-Average-Score.txt')
-  scoreByPureAverage.scoreByPureAverage(mensAthletesAnalyzedTimes, 'outputs/Mens-Average-Score.txt')
+  dirdate = createOutputDirectory.createOutputDirectory()
 
-  scoreByCalculatedTime.scoreByCalculatedTime(womensAthletesAnalyzedTimes, 'outputs/Womens-Calculated-Score.txt')
-  scoreByCalculatedTime.scoreByCalculatedTime(mensAthletesAnalyzedTimes, 'outputs/Mens-Calculated-Score.txt')
+  scoreByPureAverage.scoreByPureAverage(womensAthletesAnalyzedTimes, dirdate + 'Womens-Average-Score.txt')
+  scoreByPureAverage.scoreByPureAverage(mensAthletesAnalyzedTimes, dirdate + 'Mens-Average-Score.txt')
 
-  modelMeet.modelMeet(womensAthletesAnalyzedTimes, 'outputs/Womens-Model-Score.txt', int(sys.argv[1]))
-  modelMeet.modelMeet(mensAthletesAnalyzedTimes, 'outputs/Mens-Model-Score.txt', int(sys.argv[1]))
+  scoreByCalculatedTime.scoreByCalculatedTime(womensAthletesAnalyzedTimes, dirdate + 'Womens-Calculated-Score.txt')
+  scoreByCalculatedTime.scoreByCalculatedTime(mensAthletesAnalyzedTimes, dirdate + 'Mens-Calculated-Score.txt')
+
+  modelMeet.modelMeet(womensAthletesAnalyzedTimes, dirdate + 'Womens-Model-Score.txt', int(sys.argv[1]))
+  modelMeet.modelMeet(mensAthletesAnalyzedTimes, dirdate + 'Mens-Model-Score.txt', int(sys.argv[1]))
 
   helpers.printDuration('Completed program', envStartTime, time.time())
