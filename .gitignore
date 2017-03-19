@@ -21,6 +21,7 @@ $RECYCLE.BIN/
 *.pyc
 *.cpython-35.pyc
 ./submodules/__pycache__/*
+*.log
 
 
 # =========================
