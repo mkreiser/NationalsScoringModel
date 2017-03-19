@@ -2,6 +2,8 @@ from submodules import convertEvents, createOutputDirectory, extractResults, get
 import sys, time
 
 if __name__ == '__main__':
+  print('\nRunning sim at ', time.strftime("%Y-%m-%d----%H-%M-%S", time.gmtime()), '\n')
+
   envStartTime = time.time()
 
   indoorWomenSheet, indoorMenSheet, outdoorWomenSheet, outdoorMenSheet = openBooks.openBooks()
