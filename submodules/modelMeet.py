@@ -1,4 +1,5 @@
 from . import helpers, textOut
+from datetime import timedelta
 from operator import itemgetter
 import copy, random, re, statistics, time
 
@@ -20,7 +21,7 @@ def modelMeet(resultList, filename, runs):
     eventAthleteAgg = []
 
     # Notify console that a new event is being run
-    print('Running event: ', eventName, ' (' + str(time.time() - modelMeetTime) + ')')
+    print('Running event: ', eventName, ' (' + str(timedelta(seconds=(time.time() - modelMeetTime))) + ')')
 
     # If there are results, then grab the top calculated time
     if (len(resultList[eventName])):

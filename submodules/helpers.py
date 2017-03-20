@@ -1,8 +1,9 @@
+from datetime import timedelta
 import re
 
 # Prints a string describing the duration with said duration
 def printDuration(string, startTime, endTime):
-  print(string, endTime - startTime)
+  print(string, str(timedelta(seconds=(endTime - startTime))))
 
 # Converts a string style result time to seconds as a float
 # ex: 2:15.45 --> 135.45
