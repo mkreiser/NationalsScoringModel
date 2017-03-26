@@ -1,6 +1,9 @@
 from . import helpers
 import time
 
+def getBlacklistedClubs():
+  return ['Iowa']
+
 def extractResults(resultList, columns):
   extractStartTime = time.time()
   # All results from this object
@@ -42,6 +45,9 @@ def extractResults(resultList, columns):
         # If event is in string form and needs to be converted to float
         if (event in helpers.getStringEvents()):
           result['result'] = helpers.convertStrTimeToFloat(result['result'])
+
+        if (result['club'] in getBlacklistedClubs()):
+          continue
 
         # Insert result into object
         if (athleteName not in results[event].keys()):
