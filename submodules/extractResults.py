@@ -2,7 +2,7 @@ from . import helpers
 import time
 
 def getBlacklistedClubs():
-  return ['Iowa']
+  return ['Iowa', 'GWU']
 
 def extractResults(resultList, columns):
   extractStartTime = time.time()
