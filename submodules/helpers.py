@@ -67,7 +67,7 @@ def getOutdoorColumns():
 # Returns the weight for each meet date, with date represented as Excel value
 def getDateWeights():
   return {
-    42826.0 : 15,
+    42826.0 : 16,
     42819.0 : 8,
     42812.0 : 6,
     42798.0 : 2,
