@@ -42,7 +42,7 @@ def scoreByCalculatedTime(resultList, filename):
         textOut.printEventAthletes(textOutput, sortedEventArray[i], points, i + 1)
 
         if (len(pointScale) > i):
-          if (clubName in eventScore and (event not in helpers.getRelayEvents()) and eventScore[clubName]['count'] < 3):
+          if (clubName in eventScore and (event not in helpers.getRelayEvents())):
             eventScore[clubName]['points'] += points
             eventScore[clubName]['count'] += 1
 

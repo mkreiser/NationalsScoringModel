@@ -37,7 +37,7 @@ def scoreByPureAverage(resultList, filename):
 
         textOut.printEventAthletes(textOutput, sortedEventArray[i], pointScale[i], i + 1)
 
-        if (clubName in eventScore and (event not in helpers.getRelayEvents()) and eventScore[clubName]['count'] < 3):
+        if (clubName in eventScore and (event not in helpers.getRelayEvents())):
           eventScore[clubName]['points'] += pointScale[i]
           eventScore[clubName]['count'] += 1
 

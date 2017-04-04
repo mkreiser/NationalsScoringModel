@@ -77,7 +77,7 @@ def modelMeet(resultList, filename, runs):
             eventAthlete[sortedEventArray[i]['club']] = pointScale[i]
 
           # If the performance counts toward the meet score
-          if (clubName in eventScore and (eventName not in helpers.getRelayEvents()) and eventScore[clubName]['count'] < 3):
+          if (clubName in eventScore and (eventName not in helpers.getRelayEvents())):
             eventScore[clubName]['points'] += pointScale[i]
             eventScore[clubName]['count'] += 1
 
