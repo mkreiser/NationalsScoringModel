@@ -1,0 +1,594 @@
+
+-----------------------------100m-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Rachel P $ PSU            8.3095                    1.960451                  99.4%                     8.0                       10                        
+2                         Becky H $ ILL             7.1531                    2.083423                  98.11%                    7                         8                         
+3                         Audrey R $ IU             6.0262                    2.112628                  96.14%                    6.0                       7                         
+4                         Hannah C $ VT             5.8369                    2.172318                  95.47%                    6                         7                         
+5                         Devin McD $ PSU           5.5419                    2.19633                   94.36%                    6.0                       6                         
+6                         Devin M $ PSU             2.7552                    1.937946                  73.78%                    4.0                       3                         
+7                         Brittany G $ Delaware     2.3945                    1.918703                  67.43%                    3                         3                         
+8                         Melanie S $ MSU           2.057                     1.867098                  61.24%                    3.0                       2                         
+9                         Borchueh W $ GTWN         1.3979                    1.670275                  47.55%                    3                         1                         
+10                        Twyla L $ VT              1.3098                    1.629848                  45.29%                    3                         1                         
+11                        Kati P $ PSU              1.1729                    1.600343                  41.53%                    3                         1                         
+12                        Laura C $ Wisc            1.0093                    1.543556                  37.26%                    2.0                       1                         
+13                        Chynelle W $ Drexel       0.9292                    1.492344                  34.97%                    2                         1                         
+14                        Rebecca L $ WVU           0.051                     0.788935                  3.4%                      1.0                       1                         
+15                        Jill B $ PSU              0.0289                    0.646032                  2.06%                     1.0                       1                         
+16                        Jenna J $ Delaware        0.0124                    0.776185                  0.86%                     1.0                       1                         
+17                        Lauren G $ ILL            0.0103                    0.55561                   0.8%                      1.0                       1                         
+18                        Katie W $ SJU             0.0021                    0.704154                  0.16%                     1.0                       1                         
+19                        Jessica R $ Wisc          0.0019                    0.0                       0.19%                     1                         1                         
+
+Position       Team           Average        Stddev         
+1              PSU            17.8084        3.815933       
+2              ILL            7.1634         2.089429       
+3              VT             7.1467         2.858496       
+4              IU             6.0262         2.112628       
+5              Delaware       2.4069         1.928091       
+6              MSU            2.057          1.867098       
+7              GTWN           1.3979         1.670275       
+8              Wisc           1.0112         1.545216       
+9              Drexel         0.9292         1.492344       
+10             WVU            0.051          0.788935       
+11             SJU            0.0021         0.704154       
+
+-----------------------------200m-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Rachel P $ PSU            8.5548                    1.548565                  99.64%                    8.0                       10                        
+2                         Becky H $ ILL             8.3205                    1.538363                  99.58%                    8.0                       10                        
+3                         Audrey R $ IU             6.5444                    1.682424                  97.79%                    7                         7                         
+4                         Hannah C $ VT             5.9081                    1.669197                  95.66%                    6.0                       7                         
+5                         Brittany G $ Delaware     4.5874                    1.773413                  91.65%                    5                         5                         
+6                         Estrella T $ Wisc         1.462                     1.56331                   46.21%                    3                         2                         
+7                         Jill B $ PSU              1.402                     1.588657                  43.91%                    3                         3                         
+8                         Liz K $ Minn              1.3253                    1.582481                  43.1%                     3.0                       2                         
+9                         Laura C $ Wisc            1.3237                    1.614471                  42.65%                    3                         1                         
+10                        Katie W $ SJU             1.1032                    1.519892                  37.37%                    3                         1                         
+11                        Twyla L $ VT              1.0857                    1.510383                  36.27%                    3                         1                         
+12                        Maia H $ PSU              0.995                     1.478449                  34.62%                    3.0                       1                         
+13                        Sarah C $ Mich            0.8973                    1.42322                   31.23%                    3                         2                         
+14                        Colleen H $ OSU           0.8965                    1.430876                  31.83%                    3                         1                         
+15                        Gabrielle L $ Mich        0.6347                    1.385343                  23.6%                     3.0                       1                         
+16                        Melanie S $ MSU           0.3187                    1.253352                  13.57%                    2                         1                         
+17                        Krista C $ Delaware       0.3041                    1.195755                  13.28%                    2.0                       1                         
+18                        Daisy O $ OSU             0.1646                    1.058314                  7.91%                     2                         1                         
+19                        Claire H $ OSU            0.0644                    0.826011                  3.8%                      1.0                       1                         
+20                        Jaime D $ OSU             0.0576                    0.898475                  3.35%                     1                         1                         
+21                        Jordyn R $ Wisc           0.0496                    0.896037                  2.95%                     1                         1                         
+22                        Lauren G $ ILL            0.0004                    0.57735                   0.03%                     1                         1                         
+
+Position       Team           Average        Stddev         
+1              PSU            10.9518        2.848736       
+2              ILL            8.3209         1.538335       
+3              VT             6.9938         2.402405       
+4              IU             6.5444         1.682424       
+5              Delaware       4.8915         1.997813       
+6              Wisc           2.8353         2.154918       
+7              Mich           1.532          1.714839       
+8              Minn           1.3253         1.582481       
+9              OSU            1.1831         1.572734       
+10             SJU            1.1032         1.519892       
+11             MSU            0.3187         1.253352       
+
+-----------------------------400m-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Madeleine P $ Wisc        8.6579                    1.55607                   99.6%                     10.0                      10                        
+2                         Emma D $ OSU              7.5642                    1.722378                  99.42%                    8.0                       8                         
+3                         Becky H $ ILL             6.9391                    1.790349                  98.69%                    7                         7                         
+4                         Hanna D $ Wisc            6.6415                    1.708889                  98.98%                    7.0                       6                         
+5                         Gabrielle L $ Mich        3.9273                    1.694178                  88.46%                    5.0                       5                         
+6                         Amy B $ PSU               2.6336                    1.662565                  70.83%                    4                         4                         
+7                         Meghan R $ PSU            2.3575                    1.686627                  66.14%                    4.0                       4                         
+8                         Mary E $ UVA              1.6469                    1.563073                  51.99%                    3                         3                         
+9                         Katilyn W $ WVU           0.9512                    1.443939                  34.0%                     3.0                       1                         
+10                        Caroline O $ JMU          0.7304                    1.34531                   27.69%                    2                         1                         
+11                        Sarah C $ Mich            0.6751                    1.32932                   26.03%                    2                         1                         
+12                        Jill B $ PSU              0.6618                    1.321953                  25.99%                    2                         1                         
+13                        Haley Y $ Mich            0.6029                    1.305889                  23.46%                    2.0                       1                         
+14                        Colleen H $ OSU           0.5751                    1.278525                  22.65%                    2                         1                         
+15                        Katherine M $ VT          0.3966                    1.209493                  17.04%                    2.0                       1                         
+16                        Lauren G $ ILL            0.3884                    1.223714                  16.51%                    2                         1                         
+17                        Ciera U $ VT              0.2747                    1.104636                  12.75%                    2                         1                         
+18                        Rachel K $ VT             0.2253                    1.111968                  10.74%                    2.0                       1                         
+19                        Katie W $ SJU             0.1004                    0.87967                   5.8%                      1.0                       1                         
+20                        Olivia C $ Mich           0.0394                    0.719628                  2.52%                     1.0                       1                         
+21                        Sarah W $ PSU             0.0107                    0.694329                  0.71%                     1                         1                         
+
+Position       Team           Average        Stddev         
+1              Wisc           15.2994        2.157551       
+2              OSU            8.1393         2.128376       
+3              ILL            7.3275         2.079843       
+4              PSU            5.6636         2.737217       
+5              Mich           5.2447         2.455051       
+6              UVA            1.6469         1.563073       
+7              WVU            0.9512         1.443939       
+8              VT             0.8966         1.430508       
+9              JMU            0.7304         1.34531        
+10             SJU            0.1004         0.87967        
+
+-----------------------------800m-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Madeleine P $ Wisc        8.8379                    1.438943                  99.73%                    10                        10                        
+2                         Emily M $ PSU             7.6404                    1.598299                  99.55%                    8                         8                         
+3                         Hanna D $ Wisc            7.2638                    1.592472                  99.31%                    7                         7                         
+4                         Erin Z $ MSU              6.4223                    1.566616                  98.18%                    6.0                       6                         
+5                         Nicole M $ MSU            2.5381                    1.63329                   66.86%                    4.0                       5                         
+6                         Lauren McG $ MSU          2.1277                    1.659127                  59.18%                    4.0                       5                         
+7                         Ciera U $ VT              1.5099                    1.560527                  46.38%                    3.0                       4                         
+8                         Kaleigh E $ ILL           1.4194                    1.575259                  44.5%                     3.0                       3                         
+9                         Stefani W $ Minn          1.2794                    1.517806                  41.44%                    3.0                       2                         
+10                        Sara K $ Wisc             1.2072                    1.49212                   39.4%                     3.0                       2                         
+11                        Molly M $ Mich            1.1662                    1.513845                  39.06%                    3.0                       1                         
+12                        Sarah A $ MSU             1.0623                    1.485081                  35.56%                    3.0                       1                         
+13                        Sarah W $ Minn            1.0105                    1.492385                  33.76%                    3.0                       1                         
+14                        Zoe P $ Wisc              0.9246                    1.485043                  31.66%                    3.0                       1                         
+15                        Kinsey R $ WVU            0.7611                    1.438854                  27.05%                    3                         1                         
+16                        Katrina H $ Maryland      0.2534                    1.181101                  11.26%                    2.0                       1                         
+17                        Francesca R $ OSU         0.2403                    1.181354                  10.58%                    2.0                       1                         
+18                        Allyx K $ Minn            0.2252                    1.168723                  10.06%                    2.0                       1                         
+19                        Michelle K $ PSU          0.0653                    0.920478                  3.83%                     1                         1                         
+20                        Casey B $ Delaware        0.0444                    0.877932                  2.59%                     1                         1                         
+21                        Kate A $ Wisc             0.0003                    0.0                       0.03%                     1                         1                         
+22                        Tiffany Y $ ILL           0.0002                    0.0                       0.02%                     1.0                       1                         
+23                        Kristen A $ Delaware      0.0001                    0                         0.01%                     1                         1                         
+
+Position       Team           Average        Stddev         
+1              Wisc           18.2338        2.956994       
+2              MSU            12.1504        3.437006       
+3              PSU            7.7057         1.64289        
+4              Minn           2.5151         2.098028       
+5              VT             1.5099         1.560527       
+6              ILL            1.4196         1.575896       
+7              Mich           1.1662         1.513845       
+8              WVU            0.7611         1.438854       
+9              Maryland       0.2534         1.181101       
+10             OSU            0.2403         1.181354       
+11             Delaware       0.0445         0.877354       
+
+-----------------------------1500m-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Madeleine P $ Wisc        8.1153                    1.964303                  98.91%                    8                         10                        
+2                         Erin Z $ MSU              6.9773                    2.033499                  97.18%                    7.0                       8                         
+3                         Lauryn F $ WVU            6.7861                    2.030557                  96.69%                    7                         8                         
+4                         Emily W $ IU              6.3544                    2.157558                  95.02%                    7.0                       8                         
+5                         Ariane A $ PSU            3.9417                    2.198761                  83.24%                    5.0                       5                         
+6                         Nicole M $ MSU            2.2276                    1.92911                   59.72%                    4.0                       3                         
+7                         Katlyn A $ IwSt           2.0504                    1.916975                  56.45%                    3                         2                         
+8                         Suzanne S $ PSU           1.604                     1.780297                  48.76%                    3.0                       2                         
+9                         Katrina H $ Maryland      1.5209                    1.730352                  47.21%                    3                         2                         
+10                        Erin G $ UConn            1.3931                    1.717834                  43.33%                    3                         2                         
+11                        Kristina K $ ND           1.2849                    1.738067                  40.06%                    3.0                       1                         
+12                        Jenn S $ Mich             1.1603                    1.727017                  37.2%                     3.0                       1                         
+13                        Lauren M $ Mich           1.08                      1.672979                  34.83%                    3                         2                         
+14                        Anna S $ Minn             0.7879                    1.519857                  27.84%                    3.0                       1                         
+15                        Arielle D $ OSU           0.4899                    1.383306                  19.22%                    2.0                       1                         
+16                        Kinsey R $ WVU            0.0539                    0.867912                  3.14%                     1.5                       1                         
+17                        Emily C $ ILL             0.0457                    0.836254                  2.8%                      1.0                       1                         
+18                        Jaime F $ IU              0.0313                    0.706069                  2.11%                     1                         1                         
+19                        Anneliese S $ ILL         0.0293                    0.831186                  1.84%                     1.0                       1                         
+20                        Hailey B $ PSU            0.0279                    0.844213                  1.76%                     1.0                       1                         
+21                        Michaela L $ Purdue       0.0144                    0.759601                  0.99%                     1                         1                         
+22                        Megan B $ NW              0.0115                    0.613018                  0.8%                      1.0                       1                         
+23                        Jamie F $ IU              0.0104                    0.72491                   0.73%                     1                         1                         
+24                        Hannah McC $ Mizzou       0.0006                    0.0                       0.06%                     1.0                       1                         
+25                        Stephanie P $ Delaware    0.0005                    0.0                       0.05%                     1                         1                         
+26                        Mary L $ UVA              0.0004                    0.57735                   0.03%                     1                         1                         
+27                        Charlotte E $ MSU         0.0002                    0.0                       0.02%                     1.0                       1                         
+28                        Sophie H $ Minn           0.0001                    0                         0.01%                     1                         1                         
+
+Position       Team           Average        Stddev         
+1              MSU            9.2051         3.123117       
+2              Wisc           8.1153         1.964303       
+3              WVU            6.84           2.074994       
+4              IU             6.3961         2.19107        
+5              PSU            5.5736         2.915012       
+6              Mich           2.2403         2.168868       
+7              IwSt           2.0504         1.916975       
+8              Maryland       1.5209         1.730352       
+9              UConn          1.3931         1.717834       
+10             ND             1.2849         1.738067       
+11             Minn           0.788          1.51998        
+12             OSU            0.4899         1.383306       
+13             ILL            0.075          0.851886       
+14             Purdue         0.0144         0.759601       
+15             NW             0.0115         0.613018       
+16             Mizzou         0.0006         0.0            
+17             Delaware       0.0005         0.0            
+18             UVA            0.0004         0.57735        
+
+-----------------------------5000m-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Lauryn F $ WVU            7.6285                    2.237951                  95.75%                    8                         10                        
+2                         Emily W $ IU              5.8158                    2.575554                  90.58%                    7.0                       10                        
+3                         Jenny S $ OSU             5.4293                    2.640132                  88.47%                    6                         8                         
+4                         Anna P $ Mich             4.5736                    2.646493                  82.71%                    6                         8                         
+5                         Ariane A $ PSU            3.4082                    2.493202                  69.69%                    5                         5                         
+6                         Suzanne S $ PSU           3.305                     2.504315                  68.79%                    5                         5                         
+7                         Colleen C $ Mich          3.0058                    2.446146                  66.53%                    4                         3                         
+8                         Lizzie B $ VT             2.8994                    2.47983                   64.53%                    4                         2                         
+9                         Kiah H $ Stanford         2.6385                    2.394804                  60.18%                    4.0                       2                         
+10                        Anneliese S $ ILL         1.4581                    2.077778                  39.64%                    3.0                       2                         
+11                        Jazmine R $ NW            1.3924                    2.113714                  38.15%                    3                         1                         
+12                        Cheyenne C $ WVU          1.3519                    2.127651                  36.97%                    3                         1                         
+13                        Tessa D $ OSU             0.9347                    1.95855                   28.38%                    3.0                       1                         
+14                        Jamie F $ IU              0.8819                    1.940215                  27.03%                    3                         1                         
+15                        Megan B $ NW              0.8129                    1.908565                  25.19%                    3                         1                         
+16                        Megan B $ Wisc            0.4395                    1.581795                  15.73%                    3                         1                         
+17                        Shannon MacM $ Maryland   0.0206                    0.781466                  1.4%                      1.0                       1                         
+18                        Rachel T $ UVA            0.0034                    0.653863                  0.24%                     1.0                       1                         
+19                        Lucy H $ Purdue           0.0003                    0.707107                  0.02%                     1.5                       1                         
+20                        Mikaela M $ WVU           0.0002                    0.0                       0.02%                     1.0                       1                         
+
+Position       Team           Average        Stddev         
+1              WVU            8.9806         3.174429       
+2              Mich           7.5794         3.836374       
+3              PSU            6.7132         3.756081       
+4              IU             6.6977         3.123088       
+5              OSU            6.364          3.190105       
+6              VT             2.8994         2.47983        
+7              Stanford       2.6385         2.394804       
+8              NW             2.2053         2.503448       
+9              ILL            1.4581         2.077778       
+10             Wisc           0.4395         1.581795       
+11             Maryland       0.0206         0.781466       
+12             UVA            0.0034         0.653863       
+13             Purdue         0.0003         0.707107       
+
+-----------------------------100m HH-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Erica F $ PSU             9.5914                    0.906823                  100.0%                    10.0                      10                        
+2                         Cheyenne H $ UConn        7.7679                    1.008563                  99.99%                    8                         8                         
+3                         Vanessa R $ PSU           7.4891                    0.908433                  99.96%                    7.0                       7                         
+4                         Jada H $ IU               5.8918                    0.668807                  99.92%                    6.0                       6                         
+5                         Abby R $ ILL              4.8051                    0.705141                  99.82%                    5.0                       5                         
+6                         Emilie D $ UConn          4.3534                    0.680111                  99.92%                    4.0                       4                         
+7                         Stephanie S $ UConn       2.6282                    0.712606                  96.65%                    3                         3                         
+8                         Alison D $ WVU            1.706                     0.726111                  87.32%                    2.0                       2                         
+9                         Alyssa M $ UConn          1.0148                    0.703681                  63.81%                    1                         1                         
+10                        Ali D $ ILL               0.7311                    0.629953                  50.6%                     1.0                       1                         
+11                        Maia H $ PSU              0.0202                    0.233582                  1.91%                     1                         1                         
+12                        Melissa S $ Penn          0.001                     0.0                       0.1%                      1.0                       1                         
+
+Position       Team           Average        Stddev         
+1              PSU            17.1007        1.071669       
+2              UConn          15.7643        1.611709       
+3              IU             5.8918         0.668807       
+4              ILL            5.5362         1.111158       
+5              WVU            1.706          0.726111       
+6              Penn           0.001          0.0            
+
+-----------------------------400m HH-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Emma D $ OSU              9.8199                    0.615062                  100.0%                    10.0                      10                        
+2                         Erica F $ PSU             8.0242                    0.743842                  99.98%                    8.0                       8                         
+3                         Aurora R $ Minn           6.4758                    0.877141                  99.86%                    7.0                       7                         
+4                         Erica V $ PSU             6.1656                    0.917178                  99.85%                    6                         6                         
+5                         Liz K $ Minn              5.029                     0.873791                  99.94%                    5.0                       5                         
+6                         Emilie D $ UConn          4.4534                    0.696652                  99.93%                    4                         4                         
+7                         Alyssa M $ UConn          1.9322                    0.809385                  86.46%                    2.0                       3                         
+8                         Colleen C $ Mich          1.8013                    0.804767                  84.71%                    2                         3                         
+9                         Francesca R $ OSU         1.2027                    0.796374                  67.44%                    2.0                       1                         
+10                        Julia R $ Mich            1.09                      0.788392                  61.25%                    2                         1                         
+11                        Rachel A $ WVU            0.0059                    0.131306                  0.58%                     1.0                       1                         
+
+Position       Team           Average        Stddev         
+1              PSU            14.1898        1.146432       
+2              Minn           11.5048        1.111891       
+3              OSU            11.0226        1.231926       
+4              UConn          6.3856         1.28393        
+5              Mich           2.8913         1.242275       
+6              WVU            0.0059         0.131306       
+
+-----------------------------3000m Steeplechase-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Emily F $ ILL             9.9659                    0.291797                  100.0%                    10.0                      10                        
+2                         Izzy F $ OSU              7.4853                    0.772427                  100.0%                    8.0                       8                         
+3                         Leah N $ OSU              6.8763                    0.791366                  100.0%                    7.0                       7                         
+4                         Kirsten F $ OSU           6.6587                    0.754633                  100.0%                    7.0                       6                         
+5                         Elizabeth F $ UVA         5.0138                    0.11752                   100.0%                    5.0                       5                         
+
+Position       Team           Average        Stddev         
+1              OSU            21.0203        0.309673       
+2              ILL            9.9659         0.291797       
+3              UVA            5.0138         0.11752        
+
+-----------------------------4x100m-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         PSU                       8.3922                    1.623343                  100.0%                    8.0                       10                        
+2                         Minn                      7.5251                    1.609667                  100.0%                    7.0                       8                         
+3                         OSU                       7.2554                    1.677454                  100.0%                    7.0                       7                         
+4                         JMU                       7.1058                    1.670475                  100.0%                    7.0                       6                         
+5                         VT                        4.955                     1.15339                   100.0%                    5.0                       5                         
+6                         IU                        4.325                     1.020137                  100.0%                    4.0                       4                         
+7                         WVU                       3.4368                    0.719484                  100.0%                    3.0                       3                         
+8                         UConn                     2.0047                    0.068399                  100.0%                    2.0                       2                         
+
+Position       Team           Average        Stddev         
+1              PSU            8.3922         1.623343       
+2              Minn           7.5251         1.609667       
+3              OSU            7.2554         1.677454       
+4              JMU            7.1058         1.670475       
+5              VT             4.955          1.15339        
+6              IU             4.325          1.020137       
+7              WVU            3.4368         0.719484       
+8              UConn          2.0047         0.068399       
+
+-----------------------------4x400m-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Wisc                      9.1938                    1.179818                  99.76%                    10.0                      10                        
+2                         PSU                       8.1968                    1.39596                   99.76%                    8.0                       8                         
+3                         Minn                      6.532                     1.521811                  98.29%                    7                         7                         
+4                         OSU                       5.2514                    1.594953                  94.33%                    6                         6                         
+5                         VT                        3.6716                    1.800218                  84.16%                    5.0                       5                         
+6                         ILL                       3.2508                    1.762966                  79.71%                    4                         5                         
+7                         UVA                       1.8907                    1.685852                  56.25%                    3                         2                         
+8                         IwSt                      1.3777                    1.585121                  45.81%                    3                         2                         
+9                         MSU                       1.3131                    1.589459                  43.53%                    3                         1                         
+10                        WVU                       1.078                     1.509736                  37.44%                    3.0                       1                         
+11                        Maryland                  0.9903                    1.508252                  35.12%                    3.0                       1                         
+12                        Delaware                  0.9166                    1.51456                   32.71%                    3                         1                         
+13                        IU                        0.6892                    1.412612                  26.38%                    2.0                       1                         
+14                        Mich                      0.6677                    1.418362                  25.2%                     2.0                       1                         
+15                        Mizzou                    0.4738                    1.295374                  19.44%                    2.0                       1                         
+16                        Purdue                    0.4545                    1.323122                  18.83%                    2                         1                         
+17                        Pitt                      0.0459                    0.859431                  2.85%                     1                         1                         
+18                        UConn                     0.0061                    0.586862                  0.43%                     1                         1                         
+
+Position       Team           Average        Stddev         
+1              Wisc           9.1938         1.179818       
+2              PSU            8.1968         1.39596        
+3              Minn           6.532          1.521811       
+4              OSU            5.2514         1.594953       
+5              VT             3.6716         1.800218       
+6              ILL            3.2508         1.762966       
+7              UVA            1.8907         1.685852       
+8              IwSt           1.3777         1.585121       
+9              MSU            1.3131         1.589459       
+10             WVU            1.078          1.509736       
+11             Maryland       0.9903         1.508252       
+12             Delaware       0.9166         1.51456        
+13             IU             0.6892         1.412612       
+14             Mich           0.6677         1.418362       
+15             Mizzou         0.4738         1.295374       
+16             Purdue         0.4545         1.323122       
+17             Pitt           0.0459         0.859431       
+18             UConn          0.0061         0.586862       
+
+-----------------------------4x800m-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         OSU                       8.8694                    1.432678                  99.84%                    10.0                      10                        
+2                         Wisc                      8.039                     1.465838                  99.7%                     8.0                       8                         
+3                         Minn                      7.2534                    1.477349                  99.59%                    7                         7                         
+4                         PSU                       5.3638                    1.713122                  96.42%                    6.0                       6                         
+5                         MSU                       4.0134                    1.675688                  91.47%                    5                         5                         
+6                         VT                        2.9463                    1.678786                  82.05%                    4                         4                         
+7                         Pitt                      2.4064                    1.628133                  72.26%                    3.0                       3                         
+8                         Miami                     2.2676                    1.62736                   70.27%                    3                         3                         
+9                         ILL                       1.6828                    1.545963                  57.45%                    3                         1                         
+10                        Maryland                  1.1671                    1.443925                  44.66%                    2.0                       1                         
+11                        Mizzou                    1.0659                    1.378824                  41.84%                    2.0                       1                         
+12                        Purdue                    0.701                     1.280019                  30.77%                    2                         1                         
+13                        UConn                     0.1297                    0.797245                  7.88%                     1.0                       1                         
+14                        NW                        0.0939                    0.821643                  5.78%                     1.0                       1                         
+15                        CMU                       0.0003                    0.707107                  0.02%                     1.5                       1                         
+
+Position       Team           Average        Stddev         
+1              OSU            8.8694         1.432678       
+2              Wisc           8.039          1.465838       
+3              Minn           7.2534         1.477349       
+4              PSU            5.3638         1.713122       
+5              MSU            4.0134         1.675688       
+6              VT             2.9463         1.678786       
+7              Pitt           2.4064         1.628133       
+8              Miami          2.2676         1.62736        
+9              ILL            1.6828         1.545963       
+10             Maryland       1.1671         1.443925       
+11             Mizzou         1.0659         1.378824       
+12             Purdue         0.701          1.280019       
+13             UConn          0.1297         0.797245       
+14             NW             0.0939         0.821643       
+15             CMU            0.0003         0.707107       
+
+-----------------------------LJ-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Devin McD $ PSU           8.9893                    1.496198                  100.0%                    10.0                      10                        
+2                         Kati P $ PSU              6.1002                    2.211078                  97.71%                    7                         8                         
+3                         Jada H $ IU               5.8834                    2.232491                  97.11%                    6                         7                         
+4                         Erica F $ PSU             5.6151                    2.27231                   95.73%                    6                         7                         
+5                         Becky H $ ILL             4.2603                    2.295886                  87.95%                    5                         5                         
+6                         Estrella T $ Wisc         4.0159                    2.225061                  84.84%                    5.0                       5                         
+7                         Liz P $ VT                2.5582                    2.093908                  68.96%                    3.0                       3                         
+8                         Haley Y $ Mich            2.2948                    2.091416                  63.38%                    3.0                       2                         
+9                         Alison L $ UConn          1.7552                    2.013934                  53.57%                    3                         1                         
+10                        Natalie T $ Wisc          1.5899                    2.004464                  50.0%                     3.0                       1                         
+11                        Abby R $ ILL              1.2329                    1.981528                  40.42%                    3.0                       1                         
+12                        Claire H $ OSU            0.7199                    2.002167                  25.85%                    2                         1                         
+13                        Alison D $ WVU            0.4336                    1.853338                  16.25%                    2                         1                         
+14                        Yasi M $ IwSt             0.3376                    2.033862                  11.28%                    2.0                       1                         
+15                        Stephanie S $ UConn       0.1304                    1.885831                  4.98%                     2.0                       1                         
+16                        Cassandra L $ PSU         0.0287                    3.069583                  0.72%                     3.0                       1                         
+17                        Erica V $ PSU             0.0275                    2.843107                  0.82%                     2.0                       1                         
+18                        Rachel N $ IU             0.0181                    3.747906                  0.29%                     8                         10                        
+19                        Jenna J $ Delaware        0.009                     4.089655                  0.14%                     9.0                       10                        
+
+Position       Team           Average        Stddev         
+1              PSU            20.7608        3.222642       
+2              IU             5.9015         2.257722       
+3              Wisc           5.6058         3.030135       
+4              ILL            5.4932         2.981101       
+5              VT             2.5582         2.093908       
+6              Mich           2.2948         2.091416       
+7              UConn          1.8856         2.11035        
+8              OSU            0.7199         2.002167       
+9              WVU            0.4336         1.853338       
+10             IwSt           0.3376         2.033862       
+11             Delaware       0.009          4.089655       
+
+-----------------------------TJ-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Natalie T $ Wisc          8.3644                    1.897728                  100.0%                    8.0                       10                        
+2                         Erica F $ PSU             6.2156                    2.313474                  98.86%                    7.0                       8                         
+3                         Cassandra L $ PSU         6.1213                    2.308458                  98.71%                    6                         7                         
+4                         Erica V $ PSU             5.7577                    2.362559                  97.06%                    6.0                       7                         
+5                         Sonia Z $ ILL             4.5718                    2.346539                  91.89%                    5                         5                         
+6                         Abby R $ ILL              4.4022                    2.35209                   91.51%                    5                         4                         
+7                         Yasi M $ IwSt             3.2228                    2.226939                  81.72%                    4.0                       3                         
+8                         Melissa S $ Penn          2.7186                    2.12803                   74.02%                    3.0                       3                         
+9                         Liz P $ VT                1.7087                    1.98228                   55.82%                    3.0                       1                         
+10                        Abby R $ PSU              1.1491                    1.88384                   42.24%                    2.0                       1                         
+11                        Amanda K $ UConn          0.7784                    1.912276                  30.19%                    2                         1                         
+12                        Alison L $ UConn          0.7136                    1.912029                  27.42%                    2.0                       1                         
+13                        Nia C $ Wisc              0.2692                    1.854562                  10.48%                    2.0                       1                         
+14                        Jenna J $ Delaware        0.0066                    3.150964                  0.08%                     10.0                      10                        
+
+Position       Team           Average        Stddev         
+1              PSU            19.2437        3.876805       
+2              ILL            8.974          3.421062       
+3              Wisc           8.6336         2.136213       
+4              IwSt           3.2228         2.226939       
+5              Penn           2.7186         2.12803        
+6              VT             1.7087         1.98228        
+7              UConn          1.492          2.214202       
+8              Delaware       0.0066         3.150964       
+
+-----------------------------HJ-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Vanessa R $ PSU           9.9152                    0.406725                  100.0%                    10.0                      10                        
+2                         Erica F $ PSU             7.7013                    0.745341                  100.0%                    8.0                       8                         
+3                         Jada H $ IU               6.5507                    1.251633                  100.0%                    7.0                       7                         
+4                         Sarah C $ Mich            4.9502                    1.622634                  99.8%                     5.0                       6                         
+5                         Nancy V $ Wisc            4.0143                    1.707017                  98.73%                    4                         4                         
+6                         Becky H $ ILL             3.8677                    1.71671                   98.5%                     4.0                       4                         
+7                         Abby R $ PSU              3.7283                    1.683823                  98.41%                    4                         3                         
+8                         Claire H $ OSU            3.5122                    1.681216                  96.46%                    3.0                       2                         
+9                         Rachel A $ WVU            0.797                     1.138421                  47.34%                    1.0                       1                         
+10                        Karli F $ Wisc            0.3334                    1.043334                  22.17%                    1                         1                         
+11                        Abby R $ ILL              0.3234                    1.1839                    20.23%                    1                         1                         
+12                        Lulu B $ Minn             0.3063                    1.21861                   18.36%                    1.0                       1                         
+
+Position       Team           Average        Stddev         
+1              PSU            21.3448        1.84159        
+2              IU             6.5507         1.251633       
+3              Mich           4.9502         1.622634       
+4              Wisc           4.3477         1.86948        
+5              ILL            4.1911         1.889187       
+6              OSU            3.5122         1.681216       
+7              WVU            0.797          1.138421       
+8              Minn           0.3063         1.21861        
+
+-----------------------------Shot-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Marley OB $ PSU           9.9362                    0.355728                  100.0%                    10.0                      10                        
+2                         Sally B $ PSU             6.8969                    1.24853                   100.0%                    7.0                       8                         
+3                         Obioma A $ ILL            6.2392                    1.33909                   100.0%                    6.0                       7                         
+4                         Ehitare E $ ILL           6.1065                    1.310622                  100.0%                    6.0                       6                         
+5                         Rachel K $ PSU            6.0026                    1.318396                  100.0%                    6.0                       5                         
+6                         Dionne G $ SJU            4.8022                    1.137983                  100.0%                    4.0                       4                         
+7                         Amanda I $ WVU            2.911                     0.376687                  100.0%                    3.0                       3                         
+8                         Nayeli L $ ILL            1.6054                    0.587445                  99.42%                    2.0                       2                         
+9                         Ali D $ ILL               1.4838                    0.612587                  99.45%                    1                         1                         
+10                        Colleen C $ Mich          0.0161                    0.694655                  1.12%                     1.0                       1                         
+11                        Breeana B $ WVU           0.0001                    0                         0.01%                     1                         1                         
+
+Position       Team           Average        Stddev         
+1              PSU            22.8357        1.586177       
+2              ILL            15.4349        1.645732       
+3              SJU            4.8022         1.137983       
+4              WVU            2.9111         0.376843       
+5              Mich           0.0161         0.694655       
+
+-----------------------------Discus-----------------------------
+
+Position                  Athlete/Team              Average                   Stddev                    In Scoring                Median                    Mode                      
+1                         Marley OB $ PSU           9.9976                    0.069244                  100.0%                    10.0                      10                        
+2                         Obioma A $ ILL            7.9832                    0.155307                  100.0%                    8.0                       8                         
+3                         Sally B $ PSU             6.4687                    0.734897                  100.0%                    7.0                       7                         
+4                         Nayeli L $ ILL            5.8814                    0.802121                  100.0%                    6.0                       6                         
+5                         Amanda I $ WVU            5.6445                    0.752846                  100.0%                    5.0                       5                         
+6                         Claire H $ OSU            4.0235                    0.21343                   100.0%                    4.0                       4                         
+7                         Kirsten F $ OSU           2.9753                    0.160911                  100.0%                    3.0                       3                         
+8                         Breeana B $ WVU           2.0189                    0.171889                  100.0%                    2.0                       2                         
+9                         Vicky E $ OSU             0.9215                    0.087232                  91.67%                    1                         1                         
+10                        Nicole N $ OSU            0.0854                    0.203546                  8.33%                     1                         1                         
+
+Position       Team           Average        Stddev         
+1              PSU            16.4663        0.737508       
+2              ILL            13.8646        0.812978       
+3              OSU            8.0057         0.272167       
+4              WVU            7.6634         0.771855       
+
+-----------------------------Meet Score-----------------------------
+
+Position       Team           Average points Stddev         
+1              PSU            208.31         9.865161       
+2              ILL            94.16          7.275379       
+3              OSU            82.07          6.035101       
+4              Wisc           81.75          6.897209       
+5              IU             49.02          5.656462       
+6              Minn           37.75          4.362008       
+7              WVU            35.62          5.2887         
+8              VT             35.29          6.346417       
+9              UConn          29.06          4.187838       
+10             MSU            29.06          5.653152       
+11             Mich           28.58          6.459561       
+12             UVA            8.56           2.461702       
+13             Delaware       8.28           6.117703       
+14             JMU            7.84           2.144842       
+15             IwSt           6.99           3.90938        
+16             SJU            6.01           2.207879       
+17             Maryland       3.95           3.059338       
+18             Penn           2.72           2.12803        
+19             Stanford       2.64           2.394804       
+20             Pitt           2.45           1.841043       
+21             NW             2.31           2.705206       
+22             Miami          2.27           1.62736        
+23             Mizzou         1.54           1.891864       
+24             GTWN           1.4            1.670275       
+25             ND             1.28           1.738067       
+26             Purdue         1.17           2.113314       
+27             Drexel         0.93           1.492344       
+28             CMU            0.0            0.707107       
+
+-----------------------------Meet Score-----------------------------
+
+Position       Team           Points         
+1              PSU            224            
+2              ILL            93             
+3              Wisc           85             
+4              OSU            80             
+5              IU             52             
+6              Minn           37             
+7              VT             35             
+8              MSU            35             
+9              WVU            34             
+10             UConn          26             
+11             Mich           24             
+12             UVA            10             
+13             IwSt           8              
+14             Delaware       8              
+15             JMU            6              
+16             SJU            4              
+17             Pitt           3              
+18             Penn           2              
+19             Miami          2              
+20             Stanford       1              
+21             Maryland       1              
+22             GTWN           1              
